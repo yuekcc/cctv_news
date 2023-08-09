@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 export default async function (url) {
 	return new Promise((resolve, reject) => {
 		fetch(url, {
