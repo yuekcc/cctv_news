@@ -1,8 +1,9 @@
 import { fetchNews } from './fetch_news.js';
 
-let startDate = 26;
-let startMonth = 5;
-let thatDate = new Date(2022, startMonth, startDate);
+let startDate = 1;
+let startMonth = 0;
+let startYear = 2022
+let thatDate = new Date(startYear, startMonth, startDate);
 let today = new Date();
 
 async function fetchHistory() {
@@ -11,7 +12,7 @@ async function fetchHistory() {
     await new Promise((resolve) => setTimeout(resolve, 1000));
 
     startDate++;
-    thatDate = new Date(2022, startMonth, startDate);
+    thatDate = new Date(startYear, startMonth, startDate);
   }
 }
 
