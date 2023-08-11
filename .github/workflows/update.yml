@@ -8,7 +8,7 @@ on:
 
 jobs:
   update:
-    name: Update today xin wen lian bo
+    name: daily fetch
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -20,9 +20,9 @@ jobs:
       - run: git config --local user.email "github-actions[bot]@github.com"
       - run: git config --local user.name "github-actions[bot]"
       - run: git add .
-      - run: git commit -m "AUTO UPDATE [bot]"
+      - run: git commit -m "[bot] AUTO UPDATE"
       - name: Push master changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: node18
