@@ -1,0 +1,733 @@
+                <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="filetype" content="3"> 
+	<meta name="publishedtype" content="1"> 
+	<meta name="pagetype" content="1"> 
+	
+	<meta name="author" content="常悦"> 
+	<meta name="source" content="央视网"> 
+		
+	
+	<title>[视频]习近平在中国人民大学考察时强调 坚持党的领导传承红色基因扎根中国大地 走出一条建设中国特色世界一流大学新路_CCTV节目官网-CCTV-1_央视网(cctv.com)</title>
+	<meta name="catalogs" content="PAGE4y8I53JvSWE8DlRSMlbu160121"> 
+	<meta name="contentid" content="VIDEzQ5NV13hybyI4KrSmHZg220425">
+	<meta name=keywords content="习近平 中国人民大学 考察时 世界一流大学">
+	<meta name=description content="习近平在中国人民大学考察时强调：坚持党的领导传承红色基因扎根中国大地，走出一条建设中国特色世界一流大学新路。">
+	<meta name="spm-id" content="C52056131267">
+	<meta property="og:title" content="[视频]习近平在中国人民大学考察时强调 坚持党的领导传承红色基因扎根中国大地 走出一条建设中国特色世界一流大学新路" />
+	<meta property="og:image" content="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/4/26/VIDE4YVslqnmhvv5D2FbBcTy220426.jpg" />
+	<meta property="og:description" content="习近平在中国人民大学考察时强调：坚持党的领导传承红色基因扎根中国大地，走出一条建设中国特色世界一流大学新路。" />
+	<SCRIPT LANGUAGE="JavaScript">
+		var url_domainname=location.href;           
+		var num_1= url_domainname.split("//")[1];
+		var domainame_ = num_1.split("/")[0];
+		var type_ = num_1.split(".")[0];
+		var commentTitle = "[视频]习近平在中国人民大学考察时强调 坚持党的领导传承红色基因扎根中国大地 走出一条建设中国特色世界一流大学新路"; /*评论标题*/
+		/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+		var itemid1="VIDEzQ5NV13hybyI4KrSmHZg220425";/*正文页id，赋值给留言评论模块的参数之一*/
+		var commentUrl = "https://tv.cctv.com/2022/04/25/VIDEzQ5NV13hybyI4KrSmHZg220425.shtml";
+		var column_id = "TOPC1451528971114112";/*专题id*/
+		var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+		var video_ad_tvcctvlanmu = "";
+		var domainname = domainame_;
+		var chnl_domain = domainame_;
+		var video_ad_primary_column_id = sub_column_id;		  
+		var video_ad_channel_id="CHAL1450952056131267";
+		var sobey_video_flag = '1';
+		var type=type_;
+		var pindao_1 = "CHAL1450952056131267";			
+		var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+		var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+		var new_str = times_str.replace(/ /g,'-');
+		var arr = new_str.split("-");
+		var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+		var timeint=datum.getTime()/1000;
+		var html;
+		var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+		function loadData(){
+		var urls="http://bbs.cntv.cn/cctvapi/Comment/icms_comment.php?id="+id+"&type="+type;
+		html = $.ajax({
+		url: urls,
+		async: false
+		}).responseText; 
+		html =html.replace('article_comment_count=','').replace(';','');
+		html = "评论("+html+")";
+		$("#content").html(html);
+		}
+	</SCRIPT>
+	
+		
+		<script type="text/javascript">
+				var commentimg="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/4/26/VIDE4YVslqnmhvv5D2FbBcTy220426.jpg";
+				var fdate='2022/04/25 19:15:03';
+		</script>
+		
+	
+
+	
+				
+					<meta name="applicable-device" content="pc" />
+<script type="text/javascript">
+function getParameter(args){
+	var url = window.location.href;
+	var paraString = url.substring(url.indexOf('?') + 1, url.length).split('&');//截取出url?后面的字符以&的字符
+	var paraObj = {};
+	for (var i = 0; j = paraString[i]; i++) {
+		paraObj[j.substring(0, j.indexOf('=')).toLowerCase()] = j.substring(j.indexOf("=") + 1, j.length);
+	}
+	var returnValue = paraObj[args.toLowerCase()];
+	if (typeof(returnValue) == 'undefined') {
+		return "";
+	}
+	else {
+		return returnValue;
+	}
+}
+
+var spm = getParameter("spm"); 
+
+var hrefUrl='//tv.cctv.com/v/lv/'+itemid1+'.html';
+
+var hrefUrlspm='//tv.cctv.com/v/lv/'+itemid1+'.html?spm='+spm;
+
+if(/AppleWebKit.*mobile/i.test(navigator.userAgent) || /Android/i.test(navigator.userAgent)|| (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+	if(spm!=''){
+	window.location.href=hrefUrlspm;
+	}else{
+	window.location.href=hrefUrl;
+	}
+}
+
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'http') {
+      	if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+      }
+    
+})();
+</script>
+				
+			
+
+  <!--sbhy-->
+	
+	<SCRIPT LANGUAGE="JavaScript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/4/26/VIDE4YVslqnmhvv5D2FbBcTy220426.jpg";</SCRIPT>
+	
+	<!--专题模版通用脚本统一调用-->
+	<link href="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452824190489560/LDRvideoStyle2020.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+	<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/cnt_nav_2020.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	<!--				 
+		 
+        var publishDate="20220425191503";
+    	
+	//-->
+
+	if ($('meta[property="og:image"]').attr("content")==""){
+      $('meta[property="og:image"]').attr("content","//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1530497060089773/dinton_20200305.jpg")
+    }
+	</script>	
+</head>
+
+<body id="bid" data-spm="P4y8I53JvSWE">
+
+	
+	<script type="text/javascript">
+		var _gsContentID = "";
+		_gsContentID = itemid1;
+		var _gsChannel="";
+		var testapp = "CCTV节目官网-CCTV-1";
+		var zipin_name = "新闻联播视频";
+		 _gsChannel = '/'+testapp+'/'+zipin_name+'/';
+	</script>
+	
+	
+	<!--二维码+置顶按钮-->
+	<div class="ycc2" style="display:none;position:fixed;_position:absolute;bottom:10px;_bottom:auto;left:50%;width:74px;height:53px;margin-left:510px;zoom:1 "> <span id="ggtop" style="float:left;"><a href="" onclick="window.scroll(0,0);this.blur();return false;"><img src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg" width="53" height="53" onmouseout="this.src='//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg'" onmouseover="this.src='//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/tophover.jpg'" alt="回到顶部" title="回到顶部" /></a></span> </div>
+	<!-- 全网统一通用通栏导航 --> 
+	
+
+	<div class="bg_top_h_tile">
+		<div class="bg_top_owner">
+			<link type="text/css" rel="stylesheet" href="//r.img.cctvpic.com/newcctv/tv/new/main/bannerbhy/style/style.css?1f9790b8738ed7ef622b87975ef48a60"/>
+<style>
+#bpopup{ width:100%;
+ height:100%;
+ position:absolute;
+ left:0px;
+ top:0px; 
+ z-index: 999999;display:none;}    
+ #popup{ width:100%;
+ height:100%;
+ background-color:#000;
+ filter:alpha(opacity=90);
+ -moz-opacity:0.9;
+ opacity:0.9;
+ position:absolute;
+ left:0px;
+ top:0px; 
+ z-index: 999;}    
+        #popupimg{
+        position: fixed;
+        width: 500px;
+        height: 300px;
+        margin: 0 auto;
+        padding: 0;
+        top: 50%;
+        left: 50%;
+        margin-left: -250px;
+        margin-top:-150px;
+        z-index: 9999;
+ filter:alpha(opacity=100);
+ -moz-opacity:1;
+ opacity:1;
+        }
+	 .popupc{
+			width: 23px;height: 30px;background:url("//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/Bottomplan.gif");position: absolute;left: 470px;top:2px;z-index: 999999;zoom: 1;background-color: #fff;
+		}
+    </style>
+   <script type="text/javascript">
+    	
+  if (navigator.userAgent.indexOf("Windows NT 5")!= -1) {
+	var browserxsj = navigator.appName;
+	var b_versionxsj = navigator.appVersion;
+	var versionxsj = b_versionxsj.split(";");
+	if (versionxsj[1] != undefined) {
+		var trim_Version = versionxsj[1].replace(/[ ]/g, "");
+		if (browserxsj == "Microsoft Internet Explorer") {
+			document.write(
+				'<div id="bpopup"><div id="popup"></div><div id="popupimg"><img src="//p5.img.cctvpic.com/uploadimg/2020/11/04/1604454416757824.png"/><div id="popupc" class="popupc" ></div></div></div>'
+			);
+			
+			document.getElementById("bpopup").style.display = "block";
+			document.body.style.overflow = "hidden";
+			document.body.style.height = "100%";
+			document.documentElement.style.overflow = "hidden";
+			document.documentElement.style.height = "100%";
+		}
+	}
+}
+//document.getElementById("popupc").onclick = function(){
+//　　 	document.getElementById('bpopup').style.display = "none";
+//document.body.removeAttribute("style");
+//document.documentElement.removeAttribute("style");
+//} 
+</script><div class="column_wrapper_160119">
+	
+		<div id="SUBD1453518594415440" data-spm="S15440">
+			<div class="retrieve"><div class="logo"><a href="http://tv.cctv.com/"><img width="245" height="100" src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/1/9/1547008602986_172.png" alt="央视网" title="央视网（www.cctv.com）由中央电视台主办，为国家重点新闻网站，是集新闻、信息、娱乐、服务为一体的具有视听互动特色的综合性门户网站。"></a></div>
+<div class="search" id="search"><div class="search_top"><div class="inputBox"><div class="inputVal"><span class="val2"><input type="text" name="qtext" id="mytxtdafdfasdf" class="input_txt2" value="大家都在搜"  onfocus="if(this.value==this.defaultValue){this.value='';}" onkeyup="checkSuggest(this.value)" autocomplete="off" disableautocomplete/><div class="sContent" id="sContent" style="display:none;"></div></span></div><span class="buttonVal"><input type="button" onclick="queryByInput(document.getElementById('mytxtdafdfasdf').value);return false"><input type="hidden" name="type" id="search_top_type" value="video"/></span></div><div id="ajaxdata2"></div><div id="ajaxTip"></div>
+<div class="optionBox">
+<form id="loginForm" name="loginForm">
+<table>
+<tr>
+<td align="right">
+<div id="SI_Top_Login" class="tn-title">
+<p id="SI_Top_Login_title"><a id="ccc" class="tn-tab">登录</a></p>
+<div id="SI_Top_LoginLayer" class="tn-topmenulist">
+<div class="kj">
+<div class="outlogin_layerbox_bylx">
+<div class="box">
+<div class="cur_move" style="cursor: move;"><a class="layerbox_close" href="javascript:;" onclick="document.getElementById('SI_Top_LoginLayer').style.display='none'">×</a></div>
+<div class="loginformlist">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><input class="styles" type="text" id = "username" value="帐号" onblur="if(this.value==''){this.value=this.defaultValue;}" onfocus="if(this.value==this.defaultValue){this.value='';}" name="username" autocomplete="off" onkeypress="getOnkeyDown_login(event)"><input type="hidden" name="service" id="service" value="client_transaction" /><input type="hidden" name="from" id="from" value="aaa" /></td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td><input type="text" style="display:block" onfocus="if(this.value==this.defaultValue){this.value='';}document.getElementById('passwd_view').style.display='none';document.getElementById('password').style.display='block';setTimeout(function(){document.getElementById('password').focus();},200); " onblur="if(this.value==''){this.value=this.defaultValue;}" value="密码" class="styles" id="passwd_view" name="passwd_view">
+<input type="password" lang = "" onkeypress="getOnkeyDown_login(event)" style="display:none" onfocus="document.getElementById('passwd_view').style.display='none';document.getElementById('password').style.display='block';" onblur="if(this.value==''){document.getElementById('passwd_view').style.display='block';document.getElementById('password').style.display='none';}" value="" class="styles" id="password" name="password"></td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" height="30">
+<tr>
+<td width="80"><a href="javascript:void(0);" onclick="loginDemo(); return false;" class="dl">登录</a></td>
+<td width="18"><input type="checkbox" id = "check_user" name="remuser"/></td>
+<td>下次自动登录</td>
+</tr>
+</table>
+</div>
+<div class="log_option"> <a class="forget_Pwd" target="_blank" href="https://reg.cntv.cn/forgetPassword/findPassword.jsp" >忘记密码</a><a class="register_lnk" href="#1" target="_blank">立即注册</a> </div>
+<div class="log_cooper"><i>使用合作网站账号登录</i><br />
+	<a id="weixin_url" href="https://oauth.passport.cntv.cn/OauthClientWeixin/OAuthWeixinClientServlet.do?method=login&cntv_callback=my">
+		<img title="微信" alt="微信" src="//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_wx_141230.png">
+	</a>
+	<a id="qq_url" href="https://oauth.passport.cntv.cn/OAuthQzoneClient/OAuthQZoneClientServlet.do?method=login&cntv_callback=my">
+		<img src="//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_qq_10886_140506.png" alt="QQ" title="QQ" />
+	</a>
+	<a id="xl_url" href="https://oauth.passport.cntv.cn/OAuthSinaClient/OAuthSinaClientServlet.do?cntv_callback=my">
+		<img src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1441519391707376/cooper_wb_13730_151019.png" alt="新浪网" title="新浪网" />
+	</a>
+	<a id="zfb_url" href="https://oauth.passport.cntv.cn/OAuthKaixinClient/connect/index.jsp?cntv_callback=my">
+		<img src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1456645307521846/zfb_14686_160513.png" width="16" height="16" alt="支付宝" title="支付宝" />
+	</a>
+	<!-- <a id="kx_url" href="https://oauth.passport.cntv.cn/OAuthKaixinClient/connect/index.jsp?cntv_callback=my">
+		<img src="//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_kx_10886_140506.png" alt="开心网" title="开心网" />
+	</a>
+	<a id="rr_url" href="https://oauth.passport.cntv.cn/OAuthRenRenClient/OAuthRenRenClientServlet.do?method=login&cntv_callback=my">
+		<img src="//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_rr_10886_140506.png" alt="人人网" title="人人网" />
+	</a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>|<span id="logout"><a id="register_1" href="#1" target="_blank">注册</a></span>|<a href="http://help.cctv.com/" target="_blank">帮助</a><a href="https://www.cctv.com" target="_blank">返回央视网 <i style="font-family:宋体">>></i></a></td>
+</tr>
+<tr>
+<td align="right"><a href="http://app.cctv.com/appkhdxz/pc/index.shtml" class="cc2" target="_blank">PC客户端</a><a href="http://app.cctv.com/appkhdxz/ydb/index.shtml" class="cc" target="_blank">移动客户端</a></td>
+</tr>
+</table>
+<input type="hidden" id="cookid" value="">
+<input type="hidden" id="nicknm">
+</form>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/md5login.js" type="text/javascript" charset="utf-8"></script>
+<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/crypto-js.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/jsencrypt.js" type="text/javascript" charset="utf-8"></script>
+
+<script language="javascript" charset="UTF-8" src="//www.cntv.cn/Library/passport/2013passport_style/js/login_new.js"></script>
+		</div>
+	
+</div>
+<div class="clear"></div><div class="gwA151201_ind01">
+	<div class="kj">
+	
+		<div class="nav">
+			<a href="https://tv.cctv.com/index.shtml" class="">首页</a>
+			<a href="https://tv.cctv.com/live/index.shtml" class="">直播</a>
+			<a href="https://tv.cctv.com/epg/index.shtml" class="">节目单</a>
+			</div>
+		<div class="nav2">
+			<div class="xl"><a id="pddq">频道大全</a>
+<div class="pddq_tp1">
+<div class="kjc">
+<a target = "_blank" href="https://tv.cctv.com/cctv1/index.shtml"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv2/index.shtml"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv3/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv4asia/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586745032_233.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv4europe/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586736612_798.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv4america/index.shtml"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv5/index.shtml"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv5plus/index.shtml"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586530639_661.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv6/index.shtml"><img src="//p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png" width="70" height="28" /></a>
+<div class="vspace"></div><div class="vspace"></div>
+<a target = "_blank" href="https://tv.cctv.com/cctv7/index.shtml"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564559495112_238.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv8/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv9/index.shtml"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv10/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv11/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv12/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv13/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv14/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv15/index.shtml"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png" width="70" height="28" /></a>
+<div class="vspace"></div><div class="vspace"></div>
+<a target = "_blank" href="https://tv.cctv.com/cctv16/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635162656944_362.png" width="70" height="28" /></a><a target = "_blank" href="https://tv.cctv.com/cctv17/index.shtml"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564582431720_401.png" width="70" height="28" /></a>
+
+</div>
+</div>
+</div>
+			<div class="xl2"><a id="lmdq"  href="https://tv.cctv.com/lm/index.shtml">栏目大全</a><div class="lmdq_tp1">
+<div class="kjc">
+<ul id="jmdq">
+<li class="cur"><a target = "_blank" href="https://tv.cctv.com/cctv1/index.shtml">综合</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv13/index.shtml">新闻</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv2/index.shtml">财经</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv3/index.shtml">综艺</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv4asia/index.shtml">中文国际</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv5/index.shtml">体育</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv6/index.shtml">电影</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv7/index.shtml">国防军事</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv8/index.shtml">电视剧</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv9/index.shtml">纪录</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv10/index.shtml">科教</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv11/index.shtml">戏曲</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv12/index.shtml">社会与法</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv14/index.shtml">少儿</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv15/index.shtml">音乐</a></li>
+<li><a target = "_blank" href="https://tv.cctv.com/cctv5plus/index.shtml">体育赛事</a></li>
+<li class="end"><a target = "_blank" href="https://tv.cctv.com/cctv17/index.shtml">农业农村</a></li>
+</ul>
+<div class="up_top" id="up_0" style="display:block">
+<iframe src="//tv.cctv.com/new/main/bannerbhy/navtop_xl0/index.shtml" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl0/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_1" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl1/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_2" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl2/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_3" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl3/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_4" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl4/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_5" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl5/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_6" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl6/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_7" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl7/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_8" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl8/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_9" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl9/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_10" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl10/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_11" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl11/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_12" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl12/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_13" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl13/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	
+</div>
+<div class="up_top" id="up_14" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl14/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	 	
+</div>
+<div class="up_top" id="up_15" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl5plus/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	 	
+</div>
+<div class="up_top" id="up_16" style="display:block">
+<iframe src="" data="//tv.cctv.com/new/main/bannerbhy/navtop_xl16/index.shtml" width="1000" height="54" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowTransparency="true" ></iframe>	 	
+</div>
+</div>
+</div></div>
+			<div class="xl3"><a id="yxg" href="https://tv.cctv.com/yxg/index.shtml">片库</a></div>
+		</div>
+		<div class="nav">
+			<a href="https://tv.cctv.com/4K/index.shtml" class="">4K专区</a>
+			<a href="https://tv.cctv.com/ty/m/index.shtml" class="">听音</a>
+			<a href="https://tv.cctv.com/top/index.shtml" class="">热榜</a>
+			<a href="https://tv.cctv.com/wsp/m/index.shtml" class="">微视频</a>
+		</div>
+	
+	</div>
+</div>
+	
+				
+					<script charset="gbk" language="javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1453426578618240/index20160129.js?11"></script>
+
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js"></script>
+<style type="text/css">
+.gwA151201_ind01 .nav2 .xl2 .lmdq_tp1 .kjc ul li{padding: 0 5px !important;}
+.gwA151201_ind01 .nav2 .xl .pddq_tp1 .kjc a{width: 103px !important;margin: 10px 4px !important;}
+</style>
+
+<script type="text/javascript">
+	setTimeout(function(){
+		thisid = 'codemobilei'
+	},500)
+</script>
+				
+			
+
+
+	
+				
+					<script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","v_id=&aplus&",id="tb-beacon-aplus",src=(location>"https"?"//js":"//js")+".data.cctv.com/__aplus_plugin_cctv.js,aplus_plugin_aplus_u.js")
+</script>
+				
+			
+
+
+			<div id="page_body">
+				<div style="height:10px;" class="vspace"></div>
+				<div class="column_wrapper" style="position:relative;z-index:9;">
+					<div class="cnt_nav">
+						<p>
+							
+								
+									<em class="">
+									
+										<a href="" target="_blank" id="xiaodaohang">CCTV节目官网-CCTV-1</a>
+										<b></b>
+									
+										</em>
+									
+										
+											<a href="https://tv.cctv.com/lm/xwlb/" target="_blank">
+											新闻联播</a> 
+										
+									
+								
+							
+						</p>
+						
+						<h3><!--repaste.title.begin-->[视频]习近平在中国人民大学考察时强调 坚持党的领导传承红色基因扎根中国大地 走出一条建设中国特色世界一流大学新路<!--repaste.title.end--></h3>
+						
+						
+						<p class="info" style="padding-left: 20px;">来源：<i style="padding-right:7px">央视网</i>2022年04月25日 19:15</p>
+						
+					</div>
+					<div style="height:20px;" class="vspace"></div>
+					<div class="video" id="container" style="height:598px;">
+						<div class="nr_1">
+							
+
+							<!--下面是播放器 start player-->
+								<script type="text/javascript">
+								var videokeyWord = "习近平 中国人民大学 考察时 世界一流大学";//暂未实现
+								var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+								var guid_Ad_VideoCode = "9855a83a2b3c443f9116546dee2ecaf0";
+								</script>
+								<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+								<script type="text/javascript" src="//www.cctv.com/playcfg/video_content.js"></script>
+								<script type="text/javascript">
+									var channelId = domainame_;//频道id
+									var adcalldomain = domainame_;
+									var width = "1000";
+									var height = "500";
+									var sorts = "1";
+									var guid = "9855a83a2b3c443f9116546dee2ecaf0";
+								</script>
+								<div id="myFlash" class="video_left" style="position: relative;"></div>
+								<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+								<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+								<script src="//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1567070010882321/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+								<script type="text/javascript">
+									var isHttps = location.href.substr(0, 5) == "https" ? "true": "false";
+									videoid="myFlash"
+									wvideo=width
+									hvideo=height;
+									t="tv";
+									var imgload = new Image();	
+									imgload.src = commentimg;
+									if(typeof fdate !="undefined"&&new Date(fdate).getTime()<1598284800000&&commentimg!=""){
+										if(imgload.complete){
+											if(!( /(iphone|ipad)/i.test(navigator.userAgent) || /(Android)/i.test(navigator.userAgent))&&imgload.width<=504){
+												postimg="//p5.img.cctvpic.com/uploadimg/2021/01/05/1609815177995478.jpg"
+												newplayer();
+											}else{
+												newplayer();
+											}
+										}else{
+											imgload.onload = function(){
+												if(!( /(iphone|ipad)/i.test(navigator.userAgent) || /(Android)/i.test(navigator.userAgent))&&imgload.width<=504){
+													postimg="//p5.img.cctvpic.com/uploadimg/2021/01/05/1609815177995478.jpg"
+													newplayer();
+												}else{
+													newplayer();
+												}
+											}
+										}
+									}else{
+										newplayer();
+									}
+								</script>
+
+						</div>
+						<div class="cnt_share">
+                            <style>
+                                    .cnt_share{background:#fff; height:63px; position:relative; z-index:9999}
+                            .cnt_share .icon em { display: inline-block; font-weight: normal; line-height: 25px;  }
+                            .cnt_share .icon{color:#333;float:left;margin:22px 0 0 19px;position:relative;width:198px; z-index:999}
+                            .cnt_share .icon a{display:inline-block;height:25px;margin-left:5px;position:absolute;top:0px;width:25px;}
+                            .cnt_share .icon a.ico1{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;background-position: 0 -8px;right:120px;}
+                            .cnt_share .icon a.ico2{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico2.png) no-repeat;background-position: 0 0px;right:90px;}
+                            .cnt_share .icon a.ico3{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;background-position: 0 -87px;right: 60px;}
+                            .cnt_share .icon a.ico4{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;background-position: 0 -48px;right:30px;}
+                            .cnt_share .icon a.ico1:hover{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;background-position: 0 -8px;}
+                            .cnt_share .icon a.ico2:hover{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover2.png) no-repeat;background-position: 0 0px;}
+                            .cnt_share .icon a.ico3:hover{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;background-position: 0 -87px;}
+                            .cnt_share .icon a.ico4:hover{background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;background-position: 0 -48px;}
+							.iphonesee_box {float: left;position: relative;margin: 22px 0 0 -100px;padding-bottom:19px;cursor:pointer}
+							.iphonesee_box .iphone_icon{display:block;width:70px;height:25px;background:url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/shoujibeij.png) no-repeat 0 0;padding-left:22px;color:#4e4c4c;font-size: 12px;font-family: "SimSun";line-height: 25px;text-decoration: none;position: absolute;left: 100px;margin-top: 2px;}
+							.iphonesee_box .iphone_icon.cur{background: url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/shoujibeij.png) no-repeat 0 -28px;}
+							.iphonesee_box .erweima_con{width:166px;height:136px;padding-top:28px;position: absolute;left:25px;top:25px;background: url(//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/bg02_20190226.png);text-align: center;display: none;}
+							.iphonesee_box .erweima_con .img{width:103px;height:102px;margin:0 auto;}
+							.iphonesee_box .erweima_con .img img{width: 100%;height:100%;}
+							.iphonesee_box .erweima_con p{color:#5a5e62;font-family: "Microsoft YaHei";font-size: 15px;line-height: 29px;margin-top:4px;}
+                                </style>
+                                <div class="bdsharebuttonbox">
+                                    <span class="icon">
+                                        <em>分享到：</em>
+                                        <a href="javascript:;" class="ico1" data-fx="wb-btn" title="新浪微博"></a>
+                                        <a href="javascript:;" class="ico2" data-fx="qq-btn" title="qq"></a>
+                                        <a href="javascript:;" class="ico3" data-fx="wx-btn" title="微信"></a>
+                                        <a href="javascript:;" class="ico4" data-fx="qz-btn" title="QQ空间"></a>
+                                    </span>
+									<span class="iphonesee_box">
+										<span class="iphone_icon" data-fx="code-btn">手机观看</span>
+										<div class="erweima_con" style="display: none;" id = "erweima_con"></div>
+									</span>
+                                </div>
+                                <script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/js/shareToSnsCommon1.1.js"></script>
+							<span class="shouji" onclick="clickZang()">
+								<a><i class="i_1">点赞</i></a>
+								<span class="share2"></span>
+							</span>
+							<span class="favor" style="float:left; margin:0; margin-top:22px; margin-left:12px; margin-right:37px;" onclick="getcollection()" id="weishouchang">
+								<a href="javascript:;" title="收藏" class="sc"><i>收藏</i></a>
+								<span class="sc"></span>
+							</span>
+							<span class="favor" style="float:left; margin:0; margin-top:22px; margin-left:12px; margin-right:37px; display:none;" onclick="delCollect()" id="yishouchang">
+								<a class="sc" style="background-image:url('//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/favor_hover.png')" title="收藏" href="javascript:;"><i style="color:#f0720b">已收藏</i></a>
+								<span class="sc"></span>
+							</span>
+							<span class="download" style="float:left; margin-left:15px">
+								<a href="http://app.cctv.com/appkhdxz/ydb/index.shtml"><i>客户端看</i></a>
+								<span class="xl">安装央视影音客户端，随时随地给你精彩！</span>
+							</span>
+						</div>
+						
+					</div>
+					<div style="height:40px;"></div>
+					<div class="model" id="about_txt">
+						
+								<div style="border-bottom:1px solid #e6e6e6;" class="mhd"><span class="title">相关稿件</span></div>
+								<div class="mbd">
+									<div class="cnt_bd"><!--repaste.body.begin--><p><strong>央视网消息</strong>（新闻联播）：在五四青年节即将到来之际，中共中央总书记、国家主席、中央军委主席习近平25日上午来到中国人民大学考察调研。习近平代表党中央，向全国各族青年致以节日的祝贺，向中国人民大学全体师生员工、向全国广大教育工作者和青年工作者致以诚挚的问候。习近平希望全国广大青年牢记党的教诲，立志民族复兴，不负韶华，不负时代，不负人民，在青春的赛道上奋力奔跑，争取跑出当代青年的最好成绩！</p><p>习近平强调，&ldquo;为谁培养人、培养什么人、怎样培养人&rdquo;始终是教育的根本问题。要坚持党的领导，坚持马克思主义指导地位，坚持为党和人民事业服务，落实立德树人根本任务，传承红色基因，扎根中国大地办大学，走出一条建设中国特色、世界一流大学的新路。广大青年要做社会主义核心价值观的坚定信仰者、积极传播者、模范践行者，向英雄学习、向前辈学习、向榜样学习，争做堪当民族复兴重任的时代新人，在实现中华民族伟大复兴的时代洪流中踔厉奋发、勇毅前进。</p><p>中国人民大学是中国共产党创办的第一所新型正规大学，前身是1937年诞生于抗日战争烽火中的陕北公学，以及后来的华北联合大学和北方大学、华北大学，在长期的办学实践中，注重人文社会科学高等教育和马克思主义教学与研究，被誉为&ldquo;我国人文社会科学高等教育领域的一面旗帜&rdquo;。</p><p>上午9时20分许，习近平在中国人民大学党委书记张东刚、校长刘伟陪同下，首先来到立德楼，观摩思政课智慧教室现场教学。习近平同青年学生一起就座，认真倾听并参与讨论，对学校立足自身优势，不断推进思政课教学改革创新，打造高精尖水平思政课的做法表示肯定。他强调，思想政治理论课能否在立德树人中发挥应有作用，关键看重视不重视、适应不适应、做得好不好。思政课的本质是讲道理，要注重方式方法，把道理讲深、讲透、讲活，老师要用心教，学生要用心悟，达到沟通心灵、启智润心、激扬斗志。青少年思想政治教育是一个接续的过程，要针对青少年成长的不同阶段，有针对性地开展思想政治教育。希望人民大学绵绵用力，久久为功，止于至善，为全国大中小学思政课教学提供更多&ldquo;金课&rdquo;。也鼓励各地高校积极开展与中小学思政课共建，共同推动大中小学思政课一体化建设。习近平勉励同学们坚定中国特色社会主义道路自信、理论自信、制度自信、文化自信，在全面建设社会主义现代化国家新征程中勇当开路先锋、争当事业闯将。</p><p>中国人民大学校史展设立于学校博物馆内。习近平来到这里，详细了解学校历史沿革、建设发展和近年来教学科研成果等情况。习近平强调，中国人民大学在抗日烽火中诞生，在党的关怀下发展壮大，具有光荣的革命传统和鲜明的红色基因。一定要把这一光荣传统和红色基因传承好，守好党的这块重要阵地。要加强校史资料的挖掘、整理和研究，讲好中国共产党的故事，讲好党创办人民大学的故事，激励广大师生继承优良传统，赓续红色血脉。</p><p>在博物馆门前广场上，习近平看望了老教授、老专家和中青年骨干教师代表，并同他们亲切交谈。看到老教授、老专家身体健康、精神矍铄，习近平非常高兴。他指出，中国人民大学历来是人才荟萃、名家云集的地方。老教授、老专家们为党的教育事业付出了巨大心血，作出了重要贡献。希望中青年教师向老教授老专家学习，立志成为大先生，在教书育人和科研创新上不断创造新业绩。习近平强调，建设世界一流的中国特色社会主义大学，培养社会主义建设者和接班人，必须有世界一流的大师。要高度重视教师队伍建设，特别是要加强中青年教师骨干的培养，把人民大学打造成为我国人文社会科学研究和教学领域的重要人才中心和创新高地。</p><p>中国人民大学图书馆以人文社会科学学术性文献馆藏为主，有藏书410余万册。习近平来到这里，考察馆藏红色文献、古籍集中展示，察看现代化检索平台和复印报刊资料等数字化学术资源，听取学校加强文献古籍保护利用，促进理论研究成果转化应用等情况介绍。习近平强调，人民大学馆藏红色文献，鉴证了我们党创办正规高等教育的艰辛历程，是十分宝贵的红色记忆，要精心保护好，逐步推进数字化，让更多的人受到教育、得到启迪。要运用现代科技手段加强古籍典藏的保护修复和综合利用，深入挖掘古籍蕴含的哲学思想、人文精神、价值理念、道德规范，推动中华优秀传统文化创造性转化、创新性发展。要加强学术资源库建设，更好发挥学术文献信息传播、搜集、整合、编辑、拓展、共享功能，打造中国特色、世界一流的学术资源信息平台，提升国家文化软实力。</p><p>随后，习近平来到世纪馆北大厅同中国人民大学师生代表座谈。中国人民大学党委书记张东刚、&ldquo;人民教育家&rdquo;国家荣誉称号获得者高铭暄、经济学院教授赵峰、新闻学院博士生周晓辉、哲学院本科生王海蓉先后发言，现场气氛轻松热烈。</p><p>在认真听取大家发言后，习近平发表重要讲话。他强调，我国有独特的历史、独特的文化、独特的国情，建设中国特色、世界一流大学不能跟在别人后面依样画葫芦，简单以国外大学作为标准和模式，而是要扎根中国大地，走出一条建设中国特色、世界一流大学的新路。中国人民大学从陕北公学成立之初就鲜明提出要培养&ldquo;革命的先锋队&rdquo;，到新中国成立之初提出培养&ldquo;万千建国干部&rdquo;，到改革开放新时期提出培养&ldquo;国民表率、社会栋梁&rdquo;，再到新时代提出培养&ldquo;复兴栋梁、强国先锋&rdquo;，始终不变的是&ldquo;为党育人、为国育才&rdquo;，展现了&ldquo;党办的大学让党放心、人民的大学不负人民&rdquo;的精神品格。希望中国人民大学落实立德树人根本任务，传承红色基因，让听党话、跟党走的信念成为人大师生的自觉追求。</p><p>习近平指出，高校是我国哲学社会科学&ldquo;五路大军&rdquo;中的重要力量。当前，坚持和发展中国特色社会主义理论和实践提出了大量亟待解决的新问题，世界百年未有之大变局加速演进，世界进入新的动荡变革期，迫切需要回答好&ldquo;世界怎么了&rdquo;、&ldquo;人类向何处去&rdquo;的时代之题。要坚持把马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合，立足中华民族伟大复兴战略全局和世界百年未有之大变局，不断推进马克思主义中国化时代化。加快构建中国特色哲学社会科学，归根结底是建构中国自主的知识体系。要以中国为观照、以时代为观照，立足中国实际，解决中国问题，不断推动中华优秀传统文化创造性转化、创新性发展，不断推进知识创新、理论创新、方法创新，使中国特色哲学社会科学真正屹立于世界学术之林。哲学社会科学工作者要做到方向明、主义真、学问高、德行正，自觉以回答中国之问、世界之问、人民之问、时代之问为学术己任，以彰显中国之路、中国之治、中国之理为思想追求，在研究解决事关党和国家全局性、根本性、关键性的重大问题上拿出真本事、取得好成果。要发挥哲学社会科学在融通中外文化、增进文明交流中的独特作用，传播中国声音、中国理论、中国思想，让世界更好读懂中国，为推动构建人类命运共同体作出积极贡献。</p><p>习近平强调，好的学校特色各不相同，但有一个共同特点，都有一支优秀教师队伍。对教师来说，想把学生培养成什么样的人，自己首先就应该成为什么样的人。培养社会主义建设者和接班人，迫切需要我们的教师既精通专业知识、做好&ldquo;经师&rdquo;，又涵养德行、成为&ldquo;人师&rdquo;，努力做精于&ldquo;传道授业解惑&rdquo;的&ldquo;经师&rdquo;和&ldquo;人师&rdquo;的统一者。教育是一门&ldquo;仁而爱人&rdquo;的事业，有爱才有责任。广大教师要严爱相济、润己泽人，以人格魅力呵护学生心灵，以学术造诣开启学生智慧，把自己的温暖和情感倾注到每一个学生身上，让每一个学生都健康成长，让每一个孩子都有人生出彩的机会。老师应该有言为士则、行为世范的自觉，不断提高自身道德修养，以模范行为影响和带动学生，做学生为学、为事、为人的大先生，成为被社会尊重的楷模，成为世人效法的榜样。</p><p>习近平指出，立足新时代新征程，中国青年的奋斗目标和前行方向归结到一点，就是坚定不移听党话、跟党走，努力成长为堪当民族复兴重任的时代新人。希望广大青年用脚步丈量祖国大地，用眼睛发现中国精神，用耳朵倾听人民呼声，用内心感应时代脉搏，把对祖国血浓于水、与人民同呼吸共命运的情感贯穿学业全过程、融汇在事业追求中。</p><p>习近平离开学校时，道路两旁站满了师生，大家激动地向总书记问好，齐声高呼&ldquo;青春向党、不负人民&rdquo;、&ldquo;复兴栋梁、强国先锋&rdquo;，习近平向大家挥手致意，掌声、欢呼声在校园内久久回荡。</p><p>王沪宁、丁薛祥及中央和国家机关有关部门负责同志参加有关活动。</p><!--repaste.body.end--></div>
+									
+								</div>
+								<div style="height:40px" class="vspace"></div>
+							
+					</div>
+					<div id="chbox01" class="mtab">
+						<div class="mtad_hd">
+							<ul class="change">
+								<li class="active">视频简介</li>
+								<li class="">栏目介绍</li>
+							</ul>
+						</div>
+						<div class="mtab_con">
+							 <div class="chblock" style="display: block;">
+								<div class="cbox2">
+									<div class="text_box_02">
+										
+										<p><em style="color:#424242;margin-left: 10px;">来源：</em>央视网</p>
+										<p><em style="color:#424242;margin-left: 10px;">更新时间：</em>2022年04月25日 19:15</p>
+										
+										<p><em style="color:#424242;margin-left: 10px;">视频简介：</em>习近平在中国人民大学考察时强调：坚持党的领导传承红色基因扎根中国大地，走出一条建设中国特色世界一流大学新路。</p>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+							<div class="chblock">
+								<div class="cbox2" id="cbox2">
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div style="height:20px;"></div>
+				</div>
+			</div>
+			<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452824190489560/LDRvideo2017.js" type="text/javascript"></script>
+			<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452824190489560/jqBackgroundPositionAnimate.js" type="text/javascript"></script>
+			<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1461144509336226/shoujierweima_0228.js" type="text/javascript"></script>
+			<script src="//p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1584515180381409/fanhuidinbu202004.js" type="text/javascript"></script>
+		</div>
+		<!--页脚-->
+		<!-- 全网统一通用页尾 -->
+		<center>
+		
+
+	
+				
+					<style type="text/css">
+ .bottom_sub { background:#1e63b0}
+ .bottom_sub .text_box{ background:#1e63b0; width:1000px; margin:0 auto;}
+ .bottom_sub .text_box h3 { text-align:center; overflow:hidden;  height:40px; line-height:40px; font-weight:normal; font-family:Arial,"宋体"; font-size:12px; color:#fff}
+ .bottom_sub .text_box h3 a{ color:#fff;text-decoration: none;}
+ 
+ #page_bottom{background:#fff;/*height:175px;*/}
+ #page_bottom .cntv_footer_hdc{border-top:none;margin:0 auto;width:1000px;}
+ 
+ #page_bottom .cntv_footer {
+     background: #fff none repeat scroll 0 0;
+     border-top: 0 solid #fcfcfd;
+     clear: both;
+     color: #666;
+     margin: 0 auto;
+     min-height: 10px;
+     width: 1000px;
+ }
+ #page_bottom .cntv_footer .bottom_link {
+     font-family: Arial,"宋体";
+     font-size: 12px;
+     line-height: 35px;
+     padding: 0;
+     text-align: center;
+ }
+ 
+ #page_bottom .cntv_footer .bottom_link a {
+     padding: 0 2px 0 4px;
+ 	 text-decoration: none;
+ }
+ #page_bottom .cntv_footer a {
+     color: #666;
+     margin: 0 1px;
+ 	 text-decoration: none;
+ }
+ 
+ #page_bottom .cntv_footer .bottom_copyright {
+     color: #666;
+     font-family: Arial,"宋体";
+     font-size: 12px;
+     margin: 0 auto;
+     min-height: 1px;
+     padding-bottom: 23px;
+     width: 802px;
+ }
+ 
+ #page_bottom .cntv_footer .bottom_copyright p {
+     float: none;
+     font-size: 12px;
+     line-height: 20px;
+     text-align: center;
+     width: auto;
+ }
+ 
+ #page_bottom .cntv_footer a {
+     color: #666;
+     margin: 0 1px;
+ 	 text-decoration: none;
+ }
+ </style>
+ <div id="page_bottom">
+ <div class="bottom_sub">
+ <div class="text_box">
+ <h3><a href="//www.cctv.com/">中央电视台网站</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//www.cctv.com/special/guanyunew/PAGE1381886879510187/index.shtml">关于CCTV.COM</a>&nbsp;&nbsp;|<!--&nbsp;&nbsp;<a href="http://www.cntv.cn/special/guanyunew/PAGE13818868795101877/index.shtml">人才招聘</a>&nbsp;&nbsp;|-->&nbsp;&nbsp;<a href="http://1118.cctv.com/chinese/index.shtml">总台总经理室</a></h3>
+ </div>
+ </div>
+ <div class="cntv_footer_hdc"><b></b></div>
+ <div class="cntv_footer">
+ <div class="bottom_link"><a href="http://www.tv.cn/" target="_blank">中国电视网</a>|<a href="http://cctvenchiridion.cctv.com/special/C22056/01/index.shtml" target="_blank">中广协会信息资料委员会</a>|<a href="http://cctvenchiridion.cctv.com/special/C20540/01/index.shtml" target="_blank">中广协会电视文艺工作委员会</a>|<a href="http://www.cndfilm.com/" target="_blank">中央新闻纪录电影制片厂</a></div>
+ <div class="bottom_copyright">
+ <p>中央广播电视总台 版权所有<br />
+ <a href="https://beian.miit.gov.cn/" target="_blank">京ICP证060535号</a>&nbsp;&nbsp;<a>网络文化经营许可证文网文[2010]024号</a><br />
+ <a>网上传播视听节目许可证号 0102004 新出网证（京）字098号</a> <a href="http://www.cctv.com/special/zlgy/zlgy/index.shtml" target="_blank">中国互联网视听节目服务自律公约</a>
+ </p>
+ <div class="clear"></div>
+ </div>
+ <div class="clear"></div>
+ </div>
+ <div class="cntv_footer_ftc"><b></b></div>
+ </div>
+				
+			
+
+
+		</center>
+		
+  <!--xbhy-->
+
+	</div>
+</body>
+</html>  
