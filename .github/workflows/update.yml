@@ -1,4 +1,4 @@
-name: Update today xin wen lian bo
+name: Daily Fetch for node18
 
 on:
   workflow_dispatch:
