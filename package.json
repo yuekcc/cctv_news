@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "fetch": "node index.js"
+    "fetch": "node index.js",
+    "rebuild-index": "node make-index.js"
   },
   "author": "",
   "license": "ISC",
