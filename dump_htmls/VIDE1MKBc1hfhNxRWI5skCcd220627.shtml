@@ -1,0 +1,322 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]【沿着总书记的足迹】谱写新时代首都发展崭新篇章</title>
+<meta name="contentid" content="VIDE1MKBc1hfhNxRWI5skCcd220627">
+<meta name=keywords content="【沿着总书记的足迹】谱写新时代首都发展崭新篇章">
+<meta name=description content="【沿着总书记的足迹】谱写新时代首都发展崭新篇章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]【沿着总书记的足迹】谱写新时代首都发展崭新篇章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="【沿着总书记的足迹】谱写新时代首都发展崭新篇章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]【沿着总书记的足迹】谱写新时代首都发展崭新篇章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDE1MKBc1hfhNxRWI5skCcd220627";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2022/06/27/VIDE1MKBc1hfhNxRWI5skCcd220627.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="【沿着总书记的足迹】谱写新时代首都发展崭新篇章";
+var commentimg3="//p5.img.cctvpic.com/fmspic/2022/06/27/aa2f700e365d4c0788ff4c54601a78a3-300.jpg";
+var commentimg2="//p3.img.cctvpic.com/fmspic/2022/06/27/aa2f700e365d4c0788ff4c54601a78a3-1.jpg";
+var commentimg1="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2022/6/27/VIDEblPhAjiZHoK9VPirkOAn220627.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2022/06/27 19:16:03';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2022/6/27/VIDEblPhAjiZHoK9VPirkOAn220627.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if(window.innerWidth  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "29c31b50ce8947c1a6bfc48da396bcde";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "【沿着总书记的足迹】谱写新时代首都发展崭新篇章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]【沿着总书记的足迹】谱写新时代首都发展崭新篇章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2022-06-27 19:16</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="【沿着总书记的足迹】谱写新时代首都发展崭新篇章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>【沿着总书记的足迹】谱写新时代首都发展崭新篇章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]【沿着总书记的足迹】谱写新时代首都发展崭新篇章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2022年06月27日 19:16</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">【沿着总书记的足迹】谱写新时代首都发展崭新篇章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：党的十八大以来，习近平总书记10次考察北京、18次对北京发表重要讲话，深刻阐述了&ldquo;建设一个什么样的首都、怎样建设首都&rdquo;这一重大时代课题，为做好新时代首都工作指明了方向。牢记总书记嘱托，北京市坚定不移从&ldquo;北京发展&rdquo;转向&ldquo;首都发展&rdquo;，从聚集资源求增长转向疏解功能谋发展，北京发生了新的历史性变化，开启了首都全面建设社会主义现代化新航程。</p><p>北京是我们伟大祖国的首都。&ldquo;建设一个什么样的首都、怎样建设首都&rdquo;，凝聚了以习近平同志为核心的党中央对首都历史、现状和未来的诸多战略思考和判断。2014年2月，习近平总书记在北京市考察的首站选择在北京市规划展览馆，为北京明确城市战略定位，坚持和强化首都全国政治中心、文化中心、国际交往中心、科技创新中心的核心功能。</p><p>2017年2月，习近平总书记在北京考察时再次指出，北京要把握好战略定位，着力提升首都核心功能。</p><p>按照习近平总书记的指示精神，北京市规划先行，制定新版城市总体规划，将新时代首都发展居于统领地位，全市各项工作向此聚焦，做到纲举目张。</p><p>建设和管理好首都，是国家治理体系和治理能力现代化的重要内容。2017年2月，习近平总书记在北京考察时指出，城市规划建设做得好不好，最终要用人民群众满意度来衡量。要坚持人民城市为人民，以北京市民最关心的问题为导向。2019年春节前夕，习近平总书记慰问基层干部群众，在居民家里、物业服务站、路边小餐馆、快递服务点，都留下了他的足迹。总书记强调，要让大家居住更舒适、生活更美好，解决好大家关心的实际问题。</p><p>牢记总书记嘱托，北京市坚持民有所呼、我有所应，创新开展&ldquo;吹哨报到&rdquo;&ldquo;接诉即办&rdquo;，并向&ldquo;未诉先办&rdquo;主动治理深化，形成了以市民诉求驱动超大城市治理的生动改革实践。</p><p>北京作为一座人口超过2000万的超大型城市，如何遏制&ldquo;摊大饼&rdquo;式的发展？习近平总书记指出，要调整疏解非首都核心功能，突出高端化、服务化、集聚化、融合化、低碳化。</p><p>按照总书记绘就的蓝图，北京市深入实施疏解整治促提升专项行动。2014年以来，北京累计退出一般制造和污染企业约3000家，疏解提升区域性批发市场和物流中心近1000个，常住人口、城六区常住人口连续5年下降，细颗粒物PM2.5年均浓度降至33微克/立方米。</p><p>迁得出去、落得下来，以疏解非首都功能为&ldquo;牛鼻子&rdquo;的京津冀协同发展这一重大国家战略初见成效。环首都&ldquo;一小时交通圈&rdquo;逐步扩大，北京流向津冀技术合同成交额达1760.4亿元。</p><p>高水平规划建设北京城市副中心，与河北雄安新区形成北京新的两翼，是以习近平同志为核心的党中央作出的重大决策部署。习近平总书记两次考察北京城市副中心，走进建设工地、大运河森林公园等地，强调建设北京城市副中心，是北京建城立都以来具有里程碑意义的一件大事，对新时代北京的发展是一个重大机遇。</p><p>落实总书记指示要求，北京城市副中心加速建设。2019年，北京市级行政中心正式迁入城市副中心。目前，行政办公、文化旅游、商务服务三大功能区已呈现生机活力。&ldquo;十四五&rdquo;期间每年保持千亿以上投资，未来将承接中心城市40万至50万人口疏解，带动廊坊北三县地区发展，成为京津冀协同发展的桥头堡。</p><p>一个城市的历史遗迹、文化古迹、人文底蕴是城市生命的一部分。2014年2月、2019年2月，习近平总书记两次走进北京的胡同，与居民一起包饺子、炸饹馇、聊家常，强调要把老城区改造提升同保护历史遗迹、保存历史文脉统一起来，让历史文化和现代生活融为一体。</p><p>牢记总书记的嘱托，党的十八大以来，北京市加快实施城市更新行动，治理近4000条背街小巷，完成老旧小区改造2041个；利用拆违腾退土地&ldquo;留白增绿&rdquo;近8500公顷，核心区的历史文化街区大幅提升。中心城区逐渐静了下来，古今交融、壮美有序的城市形象逐步展现。</p><p>京畿大地，宏图徐展，千年古都迎来新气象。北京市&ldquo;五子&rdquo;联动融入新发展格局，着力构建高精尖经济结构，现代服务业优势更加凸显，数字经济增加值占地区生产总值比重超四成。人均地区生产总值和全员劳动生产率始终保持全国领先。北京正以昂扬的姿态，奋力谱写新时代京华大地崭新篇章。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>

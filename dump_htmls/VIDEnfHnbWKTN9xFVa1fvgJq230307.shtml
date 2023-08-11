@@ -1,0 +1,322 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]十四届全国人大一次会议举行第二次全体会议</title>
+<meta name="contentid" content="VIDEnfHnbWKTN9xFVa1fvgJq230307">
+<meta name=keywords content="十四届全国人大一次会议 人大工作">
+<meta name=description content="十四届全国人大一次会议举行第二次全体会议。">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]十四届全国人大一次会议举行第二次全体会议" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="十四届全国人大一次会议举行第二次全体会议。" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]十四届全国人大一次会议举行第二次全体会议"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEnfHnbWKTN9xFVa1fvgJq230307";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2023/03/07/VIDEnfHnbWKTN9xFVa1fvgJq230307.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="十四届全国人大一次会议举行第二次全体会议。";
+var commentimg3="//p1.img.cctvpic.com/fmspic/2023/03/07/d1332f6041ac4bc18b408ae12e4705ea-300.jpg";
+var commentimg2="//p1.img.cctvpic.com/fmspic/2023/03/07/d1332f6041ac4bc18b408ae12e4705ea-1.jpg";
+var commentimg1="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2023/3/7/VIDEPpUV6PebzMW790Ol6ozt230307.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2023/03/07 19:17:22';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2023/3/7/VIDEPpUV6PebzMW790Ol6ozt230307.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if(window.innerWidth  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "d1332f6041ac4bc18b408ae12e4705ea";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "十四届全国人大一次会议 人大工作";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]十四届全国人大一次会议举行第二次全体会议</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2023-03-07 19:17</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="十四届全国人大一次会议 人大工作";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>十四届全国人大一次会议举行第二次全体会议。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]十四届全国人大一次会议举行第二次全体会议</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2023年03月07日 19:17</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">十四届全国人大一次会议举行第二次全体会议。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：十四届全国人大一次会议7日下午在北京人民大会堂举行第二次全体会议，听取和审议全国人大常委会工作报告和最高人民法院工作报告、最高人民检察院工作报告，听取关于国务院机构改革方案的说明。</p><p>习近平、李强、赵乐际、王沪宁、韩正、蔡奇、丁薛祥、李希等出席会议。</p><p>会议应出席代表2977人，出席2943人，缺席34人，出席人数符合法定人数。</p><p>大会主席团常务主席、执行主席李鸿忠主持会议。</p><p>受十三届全国人大常委会委托，栗战书委员长向大会报告全国人大常委会工作。栗战书在报告中指出，过去一年，在以习近平同志为核心的党中央坚强领导下，全国人大常委会认真贯彻党的十九大、二十大精神，坚持高质量做好立法工作，制定法律5件，修改法律9件，通过有关法律问题和重大问题的决定4件，作出法律解释1件；坚持高质量做好监督工作，检查5件法律的实施情况，听取审议23个监督工作报告，开展专题询问，进行8项专题调研；坚持高质量做好代表工作，办理代表议案487件、建议9349件，共有100多人次代表参与常委会、专门委员会、工作委员会的工作；坚持高质量做好外事工作；依法任免国家机关工作人员393人次，圆满完成十三届全国人大五次会议确定的任务。</p><p>栗战书在报告中说，十三届全国人大常委会的五年任期，正逢党和国家事业蓬勃发展的伟大历史变革时期。常委会深刻领悟&ldquo;两个确立&rdquo;的决定性意义，增强&ldquo;四个意识&rdquo;、坚定&ldquo;四个自信&rdquo;、做到&ldquo;两个维护&rdquo;，始终坚定维护党中央权威和集中统一领导，坚决贯彻党的理论和路线方针政策，牢牢把握人大工作正确方向，紧跟党中央重大决策部署，紧贴人民群众对美好生活的期盼，紧扣推进国家治理体系和治理能力现代化的需求，贯彻全过程人民民主重大理念，紧紧依靠全体代表，依法行使立法权、监督权、决定权、任免权，切实履行党和人民赋予的光荣职责，努力做到不负党中央重托、不负人民期望的庄严承诺。</p><p>栗战书在报告中说，五年来，通过宪法修正案，制定法律47件，修改法律111件次，作出法律解释、有关法律问题和重大问题的决定决议53件，已经审议尚未通过的法律案、决定案19件；听取审议182个监督工作报告和其他报告，检查30件法律和决定实施情况，开展11次专题询问、33项专题调研；2282件代表议案、43750件代表建议已全部办理完毕，代表对议案建议办理工作满意度达到98%；决定批准或者加入条约和重要协定36项；依法任免国家机关工作人员1515人次。主要开展了以下工作：一是全面贯彻实施宪法，维护宪法权威和尊严；二是完善中国特色社会主义法律体系，以良法促进发展、保障善治；三是用好宪法赋予人大的监督权，实行正确监督、有效监督、依法监督；四是发挥人大代表作用，做到民有所呼、我有所应；五是发挥人大对外交往优势，服务党和国家外交大局；六是以政治建设为统领，切实加强常委会自身建设。</p><p>栗战书在报告中说，五年的实践，进一步深化了我们对人民代表大会制度科学内涵、基本特征和本质要求的认识，这就是：必须坚持中国共产党的领导，必须坚持习近平新时代中国特色社会主义思想，必须坚持中国特色社会主义政治发展道路，必须坚持全过程人民民主重大理念，必须坚持人民代表大会制度，必须坚持宪法确立的国家根本任务、发展道路、奋斗目标。</p><p>在对今后一年工作的建议中，栗战书指出，2023年是全面贯彻落实党的二十大精神的开局之年，常委会工作一是做好宪法实施和立法工作；二是增强人大监督实效；三是提升代表工作水平；四是做好人大对外交往；五是加强常委会自身建设。</p><p>最高人民法院院长周强在最高人民法院工作报告中指出，2022年，全国法院各项工作稳中有进。最高人民法院受理案件18547件，审结13785件；地方各级人民法院和专门人民法院受理案件3370.4万件，审结、执结3081万件，结案标的额9.9万亿元。</p><p>周强在报告中表示，五年来，最高人民法院坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平法治思想，全面贯彻党的十九大和十九届历次全会精神，认真学习贯彻党的二十大精神，忠实履行宪法法律赋予的职责，推动人民法院工作实现新变革新发展。一是坚决维护国家安全、社会安定、人民安宁；二是依法服务构建新发展格局、推动高质量发展；三是坚持走好中国特色司法为民之路；四是坚决守住维护社会公平正义的最后一道防线；五是司法体制改革和智慧法院建设取得重大进展；六是锻造忠诚干净担当的法院铁军。</p><p>在报告中，周强从5个方面对2023年工作提出建议：以习近平法治思想为指引，坚定不移走中国特色社会主义法治道路；更好统筹发展和安全，依法服务高水平安全和高质量发展；坚持以人民为中心，扎实推进司法为民、公正司法；深化司法体制改革，加快推进审判体系和审判能力现代化；坚持全面从严治党、从严治院，加强法院队伍建设。</p><p>最高人民检察院检察长张军在最高人民检察院工作报告中指出，五年来，在以习近平同志为核心的党中央坚强领导下，在全国人大及其常委会有力监督下，最高人民检察院创新构建刑事、民事、行政、公益诉讼&ldquo;四大检察&rdquo;新格局，践行人民至上，能动履行宪法法律赋予的法律监督职责，人民检察事业实现新的跨越发展。2018年至2022年，全国检察机关共办理各类案件1733.6万件，比前五年上升40%。与2018年相比，2022年受理审查起诉案件上升2.8%，办理民事、行政、公益诉讼案件分别上升1.5倍、3.3倍和72.6%。</p><p>在报告中，张军从6个方面回顾过去五年工作：一是维护安全稳定，以能动检察助力中国之治；二是聚焦服务大局，以能动检察促推高质量发展；三是坚持司法为民，以能动检察保障民生福祉；四是加强诉讼监督，以能动检察维护司法公正；五是拓展公益诉讼，以能动检察守护公共利益；六是坚持从严治检，以能动检察锤炼过硬队伍。</p><p>张军在报告中对2023年工作提出建议：一是深入学习贯彻习近平新时代中国特色社会主义思想；二是坚决维护国家安全和社会稳定；三是充分运用法治力量服务高质量发展；四是提升法律监督能力；五是深化司法体制综合配套改革；六是建设堪当重任的检察铁军。</p><p>国务院总理李克强提请审议的国务院机构改革方案的议案指出，中国共产党第二十次全国代表大会对深化机构改革作出重要部署。党的二十届二中全会审议通过了《党和国家机构改革方案》，同意将其中涉及国务院机构改革的内容提交第十四届全国人民代表大会第一次会议审议。现将根据《党和国家机构改革方案》形成的《国务院机构改革方案》提请第十四届全国人民代表大会第一次会议审议。</p><p>受国务院委托，国务委员兼国务院秘书长肖捷作关于国务院机构改革方案的说明。肖捷在说明中指出，国务院机构改革作为党和国家机构改革的一项重要任务，重点是加强科学技术、金融监管、数据管理、乡村振兴、知识产权、老龄工作等重点领域的机构职责优化和调整，转变政府职能，加快建设法治政府。</p><p>这次国务院机构改革的具体内容如下：重新组建科学技术部；组建国家金融监督管理总局；深化地方金融监管体制改革；中国证券监督管理委员会调整为国务院直属机构；统筹推进中国人民银行分支机构改革；完善国有金融资本管理体制；加强金融管理部门工作人员统一规范管理；组建国家数据局；优化农业农村部职责；完善老龄工作体制；完善知识产权管理体制；国家信访局调整为国务院直属机构；精减中央国家机关人员编制。按照上述方案调整后，除国务院办公厅外，国务院设置组成部门仍为26个。</p><p>大会执行主席王宁、刘艺良、刘宁、李秀领、陈刚、郑栅洁、倪岳峰、景俊海、楼阳生在主席台执行主席席就座。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：谢博韬</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>

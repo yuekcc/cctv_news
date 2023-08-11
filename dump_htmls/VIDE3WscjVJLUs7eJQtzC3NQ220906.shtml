@@ -1,0 +1,322 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]【领航中国】中国经济迈上现代化新征程</title>
+<meta name="contentid" content="VIDE3WscjVJLUs7eJQtzC3NQ220906">
+<meta name=keywords content="【领航中国】中国经济迈上现代化新征程">
+<meta name=description content="【领航中国】中国经济迈上现代化新征程">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]【领航中国】中国经济迈上现代化新征程" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="【领航中国】中国经济迈上现代化新征程" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]【领航中国】中国经济迈上现代化新征程"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDE3WscjVJLUs7eJQtzC3NQ220906";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2022/09/06/VIDE3WscjVJLUs7eJQtzC3NQ220906.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="【领航中国】中国经济迈上现代化新征程";
+var commentimg3="//p4.img.cctvpic.com/fmspic/2022/09/06/bea82b68432e424dbfc8cf21ef2da66e-300.jpg";
+var commentimg2="//p4.img.cctvpic.com/fmspic/2022/09/06/bea82b68432e424dbfc8cf21ef2da66e-1.jpg";
+var commentimg1="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/9/6/VIDEfWrTqSJ6tW25x0l7WKyf220906.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2022/09/06 19:15:36';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/9/6/VIDEfWrTqSJ6tW25x0l7WKyf220906.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if(window.innerWidth  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "bea82b68432e424dbfc8cf21ef2da66e";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "【领航中国】中国经济迈上现代化新征程";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]【领航中国】中国经济迈上现代化新征程</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2022-09-06 19:15</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="【领航中国】中国经济迈上现代化新征程";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>【领航中国】中国经济迈上现代化新征程。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]【领航中国】中国经济迈上现代化新征程</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2022年09月06日 19:15</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">【领航中国】中国经济迈上现代化新征程。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：党的十八大以来，以习近平同志为核心的党中央统筹中华民族伟大复兴战略全局和世界百年未有之大变局，以坚定的战略定力、高超的政治智慧、巨大的改革勇气和果敢的创新精神，领航中国经济巨轮乘风破浪，使中华民族迎来了从站起来、富起来到强起来的伟大飞跃，完成了全面建成小康社会的千年夙愿，开创了中国式现代化新道路，为实现中华民族伟大复兴提供了更为坚实的物质基础。</p><p>田野上，稻谷飘香、玉米渐熟，从南到北一片农忙景象。今年全国夏粮丰收、早稻稳产，中国人的饭碗牢牢端在自己手上。</p><p>工厂里，技术改造，产品升级，高技术制造业在工业中占比由2012年的9.4%提高到2021年的15.1%。数字化浪潮重塑生产方式，大幅提升效率。</p><p>市场上，消费回稳，进出口两旺，新业态、新模式层出不穷，现代服务业持续保持快速增长，中国经济一二三产业结构更趋协调均衡。</p><p>十年，中国书写出人类发展史上辉煌篇章。十年之间，中国国内生产总值翻了一番，总量超过114万亿元，占世界经济比重从2012年的11.4%上升到超过18%，中国经济对世界经济增长的贡献总体上保持在30%左右，成为世界经济增长的最大引擎。</p><p>沧海横流，方显英雄本色。</p><p>2012年以来，世界经济持续低迷，国内经济长期积累的深层次结构性矛盾不断显现。习近平总书记站在时代前沿，洞察时代风云，把握时代脉搏，作出&ldquo;我国经济发展进入新常态&rdquo;的重大判断，明确&ldquo;稳中求进&rdquo;工作总基调，提出以供给侧结构性改革为主线，推动经济从高速增长转向高质量发展。在适应新形势、解决新问题、应对新挑战中形成的习近平经济思想，指引了新时代中国经济发展的伟大实践。</p><p>立足新发展阶段，完整、准确、全面贯彻新发展理念，构建新发展格局。中国经济在危机中育新机、于变局中开新局。</p><p>创新驱动，十年之间，科技进步对经济增长的贡献率从2012年的52.2%提高到60%以上，以新产业、新业态、新商业模式为代表的&ldquo;三新&rdquo;经济规模增长至近20万亿元，战略性新兴产业增加值在GDP中比重达到13.4%。中国迈入创新型国家行列，创新正成为引领中国经济发展的第一动力。</p><p>放眼中华大地，从京津冀到粤港澳，从长江之滨到黄河之畔，重大区域发展战略规划相继落地，新的区域增长极快速成长。十年之间，城乡居民人均收入差距逐步缩小，基本公共服务均等化扎实推进，城镇化率由53.1%上升到64.7%，协调发展铺开新画卷。</p><p>绿色发展奏响新乐章。十年来，我国以年均3%的能源消费增速支撑了年均6.5%的经济增速，能耗强度累计下降26.2%，单位GDP二氧化碳排放量累计下降大约34%，水电、核电、风电等清洁能源在能源消费总量中的占比超过四分之一。</p><p>今年8月31日，福建开出首趟中老铁路国际货运列车。目前，全国中老铁路国际货运列车运输货品由开通初期的100多种扩展到近2000种。</p><p>十年之间，我国贸易总额从2012年的4.4万亿美元连跨两个大台阶，增长到2021年的6.9万亿美元，中国商品出口占国际市场的份额由11%上升到15%，&ldquo;一带一路&rdquo;共建国家已由亚欧延伸至非洲、拉美、南太等区域，形成了全方位、高水平对外开放的新格局。</p><p>发展成果人民共享。十年之间，我国历史性地解决了困扰中华民族几千年的绝对贫困问题，近1亿农村贫困人口全部脱贫，在中华大地上全面建成了小康社会。人民获得感、幸福感、安全感显著增强。</p><p>长风万里启新程。</p><p>在全面建设社会主义现代化国家新征程、向第二个百年奋斗目标进军的关键时刻，有以习近平同志为核心的党中央的坚强领导，有十四亿多中国人民的团结一心，奋勇向前，中国经济必定能够穿越激流险滩，在更高质量、更有效率、更加公平、更可持续、更为安全的发展之路上阔步前行。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘洁</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>

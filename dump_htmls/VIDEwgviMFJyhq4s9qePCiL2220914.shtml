@@ -1,0 +1,322 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在乌兹别克斯坦媒体发表署名文章</title>
+<meta name="contentid" content="VIDEwgviMFJyhq4s9qePCiL2220914">
+<meta name=keywords content="习近平在乌兹别克斯坦媒体发表署名文章">
+<meta name=description content="习近平在乌兹别克斯坦媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在乌兹别克斯坦媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平在乌兹别克斯坦媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在乌兹别克斯坦媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEwgviMFJyhq4s9qePCiL2220914";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2022/09/14/VIDEwgviMFJyhq4s9qePCiL2220914.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平在乌兹别克斯坦媒体发表署名文章";
+var commentimg3="//p2.img.cctvpic.com/fmspic/2022/09/14/6306690407de4891b126e4bc1473e9a0-300.jpg";
+var commentimg2="//p2.img.cctvpic.com/fmspic/2022/09/14/6306690407de4891b126e4bc1473e9a0-1.jpg";
+var commentimg1="//p2.img.cctvpic.com/fmspic/2022/09/14/6306690407de4891b126e4bc1473e9a0-180.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2022/09/14 19:08:49';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p2.img.cctvpic.com/fmspic/2022/09/14/6306690407de4891b126e4bc1473e9a0-180.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if(window.innerWidth  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "6306690407de4891b126e4bc1473e9a0";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平在乌兹别克斯坦媒体发表署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在乌兹别克斯坦媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2022-09-14 19:08</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平在乌兹别克斯坦媒体发表署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在乌兹别克斯坦媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在乌兹别克斯坦媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2022年09月14日 19:08</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在乌兹别克斯坦媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：9月13日，在应米尔济约耶夫总统邀请对乌兹别克斯坦共和国进行国事访问并出席上海合作组织成员国元首理事会第二十二次会议前夕，国家主席习近平在乌兹别克斯坦《人民言论报》、乌兹别克斯坦国家通讯社等媒体发表题为《携手开创中乌关系更加美好的明天》的署名文章。文章全文如下：</p><p style="text-align: center;"><strong>携手开创中乌关系更加美好的明天</strong></p><p style="text-align: center;"><strong>中华人民共和国主席　习近平</strong></p><p>&ldquo;土地沃壤，稼穑备植，林树蓊郁，花果滋茂，多出善马。&rdquo;这是1300多年前中国唐代玄奘法师笔下描绘的撒马尔罕富饶美景。在这喜迎丰收的仲秋之月，应米尔济约耶夫总统的邀请，我即将再次来到撒马尔罕这座美丽的城市，同米尔济约耶夫总统共商中乌合作大计，并出席上海合作组织撒马尔罕峰会。</p><p>中国和乌兹别克斯坦都是文明古国，伟大的丝绸之路见证了两国人民两千多年的友好交往。中国西汉张骞、唐代玄奘、明代陈诚都到访过乌兹别克斯坦，在塔什干、撒马尔罕、纳沃伊等名城留下了来自东方的足迹。祖籍布哈拉的政治家赛典赤&middot;赡思丁曾担任中国元代时期云南行省平章政事，出生于撒马尔罕的天文历法学家伍儒曾于14世纪中期在南京参与修建天文台。他们是中乌友好的开拓者和先行者，他们的故事至今在两国民间传颂。</p><p>乌兹别克斯坦是中亚大国和地缘中心。独立31年来，乌兹别克斯坦国家建设和民族振兴事业取得丰硕成果。特别是近年来，在米尔济约耶夫总统领导下，乌兹别克斯坦人民开启了建设&ldquo;新乌兹别克斯坦&rdquo;新征程，各领域改革发展驶入快车道，国家面貌焕然一新，人民生活蒸蒸日上，国际地位显著提升。作为友好邻邦和全面战略伙伴，我们对此感到由衷高兴。</p><p>今年是中乌建交30周年。30年来，中乌关系的大树愈发根深蒂固、枝繁叶茂。两国始终相互尊重、睦邻友好、同舟共济、互利共赢，各领域合作取得实实在在的成果。</p><p>&mdash;&mdash;我们是彼此交心的好朋友。2016年以来，我同米尔济约耶夫总统保持密切交往，通过会晤、通话、互致信函等方式，建立起良好工作关系和深厚个人友谊。两国建立全面战略伙伴关系，在涉及彼此核心利益问题上相互支持，在推进各自发展战略方面相互助力，在扩大改革开放方面互学互鉴，为地区发展不断注入正能量。</p><p>&mdash;&mdash;我们是共同发展的好伙伴。中国是乌兹别克斯坦第一大贸易伙伴和主要投资来源国。2021年，双边贸易额超过80亿美元。今年上半年双边贸易额近50亿美元，正朝着全年100亿美元的目标稳步迈进。双方共建&ldquo;一带一路&rdquo;合作成果丰硕，重大项目有序推进。中国－中亚天然气管道4条管线全部过境乌兹别克斯坦。中亚第一长隧道&ldquo;安格连－帕普&rdquo;铁路隧道顺利贯通，中国－吉尔吉斯斯坦－乌兹别克斯坦公路、中国－哈萨克斯坦－乌兹别克斯坦铁路运力潜力不断释放，中吉乌铁路项目前期工作取得积极进展，乌兹别克斯坦正从&ldquo;陆锁国&rdquo;转变成&ldquo;陆联国&rdquo;。双方还积极开展新能源、农业、金融、现代通信等领域合作，增进了两国人民福祉。</p><p>&mdash;&mdash;我们是文明对话的好榜样。双方开展了艺术节、文艺展播、展览、研讨会等丰富多彩的交流活动，互派留学生、翻译出版书籍、拍摄电影、译播电视剧、开展地方交往和人员培训等方面合作如火如荼，有效促进两国民心相通。近年来，中方共为乌方培养了6500多名各行业专业人才，他们积极投身乌兹别克斯坦改革发展各项事业。孔子学院在塔什干、撒马尔罕落地生根，为乌兹别克斯坦培养了大批汉语人才，成为中乌友好的使者。两国旅游合作发展迅速，越来越多的中国公民踏访乌兹别克斯坦这片美丽的土地。我2013年访问撒马尔罕时启动的希瓦古城历史古迹保护修复项目已经圆满竣工，让希瓦这座古城更加绚烂夺目。</p><p>&mdash;&mdash;我们是相互帮扶的好兄弟。中乌两国唇齿相依、安危与共。双方在双边和上海合作组织等区域和多边层面密切协作，共同反对外部干涉，打击&ldquo;三股势力&rdquo;和跨国有组织犯罪、贩毒，加强情报交流，扩大人员培训，共筑安全屏障。新冠肺炎疫情发生以来，两国守望相助，风雨同行，积极开展抗疫合作。中国疫苗成为乌兹别克斯坦抗疫主力军并实现联合生产，抗新冠药物获批在乌兹别克斯坦临床使用，有效守护了两国人民生命安全。</p><p>两千多年的友好交往和30年的互利合作表明，中乌加强全面合作顺应历史潮流，符合两国人民根本利益。站在历史和未来的交汇点上，我们对中乌关系的明天充满信心，也满怀期待。</p><p>第一，我们要加大相互支持，巩固互信纽带。双方要从战略高度和长远角度擘画新时代中乌关系蓝图，加强高层交往，增进政治互信，深化治国理政经验交流，在涉及彼此核心利益问题上继续相互支持。中方坚定支持乌方走符合本国国情的发展道路，反对任何势力干涉乌兹别克斯坦内政。</p><p>第二，我们要深化互利合作，共谋发展繁荣。要加快两国发展战略对接，共同规划两国经贸、投资、重点项目等领域合作新路径。中国已步入新发展阶段，正在积极构建新发展格局，欢迎乌方搭乘中国发展快车，共享发展机遇。明年是共建&ldquo;一带一路&rdquo;倡议提出10周年，双方要以此为契机，继往开来，乘势而上，合力绘就精谨细腻的&ldquo;工笔画&rdquo;，共同实现高质量发展。双方还要扩大减贫扶贫合作，让中乌互利合作更多更好惠及两国人民。</p><p>中方愿同乌方一道，积极践行全球发展倡议，采取共同行动，维护广大发展中国家利益，共创普惠平衡、协调包容、合作共赢、共同繁荣的发展格局。</p><p>第三，我们要强化安全合作，化解风险挑战。双方要深化安全领域合作，旗帜鲜明反对任何势力破坏地区稳定局面，为两国发展营造安全外部环境。阿富汗是中乌邻国，一个和平、稳定、发展、繁荣的阿富汗，符合两国共同利益。中方赞赏并支持乌方在解决阿富汗问题中发挥独特作用。我们愿同乌方一道践行全球安全倡议，抵御新威胁新挑战，维护和平稳定和国际公平正义。</p><p>第四，我们要密切人文交流，促进民心相通。亲戚越走越近，朋友越交越深。中乌世代友好拥有深厚历史积淀，双方开展人文合作基础牢固、前景广阔。我们要扩大媒体、教育、卫生、文化、旅游、新闻、考古、地方交流等领域合作，加快互设文化中心和在乌兹别克斯坦设立鲁班工坊，建立多元互动的人文交流大格局，让中乌双边关系历久弥坚，让人民世代友好绵延不绝。</p><p>我这次在乌兹别克斯坦要出席上海合作组织撒马尔罕峰会。今年适逢《上海合作组织宪章》签署20周年和《上海合作组织成员国长期睦邻友好合作条约》签署15周年。本组织在宪章和条约确立的宗旨和原则指引下，践行&ldquo;上海精神&rdquo;，坚守初心使命，推动成员国共维稳定、共谋发展，树立了相互尊重、公平正义、合作共赢的新型国际关系典范，成为欧亚地区和国际事务中的重要建设性力量。</p><p>乌兹别克斯坦担任上海合作组织轮值主席国以来，克服新冠肺炎疫情等因素影响，加强同成员国沟通和协调，扎实开展各项工作，保持了本组织健康稳定发展势头。中方对此高度评价。相信在各方共同努力下，撒马尔罕峰会一定会取得丰硕成果，为构建更加紧密的上海合作组织命运共同体，促进地区和平稳定、发展繁荣作出更大贡献。</p><p>心有所向，路必不远。中方愿同乌方一道，牢记建交初心，把握历史机遇，在国家发展振兴的道路上继续携手前行，朝着构建中乌命运共同体的愿景和目标共同努力。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>

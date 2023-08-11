@@ -1,7 +1,7 @@
 import { fetchNews } from './fetch_news.js';
 
-let startDate = 1;
-let startMonth = 0;
+let startDate = 26;
+let startMonth = 5;
 let thatDate = new Date(2022, startMonth, startDate);
 let today = new Date();
 

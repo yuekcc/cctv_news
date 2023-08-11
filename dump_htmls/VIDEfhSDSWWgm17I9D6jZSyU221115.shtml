@@ -1,0 +1,322 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平同美国总统在巴厘岛举行会晤</title>
+<meta name="contentid" content="VIDEfhSDSWWgm17I9D6jZSyU221115">
+<meta name=keywords content="中美关系 造福两国 惠及世界">
+<meta name=description content="[视频]习近平同美国总统在巴厘岛举行会晤">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平同美国总统在巴厘岛举行会晤" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]习近平同美国总统在巴厘岛举行会晤" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平同美国总统在巴厘岛举行会晤"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEfhSDSWWgm17I9D6jZSyU221115";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2022/11/15/VIDEfhSDSWWgm17I9D6jZSyU221115.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]习近平同美国总统在巴厘岛举行会晤";
+var commentimg3="//p2.img.cctvpic.com/fmspic/2022/11/15/7a7d7de25e924e89a0a225acf05a77b7-300.jpg";
+var commentimg2="//p3.img.cctvpic.com/fmspic/2022/11/15/7a7d7de25e924e89a0a225acf05a77b7-1.jpg";
+var commentimg1="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/11/15/VIDEaDBLM6ZCf1vKFiwntTel221115.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2022/11/15 19:20:01';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2022/11/15/VIDEaDBLM6ZCf1vKFiwntTel221115.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if(window.innerWidth  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "7a7d7de25e924e89a0a225acf05a77b7";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "中美关系 造福两国 惠及世界";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平同美国总统在巴厘岛举行会晤</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2022-11-15 19:20</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="中美关系 造福两国 惠及世界";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平同美国总统在巴厘岛举行会晤。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平同美国总统在巴厘岛举行会晤</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2022年11月15日 19:20</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平同美国总统在巴厘岛举行会晤。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：当地时间11月14日下午，国家主席习近平在印度尼西亚巴厘岛同美国总统拜登举行会晤。两国元首就中美关系中的战略性问题以及重大全球和地区问题坦诚深入交换了看法。<br/></p><p>习近平指出，当前中美关系面临的局面不符合两国和两国人民根本利益，也不符合国际社会期待。中美双方需要本着对历史、对世界、对人民负责的态度，探讨新时期两国正确相处之道，找到两国关系发展的正确方向，推动中美关系重回健康稳定发展轨道，造福两国，惠及世界。<br/></p><p>习近平介绍了中国共产党第二十次全国代表大会主要情况和重要成果，指出，中国党和政府的内外政策公开透明，战略意图光明磊落，保持高度连续性和稳定性。我们以中国式现代化全面推进中华民族伟大复兴，继续把实现人民对美好生活的向往作为出发点，坚定不移把改革开放进行下去，推动建设开放型世界经济。中国继续坚定奉行独立自主的和平外交政策，始终根据事情本身的是非曲直决定自己的立场和态度，倡导对话协商、和平解决争端，深化和拓展全球伙伴关系，维护以联合国为核心的国际体系和以国际法为基础的国际秩序，推动构建人类命运共同体。中国将坚持和平发展、开放发展、共赢发展，做全球发展的参与者、推动者，同各国一起实现共同发展。<br/></p><p>习近平指出，世界正处于一个重大历史转折点，各国既需要面对前所未有的挑战，也应该抓住前所未有的机遇。我们应该从这个高度看待和处理中美关系。中美关系不应该是你输我赢、你兴我衰的零和博弈，中美各自取得成功对彼此是机遇而非挑战。宽广的地球完全容得下中美各自发展、共同繁荣。双方应该正确看待对方内外政策和战略意图，确立对话而非对抗、双赢而非零和的交往基调。我高度重视总统先生有关&ldquo;四不一无意&rdquo;的表态。中国从来不寻求改变现有国际秩序，不干涉美国内政，无意挑战和取代美国。双方应该坚持相互尊重、和平共处、合作共赢，共同确保中美关系沿着正确航向前行，不偏航、不失速，更不能相撞。遵守国际关系基本准则和中美三个联合公报，这是双方管控矛盾分歧、防止对抗冲突的关键，也是中美关系最重要的防护和安全网。<br/></p><p>习近平系统阐述了台湾问题由来以及中方原则立场。习近平强调，台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础，是中美关系第一条不可逾越的红线。解决台湾问题是中国人自己的事，是中国的内政。维护祖国统一和领土完整，是中国人民和中华民族的共同心愿。任何人想把台湾从中国分裂出去，都违背中国的民族大义，中国人民都绝不会答应！我们希望看到并始终致力于保持台海的和平稳定，但&ldquo;台独&rdquo;同台海和平稳定水火不容。希望美方言行一致，恪守一个中国政策和中美三个联合公报。总统先生多次讲过不支持&ldquo;台独&rdquo;，无意将台湾作为谋求对华竞争优势或遏制中国的工具。希望美方将总统先生的承诺落到实处。<br/></p><p>习近平指出，自由、民主、人权是人类的共同追求，也是中国共产党的一贯追求。美国有美国式民主，中国有中国式民主，都符合各自的国情。中国全过程人民民主基于中国国情和历史文化，体现人民意愿，我们同样感到自豪。任何国家的民主制度都不可能至善至美，都需要不断发展完善。对双方存在的具体分歧，可以进行探讨，前提是平等交流。所谓&ldquo;民主对抗威权&rdquo;不是当今世界的特点，更不符合时代发展的潮流。<br/></p><p>习近平指出，美国搞的是资本主义，中国搞的是社会主义，双方走的是不同的路。这种不同不是今天才有的，今后还会继续存在。中国共产党领导和中国社会主义制度得到14亿人民拥护和支持，是中国发展和稳定的根本保障。中美相处很重要一条就是承认这种不同，尊重这种不同，而不是强求一律，试图去改变甚至颠覆对方的制度。美方应将有关承诺体现在具体行动上，而不是说一套做一套。<br/></p><p>习近平强调，中美是两个历史文化、社会制度、发展道路不同的大国，过去和现在有差异和分歧，今后也还会有，但这不应成为中美关系发展的障碍。任何时候世界都有竞争，但竞争应该是相互借鉴、你追我赶，共同进步，而不是你输我赢、你死我活。中国有自强不息的光荣传统，一切打压和遏制只会激发中国人民的意志和热情。打贸易战、科技战，人为&ldquo;筑墙设垒&rdquo;，强推&ldquo;脱钩断链&rdquo;，完全违反市场经济原则，破坏国际贸易规则，只会损人不利己。我们反对把经贸科技交流政治化、武器化。当前形势下，中美两国共同利益不是减少了，而是更多了。中美不冲突、不对抗、和平共处，这是两国最基本的共同利益。中美两国经济深度融合，面临新的发展任务，需要从对方发展中获益，这也是共同利益。全球经济疫后复苏、应对气候变化、解决地区热点问题也离不开中美协调合作，这还是共同利益。双方应该相互尊重，互惠互利，着眼大局，为双方合作提供好的氛围和稳定的关系。<br/></p><p>拜登表示，我同习近平主席相识多年，保持着经常性沟通，但无论如何也代替不了面对面的会晤。祝贺你再次连任中共中央总书记。美中作为两个大国，有责任保持建设性关系。美方致力于保持两国元首以及政府各层级沟通渠道畅通，就双方存在分歧的问题开展坦诚对话，为应对气候变化、粮食安全等重要全球性挑战加强必要合作，发挥关键作用。这对美中两国和两国人民至关重要，对整个世界也十分重要。我愿重申，一个稳定和发展的中国符合美国和世界的利益。美国尊重中国的体制，不寻求改变中国体制，不寻求&ldquo;新冷战&rdquo;，不寻求通过强化盟友关系反对中国，不支持&ldquo;台湾独立&rdquo;，也不支持&ldquo;两个中国&rdquo;&ldquo;一中一台&rdquo;，无意同中国发生冲突。美方也无意寻求同中国&ldquo;脱钩&rdquo;，无意阻挠中国经济发展，无意围堵中国。<br/></p><p>拜登表示，美中关系如何发展，对未来世界走向至关重要。美中双方有共同责任向世界展示，美中能够管控分歧，避免和防止由于误解误判或激烈竞争演变成对抗甚至冲突。美方认同应确立指导美中关系的原则，可由双方团队在已有的共识基础上继续谈下去，争取尽早达成一致。美国政府奉行一个中国政策，不寻求利用台湾问题作为工具遏制中国，希望看到台海和平稳定。<br/></p><p>两国元首同意，双方外交团队保持战略沟通，开展经常性磋商。同意两国财金团队就宏观经济政策、经贸等问题开展对话协调。同意共同努力推动《联合国气候变化框架公约》第二十七次缔约方大会取得成功。双方就开展两国公共卫生、农业和粮食安全对话合作达成一致。同意用好中美联合工作组，推动解决更多具体问题。同意中美人文交流十分重要，鼓励扩大两国各领域人员交往。<br/></p><p>两国元首还就乌克兰危机等问题交换了意见。习近平指出，中方高度关切当前乌克兰局势。危机爆发后，我就提出了&ldquo;四个应该&rdquo;，前不久我又提出&ldquo;四个共同&rdquo;。面对乌克兰危机这样的全球性、复合性危机，有这么几条值得认真思考：一是冲突战争没有赢家；二是复杂问题没有简单解决办法；三是大国对抗必须避免。中方始终站在和平的一边，将继续劝和促谈，支持并期待俄乌双方恢复和谈，同时希望美国、北约、欧盟同俄罗斯开展全面对话。<br/></p><p>两国元首都认为，会晤是深入坦诚和建设性的，责成两国工作团队及时跟进和落实两国元首达成的重要共识，采取切实行动，推动中美关系重返稳定发展轨道。两国元首同意继续保持经常性联系。<br/></p><p>丁薛祥、王毅、何立峰等参加会见。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
