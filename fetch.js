@@ -1,26 +1,40 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+function dumpHtml(url, content) {
+  const filename = url.split('/').at(-1);
+  return fs.writeFile(path.join(__dirname, 'dump_htmls', filename), content, 'utf-8');
+}
+
 export default async function (url) {
-	return new Promise((resolve, reject) => {
-		fetch(url, {
-			"headers": {
-				"accept": "text/html, */*; q=0.01",
-				"accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
-				"cache-control": "no-cache",
-				"pragma": "no-cache",
-				"sec-ch-ua": "\"Microsoft Edge\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\"",
-				"sec-ch-ua-mobile": "?0",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-dest": "empty",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "same-origin",
-				"x-requested-with": "XMLHttpRequest",
-				"cookie": "cna=eY6BGb2h7yACAbSMsOm2vFG2; sca=5a4237a6; atpsida=6e052f524a88bc925aed09c0_1664038526_68",
-				"Referer": url,
-				"Referrer-Policy": "strict-origin-when-cross-origin"
-			},
-			"body": null,
-			"method": "GET"
-		}).then(res => {
-			resolve(res.text());
-		});
-	});
+  return fetch(url, {
+    headers: {
+      accept: 'text/html, */*; q=0.01',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      'cache-control': 'no-cache',
+      pragma: 'no-cache',
+      'sec-ch-ua': '"Microsoft Edge";v="107", "Chromium";v="107", "Not=A?Brand";v="24"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"Windows"',
+      'sec-fetch-dest': 'empty',
+      'sec-fetch-mode': 'cors',
+      'sec-fetch-site': 'same-origin',
+      'x-requested-with': 'XMLHttpRequest',
+      cookie: 'cna=eY6BGb2h7yACAbSMsOm2vFG2; sca=5a4237a6; atpsida=6e052f524a88bc925aed09c0_1664038526_68',
+      Referer: url,
+      'Referrer-Policy': 'strict-origin-when-cross-origin',
+    },
+    body: null,
+    method: 'GET',
+  })
+    .then((res) => {
+      return res.text();
+    })
+    .then((content) => {
+      dumpHtml(url, content);
+      return content;
+    });
 }

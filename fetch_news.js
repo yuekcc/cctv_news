@@ -5,7 +5,9 @@ import { fileURLToPath } from 'url';
 
 import getWeb from './fetch.js';
 
-// const __filename = fileURLToPath(import.meta.url);
+const readFile = (path) => fs.readFile(path, 'utf-8');
+const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 /**
@@ -16,9 +18,6 @@ const getDate = (date) => {
   const add0 = (num) => (num < 10 ? '0' + num : num);
   return '' + date.getFullYear() + add0(date.getMonth() + 1) + add0(date.getDate());
 };
-
-const readFile = (path) => fs.readFile(path, 'utf-8');
-const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
 
 /**
  * 获取新闻列表
@@ -183,6 +182,8 @@ const updateCatalogue = async ({ catalogueJsonPath, readmeMdPath, date, abstract
 };
 
 export async function fetchNews(date) {
+  console.log('\n\n=========================\n\n');
+
   // 当前日期
   const DATE = getDate(date);
   // /news 目录
