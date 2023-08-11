@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>《新闻联播》 20230416 19:00</title>
+<meta name="contentid" content="VIDEKHWC5xenCkPEAbftcQSw230416">
+<meta name=keywords content="新闻联播 宝晓峰 潘涛 上海 粮食安全 神舟十五号乘组 广交会 苏丹局势 枪击事件">
+<meta name=description content="《新闻联播》 20230416 19:00">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="《新闻联播》 20230416 19:00" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="《新闻联播》 20230416 19:00" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "《新闻联播》 20230416 19:00"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEKHWC5xenCkPEAbftcQSw230416";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2023/04/16/VIDEKHWC5xenCkPEAbftcQSw230416.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="《新闻联播》 20230416 19:00";
+var commentimg3="//p1.img.cctvpic.com/fmspic/2023/04/16/b761a571a72f41ad8924145dde81dc17-42492019-2.jpg";
+var commentimg2="//p1.img.cctvpic.com/fmspic/2023/04/16/b761a571a72f41ad8924145dde81dc17-42492019-0.jpg";
+var commentimg1="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2023/4/16/VIDEqZxSP9YOH31pG18zUgM7230416.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2023/04/16 19:00:03';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2023/4/16/VIDEqZxSP9YOH31pG18zUgM7230416.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "b761a571a72f41ad8924145dde81dc17";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "新闻联播 宝晓峰 潘涛 上海 粮食安全 神舟十五号乘组 广交会 苏丹局势 枪击事件";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">《新闻联播》 20230416 19:00</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2023-04-16 19:00</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="新闻联播 宝晓峰 潘涛 上海 粮食安全 神舟十五号乘组 广交会 苏丹局势 枪击事件";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>本期节目主要内容：
+1.《求是》杂志发表习近平总书记重要文章《加快构建新发展格局 把握未来发展主动权》；
+2.【新思想引领新征程】耕地保护成效明显 筑牢粮食安全根基；
+3.全国已春播粮食面积超1.4亿亩；
+4.【新时代新征程新伟业——真抓实干推动高质量发展】上海：聚焦实体经济 推进新型工业化；
+5.神舟十五号乘组刷新中国航天员单个乘组出舱活动纪录；
+6.长征七号遥七运载火箭运抵发射场 将执行天舟六号任务；
+7.第133届广交会：外商云集 看好中国经济；
+8.三部门：广交会展期内销售的进口展品享税收优惠；
+9.【一线调研】小商店触网记；
+10.新北京工人体育场昨晚整体亮相；
+11.国内联播快讯：
+（1）我国成功发射风云三号07星；
+（2）满洲里口岸进出境中欧班列累计突破20000列；
+（3）长春算力中心揭幕启动；
+（4）雄安新区白洋淀景区今起开始运营；
+（5）医保基金监管宣传月 多地举行活动普及医保政策；
+（6）全国大部分地区气温回升；
+12.苏丹首都等地发生武装冲突 至少56人死亡；
+13.俄称拦截乌火箭弹 乌称打击俄控制点 波兰和匈牙利禁止从乌克兰进口粮食；
+14.美国两州发生枪击事件 均涉青少年 美国民众抗议美国枪支暴力严重；
+15.国际联播快讯：
+（1）沙特将在伊朗马什哈德设临时领事馆机构；
+（2）韩国民众要求美国就监听窃听韩官员道歉；
+（3）英媒称医护均罢工将加深医疗体系危机；
+（4）美国又一工厂起火 当地发布疏散令。
+（《新闻联播》 20230416 19:00）</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">《新闻联播》 20230416 19:00</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2023年04月16日 19:00</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">本期节目主要内容：
+1.《求是》杂志发表习近平总书记重要文章《加快构建新发展格局 把握未来发展主动权》；
+2.【新思想引领新征程】耕地保护成效明显 筑牢粮食安全根基；
+3.全国已春播粮食面积超1.4亿亩；
+4.【新时代新征程新伟业——真抓实干推动高质量发展】上海：聚焦实体经济 推进新型工业化；
+5.神舟十五号乘组刷新中国航天员单个乘组出舱活动纪录；
+6.长征七号遥七运载火箭运抵发射场 将执行天舟六号任务；
+7.第133届广交会：外商云集 看好中国经济；
+8.三部门：广交会展期内销售的进口展品享税收优惠；
+9.【一线调研】小商店触网记；
+10.新北京工人体育场昨晚整体亮相；
+11.国内联播快讯：
+（1）我国成功发射风云三号07星；
+（2）满洲里口岸进出境中欧班列累计突破20000列；
+（3）长春算力中心揭幕启动；
+（4）雄安新区白洋淀景区今起开始运营；
+（5）医保基金监管宣传月 多地举行活动普及医保政策；
+（6）全国大部分地区气温回升；
+12.苏丹首都等地发生武装冲突 至少56人死亡；
+13.俄称拦截乌火箭弹 乌称打击俄控制点 波兰和匈牙利禁止从乌克兰进口粮食；
+14.美国两州发生枪击事件 均涉青少年 美国民众抗议美国枪支暴力严重；
+15.国际联播快讯：
+（1）沙特将在伊朗马什哈德设临时领事馆机构；
+（2）韩国民众要求美国就监听窃听韩官员道歉；
+（3）英媒称医护均罢工将加深医疗体系危机；
+（4）美国又一工厂起火 当地发布疏散令。
+（《新闻联播》 20230416 19:00）</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"></div>
+				<div class="zebian"><i></i>
+					<span>编辑：常悦</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
