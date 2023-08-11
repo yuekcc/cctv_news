@@ -172,13 +172,13 @@ const updateCatalogue = async ({ catalogueJsonPath, readmeMdPath, date, abstract
     await writeFile(catalogueJsonPath, textJson);
   });
   console.log('更新 catalogue.json 完成');
-  // 更新 README.md
+  // 更新 INDEX.md
   await readFile(readmeMdPath).then(async (data) => {
     data = data.toString();
     let text = data.replace('<!-- INSERT -->', `<!-- INSERT -->\n- [${date}](./news/${date}.md)`);
     await writeFile(readmeMdPath, text);
   });
-  console.log('更新 README.md 完成');
+  console.log('更新 INDEX.md 完成');
 };
 
 export async function fetchNews(date) {
@@ -190,8 +190,8 @@ export async function fetchNews(date) {
   const NEWS_PATH = path.join(__dirname, 'news');
   // /news/xxxxxxxx.md 文件
   const NEWS_MD_PATH = path.join(NEWS_PATH, DATE + '.md');
-  // /README.md 文件
-  const README_PATH = path.join(__dirname, 'README.md');
+  // /INDEX.md 文件
+  const README_PATH = path.join(__dirname, 'INDEX.md');
   // /news/catalogue.json 文件
   const CATALOGUE_JSON_PATH = path.join(NEWS_PATH, 'catalogue.json');
   // 打印调试信息
