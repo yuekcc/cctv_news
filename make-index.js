@@ -60,3 +60,4 @@ Object.entries(grouped)
   });
 
 await fs.writeFile('INDEX.md', buf, 'utf-8');
+console.log('updated');
