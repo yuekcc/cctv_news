@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: oven-sh/setup-bun@v1
         with:
-          node-version: 18
-      - run: npm ci
-      - run: npm run fetch
-      - run: npm run remake-index
+          bun-version: "0.8.1"
+      - run: bun install
+      - run: bun run fetch
+      - run: bun run remake-index
       - run: git config --local user.email "github-actions[bot]@github.com"
       - run: git config --local user.name "github-actions[bot]"
       - run: git add .
