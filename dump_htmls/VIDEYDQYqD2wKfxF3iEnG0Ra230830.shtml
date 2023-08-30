@@ -6,12 +6,12 @@
 	
 		<title>[视频]国际联播快讯</title>
 		<meta name="contentid" content="VIDEYDQYqD2wKfxF3iEnG0Ra230830">
-		<meta name=keywords content="">
-		<meta name=description content="">
+		<meta name=keywords content="[视频]国际联播快讯">
+		<meta name=description content="[视频]国际联播快讯">
 		<meta name="spm-id" content="C52056131267">
 		<meta property="og:title" content="[视频]国际联播快讯" />
 		<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
-		<meta property="og:description" content="" /> 
+		<meta property="og:description" content="[视频]国际联播快讯" /> 
 		<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
 		<script language="Javascript">
 			var url_domainname=location.href;			
@@ -39,7 +39,7 @@
 			var timeint=datum.getTime()/1000;
 			var html;
 			var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
-			var commentbreif="";
+			var commentbreif="[视频]国际联播快讯";
 			var commentimg3="//p3.img.cctvpic.com/fmspic/2023/08/30/e513a1b72b06463f8300740d50b48939-300.jpg";
 			var commentimg2="//p2.img.cctvpic.com/fmspic/2023/08/30/e513a1b72b06463f8300740d50b48939-1.jpg";
 			var commentimg1="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/30/VIDEUdXgBt8ck5th65KhwJFw230830.jpg";
@@ -85,7 +85,8 @@
 		obj.showProper(750,true);
 	}
 </script>
-</head>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="bvmgltyxhyxauzhpi7ba-f-798a850f5-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"961ca3c","ak.r":44102,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.88.101.0","ak.cport":34944,"ak.gh":"23.62.45.10","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1693403074","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==KooUbmOvPitS1cvdT0Ndy0RTxv0kk7Y7g+0PicFFoQi73nX3tg/Ch0L/hPWfHbIfu05V/8DivHkQOtDPBKqXRFdfiMDxos1J+2ybzCMVpKwyGpsKJeeUB/Gk3xoAvlAvA3H6FV2pd6DTgjz1m1NevgBMvL9kGxhlKkS81Iv1eg4osqd+NvD1kCj3DDMcHm983hSFuvtKTUDeZUZTbEPFJ4Vdq26LElEOVNuJa4froxQqpaqjYO8K2GP8ZVdtXyw3pXoyvM5LjNA/e+XbbkaQjZoVbCPutxcjoTFa+Kjo97+RNkDhSHF3+47vyMC3H/5VBOljR5kaOuI3OBhMngXRzOrO4iGVqAGl4LSKsas99AzyuoiQqlz7PGZ17uqwS4mHMCLeJYcPPxuN3BuvwGIng1nBYZwzxekrYjvdOtRpizM=","ak.pv":"172","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
 
 
 <body data-spm="P4y8I53JvSWE">
@@ -132,7 +133,7 @@
                                   }
 					</script>
 					 <script type="text/javascript">
-                var videokeyWord = "";//关键字
+                var videokeyWord = "[视频]国际联播快讯";//关键字
                 var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
                 var guid_Ad_VideoCode = guid;
                 </script>
@@ -160,7 +161,7 @@
 					<span class="biaoqian" id="biaoqian"></span>
 					<span class="dianzan"></span>
 					<script type="text/javascript">
-						/*var keyword="";
+						/*var keyword="[视频]国际联播快讯";
 						var reg = new RegExp("　","g");
 						var tagArrayBak = keyword.replace(reg," ");
 						var keyword = tagArrayBak.split(" ");
@@ -184,7 +185,12 @@
 						<ul>
 							<li>
 								<div class="tit">视频简介</div>
-								<p></p>
+								<p>国际联播快讯：
+（1）俄罗斯外长拉夫罗夫将率团出席G20峰会；
+（2）加蓬部分军官宣布夺取政权；
+（3）加拿大原住民寄宿学校旧址再现疑似坟墓；
+（4）美国纽约市中心水管破裂 地铁站被淹；
+（5）希腊林火成为二十多年来欧盟最严重林火。</p>
 							</li>
 						</ul>
 					</div>
@@ -204,7 +210,12 @@
 					<ul>
 						<li>
 							<div class="video_title">视频简介</div>
-							<div class="video_brief"></div>
+							<div class="video_brief">国际联播快讯：
+（1）俄罗斯外长拉夫罗夫将率团出席G20峰会；
+（2）加蓬部分军官宣布夺取政权；
+（3）加拿大原住民寄宿学校旧址再现疑似坟墓；
+（4）美国纽约市中心水管破裂 地铁站被淹；
+（5）希腊林火成为二十多年来欧盟最严重林火。</div>
 						</li>
 					
 					</ul>
@@ -223,9 +234,9 @@
 				
 						<div id="content">
 							<div class="contit"><span>主要内容<b></b><i></i></span></div>
-						<div class="content_area" id="content_area"></div>			
+						<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：<br/></p><p><strong>俄罗斯外长拉夫罗夫将率团出席G20峰会</strong><br/></p><p>俄罗斯外交部发言人扎哈罗娃29日表示，根据俄总统普京的指示，俄外长拉夫罗夫将率团参加即将在印度新德里举行的二十国集团领导人峰会。俄总统新闻秘书佩斯科夫此前表示，普京将不会前往印度出席峰会。<br/></p><p><strong>加蓬部分军官宣布夺取政权</strong><br/></p><p>加蓬全国选举委员会当地时间今天（8月30日）凌晨宣布，现任总统邦戈赢得选举，实现连任。随后不久，据当地媒体报道，部分加蓬军官宣布取消选举结果，解散国家机构，并宣称已经夺取政权，关闭加蓬所有边境。目前，加蓬政府尚未就军官的说法作出表态。<br/></p><p><strong>加拿大原住民寄宿学校旧址再现疑似坟墓</strong><br/></p><p>加拿大萨斯喀彻温省的原住民组织代表29日表示，通过探地雷达的搜寻，在一所名为博瓦尔的印第安寄宿学校的旧址发现了93个疑为儿童和婴儿的坟墓。原住民组织代表称，该学校旧址实际的坟墓数量可能远远不止这些。<br/></p><p>加拿大真相与和解委员会此前公布的一份报告显示，自19世纪40年代到20世纪90年代，至少有15万印第安人、因纽特人等原住民儿童被强制送入寄宿学校，并且遭到残酷虐待。<br/></p><p><strong>美国纽约市中心水管破裂 地铁站被淹</strong><br/></p><p>美国当地时间29日凌晨，纽约市中心的曼哈顿时报广场附近一条老旧水管破裂，导致大量水涌出，时报广场地铁站被淹，途经该站的3条地铁线运行一度暂停。据介绍，早高峰时段通常有30万人搭乘这3条地铁线路出行。<br/></p><p><strong>希腊林火成为二十多年来欧盟最严重林火</strong><br/></p><p>29日，希腊东北部林火已持续燃烧11天，导致至少20人死亡。欧盟民防部门方面称，林火过火面积已达到约810平方公里，是自2000年记录相关数据以来，欧盟最严重的一场林火。世界自然基金会希腊分部方面29日表示，希腊达迪亚国家森林公园至少有30%的面积在大火中被毁。</p></div>			
 						<div class="zebian"><i></i>
-							<span>编辑：陈平丽</span>
+							<span>编辑：杨书杰</span>
 							<span id="zb">责任编辑：刘亮</span>
 						</div>
 						<script type="text/javascript">			
