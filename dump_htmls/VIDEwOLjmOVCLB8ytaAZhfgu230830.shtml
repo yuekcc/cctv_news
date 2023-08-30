@@ -6,12 +6,12 @@
 	
 		<title>[视频]国内联播快讯</title>
 		<meta name="contentid" content="VIDEwOLjmOVCLB8ytaAZhfgu230830">
-		<meta name=keywords content="">
-		<meta name=description content="">
+		<meta name=keywords content="[视频]国内联播快讯">
+		<meta name=description content="[视频]国内联播快讯">
 		<meta name="spm-id" content="C52056131267">
 		<meta property="og:title" content="[视频]国内联播快讯" />
 		<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
-		<meta property="og:description" content="" /> 
+		<meta property="og:description" content="[视频]国内联播快讯" /> 
 		<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
 		<script language="Javascript">
 			var url_domainname=location.href;			
@@ -39,7 +39,7 @@
 			var timeint=datum.getTime()/1000;
 			var html;
 			var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
-			var commentbreif="";
+			var commentbreif="[视频]国内联播快讯";
 			var commentimg3="//p4.img.cctvpic.com/fmspic/2023/08/30/e1c93b2e0db548bd962aea34345a4f2e-300.jpg";
 			var commentimg2="//p5.img.cctvpic.com/fmspic/2023/08/30/e1c93b2e0db548bd962aea34345a4f2e-1.jpg";
 			var commentimg1="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/30/VIDEvZpyTxnwcXmIlDIonZde230830.jpg";
@@ -85,7 +85,8 @@
 		obj.showProper(750,true);
 	}
 </script>
-</head>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="bvmgltyxhyxauzhpi7aq-f-63e4c0d2c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"961c818","ak.r":44102,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.88.101.0","ak.cport":34944,"ak.gh":"23.62.45.10","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1693403073","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fCV/Lzuik4VK/qWdxi+vk2q0OcA6AhqZ0m+FNBOEOpaVzqVkomqrABl+u969xXPxuWZDFZzYkA9yEJnt0gzRHSmRMWA9rcPkvVcyLGdOWdpRFUCgPiT0TR3U5duw6kjaekF5wkwzPAu2marp6d/OnR1i741kdHU7fqNwkJYOuYvRehiYDGqTxNg7dAqF6umranahdZbDh01uLtl2haPhSHe6hNbQjZwOLwJ5LgljFfVF3s7yX3ZZj1KiJjOFrUGMrKuKACwQaezOMiEg+k+gXspMlAfp7iWafYyeHAOkPtfab5ycxHS7YgAqQPaEa3H7dlpRVlyIcp8jsLuecEzCVPrL/eNEPFhHk2LA6aaA9seOmkPQ/Fku3Rloiv2MS4/rXw/ecgkeYwqQXYNcFyEGp+iedRcT2bVE7IZnEsHOAAQ=","ak.pv":"172","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
 
 
 <body data-spm="P4y8I53JvSWE">
@@ -132,7 +133,7 @@
                                   }
 					</script>
 					 <script type="text/javascript">
-                var videokeyWord = "";//关键字
+                var videokeyWord = "[视频]国内联播快讯";//关键字
                 var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
                 var guid_Ad_VideoCode = guid;
                 </script>
@@ -160,7 +161,7 @@
 					<span class="biaoqian" id="biaoqian"></span>
 					<span class="dianzan"></span>
 					<script type="text/javascript">
-						/*var keyword="";
+						/*var keyword="[视频]国内联播快讯";
 						var reg = new RegExp("　","g");
 						var tagArrayBak = keyword.replace(reg," ");
 						var keyword = tagArrayBak.split(" ");
@@ -184,7 +185,15 @@
 						<ul>
 							<li>
 								<div class="tit">视频简介</div>
-								<p></p>
+								<p>国内联播快讯：
+（1）国家确定102个现代流通战略支点城市；
+（2）教育部等十部门联合印发《国家银龄教师行动计划》；
+（3）18家民企与金融机构集中签约；
+（4）雄安新区中关村科技园今天揭牌；
+（5）第六届中国国际新材料产业博览会举行；
+（6）中蒙两国间国际旅客列车恢复开行；
+（7）上海港新能源汽车首次启用“一箱制”联运模式；
+（8）2023全国广电和网络视听先进事迹报告会今晚播出。</p>
 							</li>
 						</ul>
 					</div>
@@ -204,7 +213,15 @@
 					<ul>
 						<li>
 							<div class="video_title">视频简介</div>
-							<div class="video_brief"></div>
+							<div class="video_brief">国内联播快讯：
+（1）国家确定102个现代流通战略支点城市；
+（2）教育部等十部门联合印发《国家银龄教师行动计划》；
+（3）18家民企与金融机构集中签约；
+（4）雄安新区中关村科技园今天揭牌；
+（5）第六届中国国际新材料产业博览会举行；
+（6）中蒙两国间国际旅客列车恢复开行；
+（7）上海港新能源汽车首次启用“一箱制”联运模式；
+（8）2023全国广电和网络视听先进事迹报告会今晚播出。</div>
 						</li>
 					
 					</ul>
@@ -223,9 +240,9 @@
 				
 						<div id="content">
 							<div class="contit"><span>主要内容<b></b><i></i></span></div>
-						<div class="content_area" id="content_area"></div>			
+						<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：<br/></p><p><strong>国家确定102个现代流通战略支点城市</strong><br/></p><p>国家发展改革委等五部门日前印发通知，将国内102个城市纳入现代流通战略支点城市布局建设范围，加快形成内畅外联的现代流通网络。到2025年，支点城市在提高流通效率、降低流通成本、创新流通业态方面取得明显成效，初步成为现代流通体系建设的关键战略支撑。<br/></p><p><strong>教育部等十部门联合印发《国家银龄教师行动计划》</strong><br/></p><p>日前，教育部等十部门联合印发《国家银龄教师行动计划》，《计划》包含银龄教师支持普通高等教育、职业教育等五大行动。据了解，申请参与普通高等教育、职业教育、终身教育、民办教育领域的线下银龄教师年龄一般应在70（含）岁以下，参与基础教育领域的线下银龄教师年龄一般应在65（含）岁以下，线上银龄教师年龄可适当放宽。<br/></p><p><strong>18家民企与金融机构集中签约</strong><br/></p><p>今天（8月30日），在中国人民银行、全国工商联等部门联合召开的金融支持民营企业发展工作推进会上，共有18家民营企业与金融机构、证券交易所及银行间市场交易商协会合作签约。本次签约重点加大对中小微企业、供应链核心企业、专精特新企业、制造业、绿色和科创企业、优质房地产企业的资金支持。<br/></p><p><strong>雄安新区中关村科技园今天揭牌</strong><br/></p><p>今天（8月30日），北京市、河北省以及雄安新区共同举办雄安新区中关村科技园揭牌仪式。活动现场，20家意向入驻企业、11家中关村集成服务机构分别与科技园签署入驻协议。该园区先期使用面积2.1万平方米。<br/></p><p><strong>第六届中国国际新材料产业博览会举行</strong><br/></p><p>以&ldquo;合作共享新机遇 创新激发新动能&rdquo;为主题的第六届中国国际新材料产业博览会正在哈尔滨举行。本届博览会创新展品和成果突破2000个，涵盖大飞机、高铁、新能源汽车为代表的应用场景和与日常生活相关的方方面面。<br/></p><p><strong>中蒙两国间国际旅客列车恢复开行</strong><br/></p><p>今天（8月30日），由蒙古国乌兰巴托开往中国二连浩特的686次国际旅客列车顺利入境，标志着内蒙古二连浩特口岸公路和铁路客货运功能全部恢复正常，停运1295天的中蒙两国间国际旅客列车恢复运行。<br/></p><p><strong>上海港新能源汽车首次启用&ldquo;一箱制&rdquo;联运模式</strong><br/></p><p>今天（8月30日），一批装有新能源汽车的集装箱从上海洋山港运往美洲。上海海事局启用&ldquo;远程智慧管理系统&rdquo;，对新能源汽车进行海运货物装箱监管，实行&ldquo;全程不开箱&rdquo;流程管理，首次启用多式联运&ldquo;一箱制&rdquo;模式，将过去始发铁路运输到港口的时间，从5&mdash;6天缩短至2&mdash;3天。<br/></p><p><strong>2023全国广电和网络视听先进事迹报告会今晚播出</strong><br/></p><p>由国家广播电视总局、中央广播电视总台联合主办的《激情&middot;奉献&middot;廉洁&mdash;&mdash;2023全国广播电视和网络视听先进事迹报告会》，今晚（8月30日）在总台央视科教频道播出。节目通过来自全国广电行业20个先进集体和优秀个人的生动讲述，展现了广电行业推动广播电视和网络视听高质量发展的精神风貌。</p></div>			
 						<div class="zebian"><i></i>
-							<span>编辑：陈平丽</span>
+							<span>编辑：杨书杰</span>
 							<span id="zb">责任编辑：刘亮</span>
 						</div>
 						<script type="text/javascript">			
