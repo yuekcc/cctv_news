@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在南非媒体发表署名文章</title>
+<meta name="contentid" content="VIDEdnvB5SmJdYzN4A9grWgr230821">
+<meta name=keywords content="习近平 南非媒体 发表 署名文章">
+<meta name=description content="习近平在南非媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在南非媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平在南非媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在南非媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEdnvB5SmJdYzN4A9grWgr230821";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2023/08/21/VIDEdnvB5SmJdYzN4A9grWgr230821.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平在南非媒体发表署名文章";
+var commentimg3="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/21/VIDETPdvCcDv7iHhDU6zf8HS230821.jpg";
+var commentimg2="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/21/VIDEn7ghOHEuornl5OcH3HTj230821.jpg";
+var commentimg1="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/21/VIDEDP31lzCj1Gm3Vo7euCkc230821.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2023/08/21 19:07:46';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2023/8/21/VIDEDP31lzCj1Gm3Vo7euCkc230821.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "febd7a542a0c45749c28f55b766ea821";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平 南非媒体 发表 署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在南非媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2023-08-21 19:07</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平 南非媒体 发表 署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在南非媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在南非媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2023年08月21日 19:07</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在南非媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：8月21日，在赴约翰内斯堡出席金砖国家领导人第十五次会晤并对南非进行国事访问之际，国家主席习近平在南非《星报》、《开普时报》、《水星报》和南非独立媒体网站发表题为《让中南友好合作的巨轮扬帆远航》的署名文章。文章全文如下：</p><p style="text-align: center;"><strong>让中南友好合作的巨轮扬帆远航</strong></p><p style="text-align: center;">中华人民共和国主席　习近平</p><p>应拉马福萨总统邀请，我即将对南非共和国进行国事访问并出席金砖国家领导人第十五次会晤。这是我第六次踏上&ldquo;彩虹之国&rdquo;的热土。这里诞生过伟大的政治家曼德拉，拥有非洲最丰富的旅游资源、最长的公路网、最大的证券交易所、最繁忙的机场和港口。古老和现代、自然和人文的完美融合，赋予南非独特的魅力。</p><p>每次来到南非，我都有不同的感受，但印象最深的是两国亲如兄弟的友好情谊。我们的友谊跨越时间长河。早在上世纪中叶，中华人民共和国就坚定支持南非人民反对种族隔离的斗争，同非洲人国民大会建立起同志友情。我们的友谊跨越山海阻隔。面对突如其来的新冠疫情，中方率先向南非提供抗疫物资，展现兄弟般的特殊情谊。近期，中方又向南非提供了紧急电力设备支持。建交25年来，中南关系实现从伙伴关系、战略伙伴关系到全面战略伙伴关系的跨越式发展，成为发展中国家最具活力的双边关系之一。中南关系已经步入&ldquo;黄金时代&rdquo;，前景光明，未来可期。</p><p>近年来，我同拉马福萨总统通过互访、会晤、通话、函电等方式保持密切沟通，共话合作，共谋发展，共迎挑战，战略互信不断加深。我们在涉及彼此核心利益和重大关切问题上坚定相互支持，在重大国际和地区问题上保持协作，践行真正的多边主义，推动国际秩序朝着更加公正合理的方向发展。</p><p>南非是第一个同中国签署共建&ldquo;一带一路&rdquo;合作文件的非洲国家，连续13年成为中国在非洲第一大贸易伙伴，是中国在非洲投资存量最多的国家之一。两国合作的蛋糕越做越大，南非葡萄酒、如意博士茶、芦荟胶成为中国的网红商品。一大批中国企业在南非拓展业务、回馈社会，&ldquo;南非制造&rdquo;的中国品牌汽车和家电深受当地消费者喜爱，走进南非千家万户。南非企业也纷纷投资充满商机的中国市场，为中国经济发展作出积极贡献。</p><p>南非乌班图思想倡导&ldquo;仁爱、共享&rdquo;，同中国儒家&ldquo;仁民爱物、天下大同&rdquo;理念不谋而合。我曾于2015年参加南非&ldquo;中国年&rdquo;活动，见证了中南互办国家年的可喜成果。今年4月，德班理工大学孔子学院的师生用中文给我写信，表达对中华文化的喜爱，感谢中国为非洲青年追求梦想提供宝贵机会，让我感到十分亲切。丰富多彩的人文交流有力促进民心相通，使两国友好薪火相传。</p><p>站在新的历史起点上，中南关系已经超越双边范畴，具有越来越重要的全球影响。我期待通过这次访问，同拉马福萨总统一道，擘画中南全面战略伙伴关系新篇章。</p><p>中南要做志同道合的同行者。&ldquo;交得其道，千里同好；固于胶漆，坚于金石。&rdquo;我们要加强治国理政经验交流，坚定支持对方自主探索符合本国国情的现代化道路，不畏强权霸道，守望相助，推动中南关系在国际风云变幻中砥砺前行。</p><p>中南要做团结合作的引领者。经济互补性强、合作基础牢固是我们携手共进的最大优势。我们要加强发展战略对接，做大做强基础设施建设、数字经济、科技创新、能源转型等领域合作，让发展成果更多惠及两国人民。中方欢迎更多南非商品进入中国市场，鼓励更多中国企业赴南非投资兴业，支持南非未来5年吸引外资再翻番的计划。</p><p>中南要做中非友好的传承者。我们要发挥两国人文交流全方位、多层次、机制化发展优势，继续推动文化、旅游、教育、体育、媒体、高校、地方、青年等领域交流合作，让中非友好合作精神在中国和非洲的广袤大地上进一步传承和发扬。</p><p>中南要做共同利益的捍卫者。当今世界需要的是和平，不是冲突；渴望的是协作，不是对抗。中南作为&ldquo;全球南方&rdquo;天然成员，更要团结一致，共同呼吁扩大发展中国家在国际事务中的话语权和影响力，加快推动国际金融机构改革，共同反对单边制裁和&ldquo;小院高墙&rdquo;，携手维护我们的共同利益。</p><p>我这次来到南非的另一项重要议程是出席金砖国家领导人会晤，这是金砖峰会第三次走进非洲这片充满活力和希望的大陆。我清晰地记得，在风光旖旎的海南三亚，南非首次以正式成员身份参加金砖大家庭聚会。12年来，南非为金砖合作机制发展作出重要贡献，推动金砖合作成色更足、影响更大。现在，越来越多的国家希望叩开&ldquo;金砖之门&rdquo;、参与金砖合作，充分展现金砖合作机制的强大生命力和影响力。中方愿同金砖伙伴一道，秉持开放包容、合作共赢的金砖精神，凝聚在重大问题上的共识，发扬独立自主的外交传统，坚定捍卫国际公平正义，推动国际社会重新聚焦发展问题，引领金砖合作机制在全球治理体系中发挥更加重要的作用，发出更加响亮的金砖之声。</p><p>今年是我提出真实亲诚对非政策理念10周年。10年来，中非双方在构建新时代中非命运共同体的道路上携手同行，非洲疾控中心、塞内加尔方久尼大桥、肯尼亚机场快速路、蒙内铁路等一大批项目竣工移交，中非友好的声音回荡在中非广袤大地和山水之间。</p><p>面对百年变局，中非关系行得稳、中非合作搞得好，全球发展就有更多新动能，世界就有更多稳定性。这是28亿中非人民肩负的国际责任和历史使命。我们将举办中非领导人对话会。我愿同非洲领导人一道，推动更多积极、有效、可持续的发展举措在非洲落地，拓展在农业、制造业、新能源、数字经济等领域合作，助力非洲实现经济一体化、工业化和农业现代化。中方将继续推动非盟加入二十国集团在今年取得实质性进展，期待非洲国家和非盟在国际和地区事务中发挥更大作用。</p><p>&ldquo;潮平两岸阔，风正一帆悬。&rdquo;展望中南关系下一个25年，双方友好合作的巨轮将扬帆远航，构建新时代中非命运共同体和人类命运共同体的事业必将取得更大成就。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话 强调秉持开放包容 合作共赢的金砖精神 以金砖责任应对共同挑战 以金砖担当开创美好未来</title>
+<meta name="contentid" content="VIDEaY7N2iQfwAxZE3R3txnO230824">
+<meta name=keywords content="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话">
+<meta name=description content="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话 强调秉持开放包容 合作共赢的金砖精神 以金砖责任应对共同挑战 以金砖担当开创美好未来" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话 强调秉持开放包容 合作共赢的金砖精神 以金砖责任应对共同挑战 以金砖担当开创美好未来"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEaY7N2iQfwAxZE3R3txnO230824";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2023/08/24/VIDEaY7N2iQfwAxZE3R3txnO230824.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话";
+var commentimg3="//p5.img.cctvpic.com/fmspic/2023/08/24/8f29014b9b024adabde1c5fef1bf84a1-300.jpg";
+var commentimg2="//p2.img.cctvpic.com/fmspic/2023/08/24/8f29014b9b024adabde1c5fef1bf84a1-1.jpg";
+var commentimg1="//p5.img.cctvpic.com/fmspic/2023/08/24/8f29014b9b024adabde1c5fef1bf84a1-180.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2023/08/24 19:12:16';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p5.img.cctvpic.com/fmspic/2023/08/24/8f29014b9b024adabde1c5fef1bf84a1-180.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "8f29014b9b024adabde1c5fef1bf84a1";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话 强调秉持开放包容 合作共赢的金砖精神 以金砖责任应对共同挑战 以金砖担当开创美好未来</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2023-08-24 19:12</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平出席金砖国家领导人第十五次会晤并发表重要讲话，强调秉持开放包容、合作共赢的金砖精神，以金砖责任应对共同挑战，以金砖担当开创美好未来。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平出席金砖国家领导人第十五次会晤并发表重要讲话 强调秉持开放包容 合作共赢的金砖精神 以金砖责任应对共同挑战 以金砖担当开创美好未来</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2023年08月24日 19:12</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平出席金砖国家领导人第十五次会晤并发表重要讲话，强调秉持开放包容、合作共赢的金砖精神，以金砖责任应对共同挑战，以金砖担当开创美好未来。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：当地时间8月23日上午，金砖国家领导人第十五次会晤在约翰内斯堡杉藤会议中心举行。南非总统拉马福萨主持会晤。中国国家主席习近平、巴西总统卢拉、印度总理莫迪和俄罗斯总统普京（线上）出席。五国领导人围绕&ldquo;金砖与非洲：深化伙伴关系，促进彼此增长，实现可持续发展，加强包容性多边主义&rdquo;主题，就金砖合作及共同关心的重大国际问题深入交换意见，达成广泛共识。</p><p>习近平发表题为《团结协作谋发展 勇于担当促和平》的重要讲话。</p><p>习近平指出，当前，世界进入新的动荡变革期，正在经历大调整、大分化、大重组。金砖国家是塑造国际格局的重要力量。我们自主选择发展道路，共同捍卫发展权利，共同走向现代化，代表着人类社会前进方向，必将深刻影响世界发展进程。回首历史，我们始终秉持开放包容、合作共赢的金砖精神，不断推动金砖合作迈上新台阶，助力五国发展；始终秉持国际公平正义，在重大国际和地区问题上主持公道，提升新兴市场国家和发展中国家发言权和影响力。金砖国家一直是独立自主外交政策的倡导者、践行者，在重大国际问题上坚持从事情本身的是非曲直出发，说公道话、办公道事，不拿原则做交易，不屈从外部压力，不做别国的附庸。金砖国家有广泛共识和共同目标，无论国际形势如何变幻，合作初衷、共同愿望不会变。</p><p>习近平强调，金砖合作正处于承前启后、继往开来的关键阶段。我们要把握大势，引领方向，坚守联合自强的初心，加强各领域合作，推进高质量伙伴关系，推动全球治理变革朝着更加公正合理的方向发展，为世界注入更多确定性、稳定性、正能量。</p><p>我们要深化经贸、财金合作，助力经济发展。发展是各国不可剥夺的权利，不是少数国家的&ldquo;专利&rdquo;。金砖国家要做发展振兴道路上的同行者，反对&ldquo;脱钩断链&rdquo;、经济胁迫。要聚焦务实合作，特别是数字经济、绿色发展、供应链等领域。中国将设立&ldquo;中国－金砖国家新时代科创孵化园&rdquo;，探索建立&ldquo;金砖国家全球遥感卫星数据与应用合作平台&rdquo;，为各国农业、生态、减灾等领域发展提供数据支持。中方愿同各方共建&ldquo;金砖国家可持续产业交流合作机制&rdquo;，为落实联合国2030年可持续发展议程提供产业对接和项目合作平台。</p><p>我们要拓展政治安全合作，维护和平安宁。各国人民都期盼良好的安全环境。国际安全不可分割，牺牲别国利益、谋求自身绝对安全，最终会伤及自身。金砖国家要坚持和平发展的大方向，在涉及彼此核心利益问题上相互支持，就重大国际和地区问题加强协调，积极斡旋热点问题，推动政治解决，给热点问题降温去火。要进一步拓展人工智能合作，加强信息交流和技术合作，共同做好风险防范，推动建立普遍参与的国际机制，形成具有广泛共识的治理框架和标准规范，不断提升人工智能技术的安全性、可靠性、可控性、公平性。</p><p>我们要加强人文交流，促进文明互鉴。文明多姿多彩、发展道路多元多样，这是世界应有的样子。人类历史不会终结于一种文明、一种制度。金砖国家要弘扬海纳百川的精神，倡导不同文明和平共处、和合共生，尊重各国自主选择的现代化道路，反对意识形态对立、制度对抗、&ldquo;文明冲突&rdquo;。中方建议，金砖国家拓宽教育领域合作，发挥好职业教育联盟作用，探索建立数字教育合作机制，同时加强传统文化交流，促进优秀传统文化传承和创新。</p><p>我们要坚持公平正义，完善全球治理。加强全球治理是国际社会共享发展机遇、应对全球性挑战的正确选择。国际规则要依据联合国宪章宗旨和原则，由大家共同书写、共同维护，不能谁的胳膊粗、嗓门大，谁就说了算，更不能拉帮结伙，把自己的&ldquo;家法帮规&rdquo;包装成国际规则。金砖国家要践行真正的多边主义，维护以联合国为核心的国际体系，支持并加强以世界贸易组织为核心的多边贸易体制，反对搞&ldquo;小圈子&rdquo;、&ldquo;小集团&rdquo;。要充分发挥新开发银行的作用，推动国际金融货币体系改革，提升发展中国家的代表性和发言权。我们要秉持开放包容、合作共赢的金砖精神，用好&ldquo;金砖+&rdquo;合作，加速扩员进程，让更多国家加入到金砖大家庭，集众智、汇群力，推动全球治理朝着更加公正合理的方向发展。</p><p>习近平最后强调，金砖事业秉持国际道义，造福五国人民，必将行稳致远，为促进世界和平和发展作出更大贡献。中方愿同金砖伙伴一道，秉持人类命运共同体理念，加强战略伙伴关系，深化各领域合作，以金砖责任应对共同挑战，以金砖担当开创美好未来，共同驶向现代化的彼岸！</p><p>拉马福萨、卢拉、普京、莫迪高度评价金砖合作机制取得的积极进展。各方认为，受地缘政治冲突、世界经济困难等影响，新兴市场国家和发展中国家面临日益严重的贫穷、不平等、不公平等挑战，实现可持续发展目标任重道远。金砖国家致力于深化战略伙伴关系，促进全球和平稳定和公平发展。20多个国家申请加入金砖，充分彰显了金砖合作机制的生命力、吸引力以及在国际事务中的战略价值。金砖国家应该加强团结，继续秉持开放包容、合作共赢精神，加速金砖扩员进程，推动全球治理体系变革朝着更加包容、更加公平、更加合理的方向发展，重振并改革多边体制，推进世界多极化进程，使之更加符合代表世界大多数人民的发展中国家利益。金砖国家应该在涉及彼此核心利益问题上相互支持，尊重各国自主选择符合本国国情的现代化道路。国际金融体系不应成为地缘政治竞争的工具，应该加快推动国际金融货币体系改革，提高新兴市场国家和发展中国家的代表性和发言权，推动实现可持续发展和包容性增长，造福五国和广大发展中国家人民。</p><p>会晤期间，五国领导人还听取了金砖国家相关机制负责人工作汇报，并集体合影。</p><p>蔡奇、王毅等参加上述活动。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘洁</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
