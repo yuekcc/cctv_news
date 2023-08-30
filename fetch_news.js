@@ -3,9 +3,8 @@ import { JSDOM } from 'jsdom';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-import getWeb from './fetch.js';
+import fetchweb from './fetch.js';
 
-const readFile = (path) => fs.readFile(path, 'utf-8');
 const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -28,10 +27,11 @@ const getNewsList = async (date) => {
   const url = `http://tv.cctv.com/lm/xwlb/day/${date}.shtml`;
   console.log('下载新闻，url =', url);
 
-  const HTML = await getWeb(url);
-  const fullHTML = `<!DOCTYPE html><html><head></head><body>${HTML}</body></html>`;
+  const html = await fetchweb(url);
+  const fullHTML = `<!DOCTYPE html><html><head></head><body>${html}</body></html>`;
   const dom = new JSDOM(fullHTML);
   const nodes = dom.window.document.querySelectorAll('a');
+
   var links = [];
   nodes.forEach((node) => {
     // 从dom节点获得href中的链接
@@ -39,6 +39,7 @@ const getNewsList = async (date) => {
     // 如果已经有了就不再添加 (去重)
     if (!links.includes(link)) links.push(link);
   });
+
   const abstract = links.shift();
   console.log('成功获取新闻列表');
   return {
@@ -67,7 +68,7 @@ function trySelector(el, selectors, formatter, defaultValue, useEl) {
  * @returns {String} 简介内容
  */
 const getAbstract = async (link) => {
-  const HTML = await getWeb(link);
+  const HTML = await fetchweb(link);
 
   const selector1 = `div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)`;
   const selector2 = `#page_body > div.allcontent > div.video18847 > div.playingCon > div.nrjianjie_shadow > div > ul > li:nth-child(1) > p`;
@@ -116,7 +117,7 @@ const getNews = async (links) => {
   var news = [];
   for (let i = 0; i < linksLength; i++) {
     const url = links[i];
-    const html = await getWeb(url);
+    const html = await fetchweb(url);
     const dom = new JSDOM(html);
 
     const document = dom.window.document;
@@ -154,33 +155,6 @@ const newsToMarkdown = ({ date, abstract, news, links }) => {
   return `# 《新闻联播》 (${date})\n\n## 新闻摘要\n\n${abstract}\n\n## 详细新闻\n\n${mdNews}\n\n---\n\n(更新时间戳: ${new Date().getTime()})\n\n`;
 };
 
-const saveTextToFile = async (savePath, text) => {
-  // 输出到文件
-  await writeFile(savePath, text);
-};
-
-const updateCatalogue = async ({ catalogueJsonPath, readmeMdPath, date, abstract }) => {
-  // 更新 catalogue.json
-  await readFile(catalogueJsonPath).then(async (data) => {
-    data = data.toString();
-    let catalogueJson = JSON.parse(data || '[]');
-    catalogueJson.unshift({
-      date,
-      abstract,
-    });
-    let textJson = JSON.stringify(catalogueJson);
-    await writeFile(catalogueJsonPath, textJson);
-  });
-  console.log('更新 catalogue.json 完成');
-  // 更新 INDEX.md
-  await readFile(readmeMdPath).then(async (data) => {
-    data = data.toString();
-    let text = data.replace('<!-- INSERT -->', `<!-- INSERT -->\n- [${date}](./news/${date}.md)`);
-    await writeFile(readmeMdPath, text);
-  });
-  console.log('更新 INDEX.md 完成');
-};
-
 export async function fetchNews(date) {
   console.log('\n\n=========================\n\n');
 
@@ -190,15 +164,10 @@ export async function fetchNews(date) {
   const NEWS_PATH = path.join(__dirname, 'news');
   // /news/xxxxxxxx.md 文件
   const NEWS_MD_PATH = path.join(NEWS_PATH, DATE + '.md');
-  // /INDEX.md 文件
-  const README_PATH = path.join(__dirname, 'INDEX.md');
-  // /news/catalogue.json 文件
-  const CATALOGUE_JSON_PATH = path.join(NEWS_PATH, 'catalogue.json');
+
   // 打印调试信息
   console.log('DATE:', DATE);
   console.log('NEWS_PATH:', NEWS_PATH);
-  console.log('README_PATH:', README_PATH);
-  console.log('CATALOGUE_JSON_PATH:', CATALOGUE_JSON_PATH);
 
   const newsList = await getNewsList(DATE);
   const abstract = await getAbstract(newsList.abstract);
@@ -209,12 +178,6 @@ export async function fetchNews(date) {
     news,
     links: newsList.news,
   });
-  await saveTextToFile(NEWS_MD_PATH, md);
-  await updateCatalogue({
-    catalogueJsonPath: CATALOGUE_JSON_PATH,
-    readmeMdPath: README_PATH,
-    date: DATE,
-    abstract: abstract,
-  });
+  await writeFile(NEWS_MD_PATH, md);
   console.log('全部成功, 程序结束');
 }

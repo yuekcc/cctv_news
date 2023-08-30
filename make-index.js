@@ -1,21 +1,62 @@
 import fs from 'node:fs/promises';
 
 const list = await fs.readdir('./news');
-// console.log(list)
 
-const result = [];
-list.reverse().forEach((name) => {
-  if (name === 'catalogue.json') {
-    return;
+if (!Array.prototype.toSorted) {
+  Array.prototype.toSorted = function (comparer) {
+    const list = structuredClone(this);
+    list.sort(comparer);
+
+    return list;
+  };
+}
+
+function printLink(name) {
+  return `[${name.replaceAll(/\.md$/g, '')}](./news/${name})`;
+}
+
+function chunk(myList, size) {
+  const groupedList = [];
+  for (let i = 0; i < myList.length; i += size) {
+    groupedList.push(myList.slice(i, i + size));
   }
 
-  result.push(`- [${name.replaceAll(/\.md$/g, '')}](./news/${name})`);
-});
+  return groupedList;
+}
 
-const content = `# 目录
+const grouped = list
+  .filter((name) => name !== 'catalogue.json')
+  .map((name) => name.replaceAll(/\.md$/g, ''))
+  .reduce((g, it) => {
+    const key = it.substring(0, 6);
+    const list = g[key] || [];
+    list.push(it);
+    g[key] = list;
 
-<!-- INSERT -->
-${result.join('\n')}
-`;
+    return g;
+  }, {});
 
-await fs.writeFile('INDEX.md', content, 'utf-8');
+let buf = '# 目录\n\n';
+
+Object.entries(grouped)
+  .toSorted((a, b) => {
+    return parseInt(b[0]) - parseInt(a[0]);
+  })
+  .forEach(([name, list]) => {
+    buf += `## ${name}\n\n`;
+
+    buf += `| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n`;
+    buf += `|---|---|---|---|---|---|---|\n`;
+
+    const groupedList = chunk(list, 7).map((dates) => {
+      return `| ${dates.map(printLink).join(' | ')} |`;
+    });
+
+    groupedList.forEach((row) => {
+      buf += `${row}\n`;
+    });
+
+    buf += '\n\n';
+  });
+
+await fs.writeFile('INDEX.md', buf, 'utf-8');
