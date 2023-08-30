@@ -10,7 +10,13 @@ function dumpHtml(url, content) {
 }
 
 export default async function (url) {
+  const abort = new AbortController();
+  const signal = abort.signal;
+
+  const timeoutHandle = setTimeout(() => abort.abort(new Error('TIMEOUT')), 60 * 1000);
+
   return fetch(url, {
+    signal,
     headers: {
       accept: 'text/html, */*; q=0.01',
       'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
@@ -36,5 +42,8 @@ export default async function (url) {
     .then((content) => {
       dumpHtml(url, content);
       return content;
+    })
+    .finally(() => {
+      clearTimeout(timeoutHandle);
     });
 }
