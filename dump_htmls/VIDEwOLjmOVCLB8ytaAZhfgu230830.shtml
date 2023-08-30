@@ -85,8 +85,7 @@
 		obj.showProper(750,true);
 	}
 </script>
-
-                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="vsywuvix2t4qozhpljgq-f-edce08faa-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"4de5ede7","ak.r":41747,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"172.177.106.0","ak.cport":54144,"ak.gh":"23.220.105.7","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1693407821","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==BqeySLt1eHUGABdlmg7/yWkV4CqRMiHvsrj0A8qSkqzO0lE5f277qDwVd99Y+/vBDHuWy14TizijAUQgW2IuETz3TtD0hV0sL6HHdMaC1dcJuXqmw3hZtbZlAO0wgQx5FwHukCg4yD94GQ2e/yN5/jWwhZ9Lbi4eESxsEP0H8Cb9lHKjK+Jwo3oURvo3RSleQhI1oKSsAPupkSgssvHUE/gwmYh9m3VDAz7jvSqzBMwki8DeK4u124ykXMVuUWFICV29CBtnkbPxee0+9/SZf6ofUwsfATEe0uaLlg7w006JOtIkTydwR7VxSOC3x+vBISgDCvJYadLa0Xjv+qk47QofahSRc4Usc6RfW0PVutFHQGxfBnNEYSKUm2Hz2I/PFjE0UJEXhpcz0jSBDV0v4DqnGOHx1enHLWSoEV1yGTk=","ak.pv":"172","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+</head>
 
 
 <body data-spm="P4y8I53JvSWE">
@@ -326,25 +325,25 @@
 	<div class="left">
 		<ul>
 			<li class="top_1" style="display: block;">
-				<div class="image"><a href="https://tv.cctv.com/2023/08/30/VIDEZFDUbpEKFdHP2K3hzZcc230830.shtml" target="_blank" ><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/30/1693364370917_593.jpg"><div class="top">TOP 1</div></a></div>
+				<div class="image"><a href="https://tv.cctv.com/2023/08/30/VIDEXwNtbahggX7ZJj4OYzez230830.shtml" target="_blank" ><img src="//p1.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/31/1693448650707_733.jpg"><div class="top">TOP 1</div></a></div>
 				<div class="text">
-					<div class="title"><a href="https://tv.cctv.com/2023/08/30/VIDEZFDUbpEKFdHP2K3hzZcc230830.shtml" target="_blank" >他将青春定格在350.3高地上</a></div>
+					<div class="title"><a href="https://tv.cctv.com/2023/08/30/VIDEXwNtbahggX7ZJj4OYzez230830.shtml" target="_blank" >他用牺牲换来了战斗的胜利</a></div>
 					<div class="brief"><a href="https://tv.cctv.com/lm/dzw/index.shtml" target="_blank" >等着我</a></div>
 				</div>
 			</li>
 			<li class="top_2" style="display: block;">
-			<div class="image"><a href="https://tv.cctv.com/2023/08/29/VIDEhANAorb2Y26OsgXOViUq230829.shtml" target="_blank" ><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/30/1693364387229_652.jpg"><div class="top">TOP 2</div></a></div>
+			<div class="image"><a href="https://tv.cctv.com/2023/08/30/VIDEUT6Fu72wwswoI0xU3TNZ230830.shtml" target="_blank" ><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/31/1693448628842_739.jpg"><div class="top">TOP 2</div></a></div>
 				<div class="text">
-					<div class="title"><a href="https://tv.cctv.com/2023/08/29/VIDEhANAorb2Y26OsgXOViUq230829.shtml" target="_blank" >用一杯一盏诉说云梦先民生活</a></div>
-					<div class="brief"><a href="https://tv.cctv.com/lm/tsfx/index.shtml" target="_blank" >探索·发现</a></div>
+					<div class="title"><a href="https://tv.cctv.com/2023/08/30/VIDEUT6Fu72wwswoI0xU3TNZ230830.shtml" target="_blank" >揭开一针“暴瘦”背后的隐秘</a></div>
+					<div class="brief"><a href="https://tv.cctv.com/lm/jrsf/index.shtml" target="_blank" >今日说法</a></div>
 				</div>
 			</li>
 			<li class="last top_3" style="display: block;">
 				<i class="daping">TOP </i><i>3</i>
-				<div class="image"><a href="https://tv.cctv.com/2023/08/29/VIDE9CpzzCt9CYqyd5BlPIXz230829.shtml" target="_blank" ><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/30/1693364292402_863.jpg"><div class="top">TOP 3</div></a></div>
+				<div class="image"><a href="https://tv.cctv.com/2023/08/30/VIDELqHaT59O4AATGuOGBGwg230830.shtml" target="_blank" ><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/31/1693448612988_491.jpg"><div class="top">TOP 3</div></a></div>
 				<div class="text">
-					<div class="title"><a href="https://tv.cctv.com/2023/08/29/VIDE9CpzzCt9CYqyd5BlPIXz230829.shtml" target="_blank" >破解荷尔蒙密码揭开生长奥秘</a></div>
-					<div class="brief"><a href="https://tv.cctv.com/lm/jmkjs/index.shtml" target="_blank" >解码科技史</a></div>
+					<div class="title"><a href="https://tv.cctv.com/2023/08/30/VIDELqHaT59O4AATGuOGBGwg230830.shtml" target="_blank" >俄乌在无人装备领域展开较量</a></div>
+					<div class="brief"><a href="https://tv.cctv.com/lm/hqsx/index.shtml" target="_blank" >环球视线</a></div>
 				</div>
 			</li>
 		</ul>
@@ -352,12 +351,12 @@
 	</div>
 	<div class="right">
 		<ul>
-			<li class="first" style="display: block;"><i class="daping">TOP </i><i>4</i><a href="https://tv.cctv.com/2023/08/29/VIDEMtnW4d7N6uGwyrWpZHwb230829.shtml" target="_blank" >诡雷陷阱有办法进行防范吗？</a></li>
-			<li style="display: block;"><i class="daping">TOP </i><i>5</i><a href="https://tv.cctv.com/2023/08/30/VIDEHm5aAD8c1HJzP9mVRt0N230830.shtml" target="_blank" >明明铁证如山 他为何被无罪释放</a></li>
-			<li style="display: block;"><i class="daping">TOP </i><i>6</i><a href="https://tv.cctv.com/2023/08/29/VIDEZH3BgTRrblj4FZNRgISd230829.shtml" target="_blank" >倾听来自雪山深处的青春告白</a></li>
-			<li style="display: block;"><i class="daping">TOP </i><i>7</i><a href="https://tv.cctv.com/2023/08/29/VIDEIq5pmduOOohmps8UbKYc230829.shtml" target="_blank" >网购占比提升服务如何加力？</a></li>
-			<li style="display: block;"><i class="daping">TOP </i><i>8</i><a href="https://tv.cctv.com/2023/08/29/VIDETynruOEO7Qwce9bqIjpL230829.shtml" target="_blank" >跟随镜头探索昆虫的奇妙世界</a></li>
-			<li style="display: block;"><i class="daping">TOP </i><i>9</i><a href="https://tv.cctv.com/2023/08/30/VIDEdaZtUISpU4W6sL4JqIkA230830.shtml" target="_blank" >讲述《一路朝阳》的苦辣酸甜</a></li>
+			<li class="first" style="display: block;"><i class="daping">TOP </i><i>4</i><a href="https://tv.cctv.com/2023/08/30/VIDEmZGxGZxRFuSAdoB7NS6d230830.shtml" target="_blank" >深入白山黑水 探秘抗联密营</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>5</i><a href="https://tv.cctv.com/2023/08/30/VIDEHyhAiZzQtRT6QY8TgNcJ230830.shtml" target="_blank" >如何读懂字字泣血的《莺啼序》</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>6</i><a href="https://tv.cctv.com/2023/08/30/VIDEp2Yc62uRBh01Q2FaHoNG230830.shtml" target="_blank" >这只蛙难道也“戴”了美瞳吗</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>7</i><a href="https://tv.cctv.com/2023/08/30/VIDEYxgeoTJDerFCkQzK1NH5230830.shtml" target="_blank" >川妹子变脸表演引得全场称赞</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>8</i><a href="https://tv.cctv.com/2023/08/30/VIDEmHar98iWbVQxbbsn0Iky230830.shtml" target="_blank" >汉墓中惊现的黑影究竟是谁</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>9</i><a href="https://tv.cctv.com/2023/08/30/VIDEeZj3ypxfi9O6T2GD9SEH230830.shtml" target="_blank" >长得胖=养得好？真是这样吗</a></li>
 		</ul>
 	</div>
 	<div class="clear"></div>
