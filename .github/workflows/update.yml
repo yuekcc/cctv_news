@@ -1,14 +1,14 @@
-name: Weekly update news
+name: Daily update
 
 on:
   workflow_dispatch:
   schedule:
-    # 北京时间每周一中午执行
-    - cron: '0 4 * * 1'
+    # 北京时间每天晚上 9 点执行
+    - cron: '0 13 * * *'
 
 jobs:
   update:
-    name: daily fetch
+    name: Daily Sync
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
