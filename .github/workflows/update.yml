@@ -1,10 +1,10 @@
-name: Daily Fetch for node18
+name: Daily Fetch for node18 branch
 
 on:
   workflow_dispatch:
   schedule:
-    # 东八区 (UTC+8), 所以要-8小时
-    - cron: '30 12 * * *'
+    # 北京时间每周一中午执行
+    - cron: '0 4 * * 1'
 
 jobs:
   update:
@@ -17,12 +17,13 @@ jobs:
           node-version: 18
       - run: npm ci
       - run: npm run fetch
+      - run: npm run remake-index
       - run: git config --local user.email "github-actions[bot]@github.com"
       - run: git config --local user.name "github-actions[bot]"
       - run: git add .
       - run: git commit -m "[bot] AUTO UPDATE"
       - name: Push master changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@node18
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: node18
