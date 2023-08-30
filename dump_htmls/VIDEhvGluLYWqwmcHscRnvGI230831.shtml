@@ -85,8 +85,7 @@
 		obj.showProper(750,true);
 	}
 </script>
-
-                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="cqtt6vqx2t4qozhqsgcq-f-babe6674c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5c52815e","ak.r":41747,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"20.39.63.0","ak.cport":50352,"ak.gh":"23.220.105.7","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1693487493","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==p2PVP9eaE18pWWn+XLAit/+xUos5OZZrc9UxAziuyFrCLQZp2hJhfTAPfhehUcPdPFneDZmBSbECUnH9mW0ArO0QWeESCGS9aDiKxjsxdS+6dx6bzzkxWRbUwHuTA5qkd++ZMWZoMWzixz1ECDK4oCvh7UrBzay1fb5xBtQcgpzrYt/VOr8IE9dbjBttbbvPV95qEg7sjjJl3k3MsMx8VrRqcVU5W0jBTpIsfuBpe82GkSM+DNB3eLeRlzfmWEoQLhij/7c2zhtLzSRpX32Ple01aaaTW4Iur+1FtIKmams5SZj9pU1Y68oR9BjJaSUk8qmQ2XRSbTgHK5GBG/64kv1yBw8TLRnJQ2oDa728hDUTZNOCAzcsxgQU2F0vhTofbo9NQLgCIjHwrt3Re6uaPbnAe7uHzw8syeLpvuyQKus=","ak.pv":"172","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+</head>
 
 
 <body data-spm="P4y8I53JvSWE">
@@ -185,7 +184,7 @@
 						<ul>
 							<li>
 								<div class="tit">视频简介</div>
-								<p></p>
+								<p>国内联播快讯： （1）今年暑期超8200万人次出入境； （2）中国与尼加拉瓜正式签署自贸协定； （3）解放军驻澳门部队完成第24次轮换； （4）我国成功发射遥感三十九号卫星； （5）载人月球探测任务新飞行器名称征集活动启动； （6）台风“苏拉”或于明日登陆粤港沿海； （7）2023全国金秋购物节暨第二届中国（四川）国际熊猫消费节启动； （8）《闪亮的名字——2023最美医生发布仪式》今晚播出。</p>
 							</li>
 						</ul>
 					</div>
@@ -205,7 +204,7 @@
 					<ul>
 						<li>
 							<div class="video_title">视频简介</div>
-							<div class="video_brief"></div>
+							<div class="video_brief">国内联播快讯： （1）今年暑期超8200万人次出入境； （2）中国与尼加拉瓜正式签署自贸协定； （3）解放军驻澳门部队完成第24次轮换； （4）我国成功发射遥感三十九号卫星； （5）载人月球探测任务新飞行器名称征集活动启动； （6）台风“苏拉”或于明日登陆粤港沿海； （7）2023全国金秋购物节暨第二届中国（四川）国际熊猫消费节启动； （8）《闪亮的名字——2023最美医生发布仪式》今晚播出。</div>
 						</li>
 					
 					</ul>
