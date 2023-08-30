@@ -23,9 +23,9 @@ const getDate = (date) => {
  * @param {String|Number} date 当前日期
  * @returns {Object} abstract为简介的链接, news为新闻链接数组
  */
-const getNewsList = async (date) => {
+async function fetchLinks(date) {
   const url = `http://tv.cctv.com/lm/xwlb/day/${date}.shtml`;
-  console.log('下载新闻，url =', url);
+  console.log('下载数据，URL =', url);
 
   const html = await fetchweb(url);
   const fullHTML = `<!DOCTYPE html><html><head></head><body>${html}</body></html>`;
@@ -40,13 +40,13 @@ const getNewsList = async (date) => {
     if (!links.includes(link)) links.push(link);
   });
 
-  const abstract = links.shift();
-  console.log('成功获取新闻列表');
+  const abstractUrl = links.shift();
+
   return {
-    abstract,
-    news: links,
+    abstractUrl,
+    newsUrls: links,
   };
-};
+}
 
 function trySelector(el, selectors, formatter, defaultValue, useEl) {
   for (let selector of selectors) {
@@ -59,15 +59,16 @@ function trySelector(el, selectors, formatter, defaultValue, useEl) {
       }
     }
   }
+
   return defaultValue;
 }
 
 /**
  * 获取新闻摘要 (简介)
  * @param {String} link 简介的链接
- * @returns {String} 简介内容
+ * @returns {{url: string; content: string}} 简介内容
  */
-const getAbstract = async (link) => {
+async function fetchAbstract(link) {
   const HTML = await fetchweb(link);
 
   const selector1 = `div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)`;
@@ -82,16 +83,16 @@ const getAbstract = async (link) => {
   const dom = new JSDOM(HTML);
   const document = dom.window.document;
 
-  let abstract = trySelector(document, [selector1, selector2], formatter, '没有找到简介');
-  console.log('成功获取新闻简介');
-  return abstract;
-};
+  let abstract = trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
+  return { url: link, content: abstract };
+}
 
 /**
  * 将 HTML 的块元素格式化为 Markdown 段落
  * @param {HTMLElement} contentAreaEl
+ * @returns {string}
  */
-const blockToMarkdownParagraphs = (contentAreaEl) => {
+function htmlToMarkdownPar(contentAreaEl) {
   let result = [];
   let el = contentAreaEl?.firstChild;
   while (el) {
@@ -103,60 +104,71 @@ const blockToMarkdownParagraphs = (contentAreaEl) => {
   }
 
   return result.join('\n\n');
-};
+}
 
 /**
  * 获取新闻本体
- * @param {Array} links 链接数组
- * @returns {Object} title为新闻标题, content为新闻内容
+ * @param {Array<string>} links 链接数组
+ * @returns {Array<{url: string; title: string; content: string}>}
  */
-const getNews = async (links) => {
-  const linksLength = links.length;
-  console.log('共', linksLength, '则新闻, 开始获取');
+async function fetchNewsDetails(links) {
+  const size = links.length;
+  console.log(`共 ${size} 则新闻`);
+
   // 所有新闻
-  var news = [];
-  for (let i = 0; i < linksLength; i++) {
-    const url = links[i];
-    const html = await fetchweb(url);
-    const dom = new JSDOM(html);
+  const result = [];
+  for (let i = 0; i < size; i++) {
+    try {
+      const url = links[i];
+      const html = await fetchweb(url);
 
-    const document = dom.window.document;
+      const dom = new JSDOM(html);
+      const document = dom.window.document;
 
-    const titleSelector1 = '#page_body > div.allcontent > div.video18847 > div.playingVideo > div.tit';
-    const titleSelector2 = '.cnt_nav > h3:nth-child(2)';
-    const formatTitle = (x) => x.replace('[视频]', '');
-    const title = trySelector(document, [titleSelector1, titleSelector2], formatTitle, 'NO_TITLE');
+      const titleSelector1 = '#page_body > div.allcontent > div.video18847 > div.playingVideo > div.tit';
+      const titleSelector2 = '.cnt_nav > h3:nth-child(2)';
+      const formatTitle = (x) => x.replace('[视频]', '');
+      const title = trySelector(document, [titleSelector1, titleSelector2], formatTitle, 'TITLE NOTFOUND');
 
-    const contentSelector1 = '#content_area';
-    const contentSelector2 = '.cnt_bd';
-    const content = trySelector(document, [contentSelector1, contentSelector2], blockToMarkdownParagraphs, 'NO_CONTENT', true);
+      const contentSelector1 = '#content_area';
+      const contentSelector2 = '.cnt_bd';
+      const content = trySelector(document, [contentSelector1, contentSelector2], htmlToMarkdownPar, 'CONTENT NOTFOUND', true);
 
-    news.push({ title, content });
-    console.count('获取的新闻则数');
+      result.push({ url, title, content });
+      console.log('.');
+    } catch (err) {
+      console.log('X', err.message);
+    }
   }
-  console.log('成功获取所有新闻');
-  return news;
-};
+
+  return result;
+}
 
 /**
  * 将数据处理为md格式
  * @param {Object} object date为获取的时间, abstract为新闻简介, news为新闻数组, links为新闻链接
  * @returns {String} 处理成功后的md文本
  */
-const newsToMarkdown = ({ date, abstract, news, links }) => {
-  // 将数据处理为md文档
-  let mdNews = '';
-  const newsLength = news.length;
-  for (let i = 0; i < newsLength; i++) {
-    const { title, content } = news[i];
-    const link = links[i];
-    mdNews += `### ${title}\n\n${content}\n\n[查看原文](${link})\n\n`;
+const toMarkdownPost = ({ date, abstract, newses }) => {
+  let buf = `# 《新闻联播》（${date}）\n\n`;
+  if (abstract) {
+    buf += `## 新闻摘要\n\n${abstract.content}\n\n[查看原文](${abstract.url})\n\n`;
+    buf += `## 详细新闻\n\n`;
   }
-  return `# 《新闻联播》 (${date})\n\n## 新闻摘要\n\n${abstract}\n\n## 详细新闻\n\n${mdNews}\n\n---\n\n(更新时间戳: ${new Date().getTime()})\n\n`;
+
+  const newses_ = newses || [];
+  for (const news of newses_) {
+    buf += `### ${news.title}\n\n${news.content}\n\n[查看原文](${news.url})\n\n`;
+  }
+
+  const now = new Date();
+  buf += `\n----\n\n更新时间：${now.toJSON()}`;
+
+  return buf;
 };
 
 export async function fetchNews(date) {
-  console.log('\n\n=========================\n\n');
+  console.log('=========================');
 
   // 当前日期
   const DATE = getDate(date);
@@ -169,15 +181,18 @@ export async function fetchNews(date) {
   console.log('DATE:', DATE);
   console.log('NEWS_PATH:', NEWS_PATH);
 
-  const newsList = await getNewsList(DATE);
-  const abstract = await getAbstract(newsList.abstract);
-  const news = await getNews(newsList.news);
-  const md = newsToMarkdown({
+  const { abstractUrl, newsUrls } = await fetchLinks(DATE);
+  console.log('取得摘要 URL =', abstractUrl ? 1 : 0, '取得详细新闻 URL =', newsUrls.length);
+
+  const abstract = await fetchAbstract(abstractUrl);
+  const newses = await fetchNewsDetails(newsUrls);
+
+  const md = toMarkdownPost({
     date: DATE,
-    abstract,
-    news,
-    links: newsList.news,
+    abstract: abstract,
+    newses,
   });
+
   await writeFile(NEWS_MD_PATH, md);
-  console.log('全部成功, 程序结束');
+  console.log('updated\n\n');
 }
