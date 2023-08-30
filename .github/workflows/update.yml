@@ -1,4 +1,4 @@
-name: Daily Fetch for node18 branch
+name: Weekly update news
 
 on:
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
       - run: git add .
       - run: git commit -m "[bot] AUTO UPDATE"
       - name: Push master changes
-        uses: ad-m/github-push-action@node18
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: node18
