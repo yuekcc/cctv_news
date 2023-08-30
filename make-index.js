@@ -12,7 +12,7 @@ if (!Array.prototype.toSorted) {
 }
 
 function printLink(name) {
-  return `[${name.replaceAll(/\.md$/g, '')}](./news/${name})`;
+  return `[${name.replaceAll(/\.md$/g, '')}](./news/${name}.md)`;
 }
 
 function chunk(myList, size) {
