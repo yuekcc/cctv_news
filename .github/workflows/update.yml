@@ -3,8 +3,8 @@ name: Daily update
 on:
   workflow_dispatch:
   schedule:
-    # 北京时间每天晚上 9 点执行
-    - cron: '0 13 * * *'
+    # 北京时间每天上午 9 点执行，获取昨天的数据
+    - cron: '0 1 * * *'
 
 jobs:
   update:
