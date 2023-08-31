@@ -4,6 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import fetchweb from './fetch.js';
+import { formatHtml } from './format_html.js';
 
 const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
 
@@ -83,7 +84,7 @@ async function fetchAbstract(link) {
   const dom = new JSDOM(HTML);
   const document = dom.window.document;
 
-  let abstract = trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
+  let abstract = await trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
   return { url: link, content: abstract };
 }
 
@@ -93,17 +94,8 @@ async function fetchAbstract(link) {
  * @returns {string}
  */
 function htmlToMarkdownPar(contentAreaEl) {
-  let result = [];
-  let el = contentAreaEl?.firstChild;
-  while (el) {
-    // nodeType === 8 是注释
-    if (el.nodeType !== 8) {
-      result.push(el.textContent);
-    }
-    el = el.nextSibling;
-  }
-
-  return result.join('\n\n');
+  const html = contentAreaEl.innerHTML
+  return formatHtml(html);
 }
 
 /**
@@ -127,12 +119,12 @@ async function fetchNewsDetails(links) {
 
       const titleSelector1 = '#page_body > div.allcontent > div.video18847 > div.playingVideo > div.tit';
       const titleSelector2 = '.cnt_nav > h3:nth-child(2)';
-      const formatTitle = (x) => x.replace('[视频]', '');
-      const title = trySelector(document, [titleSelector1, titleSelector2], formatTitle, 'TITLE NOTFOUND');
+      const formatTitle = (x) => Promise.resolve( x.replace('[视频]', ''));
+      const title = await trySelector(document, [titleSelector1, titleSelector2], formatTitle, 'TITLE NOTFOUND');
 
       const contentSelector1 = '#content_area';
       const contentSelector2 = '.cnt_bd';
-      const content = trySelector(document, [contentSelector1, contentSelector2], htmlToMarkdownPar, 'CONTENT NOTFOUND', true);
+      const content = await trySelector(document, [contentSelector1, contentSelector2], htmlToMarkdownPar, 'CONTENT NOTFOUND', true);
 
       result.push({ url, title, content });
       console.log('.');
