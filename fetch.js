@@ -4,12 +4,34 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-function dumpHtml(url, content) {
+function getFilenameFromUrl(url) {
   const filename = url.split('/').at(-1);
-  return fs.writeFile(path.join(__dirname, 'dump_htmls', filename), content, 'utf-8');
+  return path.join(__dirname, 'dump_htmls', filename);
+}
+
+function dumpHtml(url, content) {
+  const filename = getFilenameFromUrl(url);
+  return fs.writeFile(filename, content, 'utf-8');
+}
+
+async function tryDumpedFile(url) {
+  try {
+    const filename = getFilenameFromUrl(url);
+    await fs.access(filename);
+
+    return fs.readFile(filename, 'utf-8');
+  } catch {
+    return null;
+  }
 }
 
 export default async function (url) {
+  // 尝试读取已经存在的文件
+  const html = await tryDumpedFile(url);
+  if (html) {
+    return html;
+  }
+
   const abort = new AbortController();
   const signal = abort.signal;
 
