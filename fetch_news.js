@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-import { JSDOM } from 'jsdom';
+import {parseHTML} from 'linkedom';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -29,8 +29,8 @@ async function fetchLinks(date) {
   console.log('下载数据，URL =', url);
 
   const html = await fetchweb(url);
-  const fullHTML = `<!DOCTYPE html><html><head></head><body>${html}</body></html>`;
-  const dom = new JSDOM(fullHTML);
+  const fullHtml = `<!DOCTYPE html><html><head></head><body>${html}</body></html>`;
+  const dom = parseHTML(fullHtml);
   const nodes = dom.window.document.querySelectorAll('a');
 
   var links = [];
@@ -70,7 +70,7 @@ function trySelector(el, selectors, formatter, defaultValue, useEl) {
  * @returns {{url: string; content: string}} 简介内容
  */
 async function fetchAbstract(link) {
-  const HTML = await fetchweb(link);
+  const html = await fetchweb(link);
 
   const selector1 = `div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)`;
   const selector2 = `#page_body > div.allcontent > div.video18847 > div.playingCon > div.nrjianjie_shadow > div > ul > li:nth-child(1) > p`;
@@ -81,7 +81,7 @@ async function fetchAbstract(link) {
       .replaceAll('：', '：\n\n');
   };
 
-  const dom = new JSDOM(HTML);
+  const dom = parseHTML(html);
   const document = dom.window.document;
 
   let abstract = await trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
@@ -114,7 +114,7 @@ async function fetchNewsDetails(links) {
       const url = links[i];
       const html = await fetchweb(url);
 
-      const dom = new JSDOM(html);
+      const dom = parseHTML(html);
       const document = dom.window.document;
 
       const titleSelector1 = '#page_body > div.allcontent > div.video18847 > div.playingVideo > div.tit';
