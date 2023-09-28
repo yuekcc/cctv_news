@@ -48,7 +48,8 @@ Object.entries(grouped)
     buf += `| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n`;
     buf += `|---|---|---|---|---|---|---|\n`;
 
-    const groupedList = chunk(list, 7).map((dates) => {
+    const list_ = list.toSorted((a, b) => parseInt(a) - parseInt(b))
+    const groupedList = chunk(list_, 7).map((dates) => {
       return `| ${dates.map(printLink).join(' | ')} |`;
     });
 
