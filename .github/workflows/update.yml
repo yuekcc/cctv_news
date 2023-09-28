@@ -15,7 +15,6 @@ jobs:
       - uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
-      - run: bun install
       - run: bun run fetch
       - run: bun run remake-index
       - run: git config --local user.email "github-actions[bot]@github.com"

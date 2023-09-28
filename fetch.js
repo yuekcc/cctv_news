@@ -2,11 +2,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'url';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
 function getFilenameFromUrl(url) {
   const filename = url.split('/').at(-1);
-  return path.join(__dirname, 'dump_htmls', filename);
+  return path.join(process.cwd(), 'dump_htmls', filename);
 }
 
 function dumpHtml(url, content) {

@@ -2,20 +2,31 @@
 
 取自 [央视网](https://tv.cctv.com/) 的文字稿。
 
-👉👉👉 [稿件目录](./INDEX.md) 👈👈👈
+👉👉👉 [目录](./INDEX.md) 👈👈👈
 
 
 ## 执行
 
+需要 bun > 1.0:
+
 ```sh
 # 只下载当天
-npm run fetch
+bun run fetch
 
 # 重新创建 INDEX.md 索引文件
-npm run remake-index
+bun run remake-index
 ```
 
 也可以配置 git actions 每天定时执行。
+
+## 构建
+
+```sh
+bun i
+bash build.sh
+```
+
+注意：每次更新代码后，都需要执行 `bash build.sh` 更新 dist 目录。github actions 执行的是 dist 目录下的 *.js。
 
 ## 其他
 

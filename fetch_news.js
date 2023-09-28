@@ -8,8 +8,6 @@ import { formatHtml } from './format_html.js';
 
 const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
 /**
  * 得到当前日期
  * @returns 当前日期, 格式如: 20220929
@@ -165,7 +163,7 @@ export async function fetchNews(date) {
   // 当前日期
   const DATE = getDate(date);
   // /news 目录
-  const NEWS_PATH = path.join(__dirname, 'news');
+  const NEWS_PATH = path.join(process.cwd(), 'news');
   // /news/xxxxxxxx.md 文件
   const NEWS_MD_PATH = path.join(NEWS_PATH, DATE + '.md');
 

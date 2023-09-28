@@ -3,8 +3,8 @@
   "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "fetch": "node index.js",
-    "remake-index": "node make-index.js"
+    "fetch": "bun run dist/index.js",
+    "remake-index": "bun run dist/make-index.js"
   },
   "dependencies": {
     "linkedom": "^0.15.3",
@@ -13,5 +13,8 @@
     "remark-gfm": "^3.0.1",
     "remark-stringify": "^10.0.3",
     "unified": "^11.0.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.3"
   }
 }
