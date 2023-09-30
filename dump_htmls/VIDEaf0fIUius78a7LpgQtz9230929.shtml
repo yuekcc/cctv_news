@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>《新闻联播》 20230929 21:00</title>
+<meta name="contentid" content="VIDEaf0fIUius78a7LpgQtz9230929">
+<meta name=keywords content="新闻联播 宝晓峰 潘涛 习近平 王沪宁 中秋节 假期出行 嫦娥六号 杭州亚运会">
+<meta name=description content="《新闻联播》 20230929 21:00">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="《新闻联播》 20230929 21:00" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="《新闻联播》 20230929 21:00" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "《新闻联播》 20230929 21:00"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEaf0fIUius78a7LpgQtz9230929";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2023/09/29/VIDEaf0fIUius78a7LpgQtz9230929.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="《新闻联播》 20230929 21:00";
+var commentimg3="//p3.img.cctvpic.com/fmspic/2023/09/29/90e79debb6044566a77506a6319c54a0-45950235-2.jpg";
+var commentimg2="//p4.img.cctvpic.com/fmspic/2023/09/29/90e79debb6044566a77506a6319c54a0-45950235-0.jpg";
+var commentimg1="//p4.img.cctvpic.com/photoworkspace/2023/09/29/2023092922135665236.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2023/09/29 19:00:03';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/photoworkspace/2023/09/29/2023092922135665236.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="bvmrvuax33yvqzixpq7q-f-6c8c91ef1-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1b316d7e","ak.r":39397,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.89.26.0","ak.cport":37184,"ak.gh":"23.47.59.88","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1696037951","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==s3VYUIh0dljYrQ37Ny3Heq85vS1q1lPQRRRflxjmTBR1k95cb0OX/zQt2wpEXPSOOdoIZVmZULTMzSrSiKeppHpXsYgm9P2kfLtZoiGEmLXpzTujOS19foGchd3zUYyEMZFdcCZUyG61TpZm8bXLxjhRM3eUvQtGXizeGKbPC1UpLW4zaVsv1JhqZfOyySHpBIeOcBspFDIMbWW9Wcbt6rcaft2BEqlf9ZB1TbsqcL7+VuJpyxEP495tcmwqoJZ2lFU4ZlIboMoF4w+U9hwrKUSPnCrfyZjWkJX/uakwbmUGvQ9X2Ig3NG6ujcowRkDL2yKmiTSyRZUTJABDobY/l0UIZXiSFf0AwGH7+CcSJOucWBQpzTvyRieHq528Lboag6X1tsgln7Jiqw2q2hwj9RgugO9iKzv/tLrb1j6WV44=","ak.pv":"173","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "90e79debb6044566a77506a6319c54a0";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "新闻联播 宝晓峰 潘涛 习近平 王沪宁 中秋节 假期出行 嫦娥六号 杭州亚运会";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">《新闻联播》 20230929 21:00</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2023-09-29 19:00</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="新闻联播 宝晓峰 潘涛 习近平 王沪宁 中秋节 假期出行 嫦娥六号 杭州亚运会";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>本期节目主要内容：
+1.习近平回信勉励中国人民公安大学在读英烈子女 以英雄的父辈为榜样 矢志不渝做党和人民的忠诚卫士；
+2.烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席；
+3.坚定不移朝着强国建设 民族复兴的宏伟目标奋勇前进——习近平总书记在国庆招待会上的重要讲话在广大干部群众中引发热烈反响；
+4.王沪宁会见全国少数民族参观团；
+5.感受中秋传统文化 共享美好生活；
+6.交通出行迎来客流高峰 多举措确保旅客安全便捷；
+7.嫦娥六号2024年前后登陆月球背面；
+8.【新闻特写】相约亚运 相会中秋；
+9.【杭州第19届亚运会】田径比赛开赛 游泳比赛即将收官；
+10.国内联播快讯：
+（1）多项支持农村金融发展税收优惠政策延续实施；
+（2）1—8月我国公路水路交通固定资产投资超2万亿元；
+（3）青海引大济湟工程实现全线通水；
+（4）中欧班列（西安）累计开行突破20000列；
+（5）福厦高铁开通运营；
+（6）辽宁桓仁至吉林集安高速公路建成通车；
+（7）天文学家发现M87星系黑洞自旋观测证据；
+（8）“何以文明”全球巡展港澳特展启动；
+（9）《中央广播电视总台2023年中秋晚会》今晚播出；
+（10）《高端访谈》今晚播出叙利亚总统巴沙尔独家专访；
+11.我驻外使馆使团举行国庆招待会；
+12.国际联播快讯：
+（1）中国代表谴责西方国家侵犯土著人权利；
+（2）德意外长在移民问题上存在分歧；
+13.美丽中国。
+（《新闻联播》 20230929 21:00）</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">《新闻联播》 20230929 21:00</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2023年09月29日 19:00</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">本期节目主要内容：
+1.习近平回信勉励中国人民公安大学在读英烈子女 以英雄的父辈为榜样 矢志不渝做党和人民的忠诚卫士；
+2.烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席；
+3.坚定不移朝着强国建设 民族复兴的宏伟目标奋勇前进——习近平总书记在国庆招待会上的重要讲话在广大干部群众中引发热烈反响；
+4.王沪宁会见全国少数民族参观团；
+5.感受中秋传统文化 共享美好生活；
+6.交通出行迎来客流高峰 多举措确保旅客安全便捷；
+7.嫦娥六号2024年前后登陆月球背面；
+8.【新闻特写】相约亚运 相会中秋；
+9.【杭州第19届亚运会】田径比赛开赛 游泳比赛即将收官；
+10.国内联播快讯：
+（1）多项支持农村金融发展税收优惠政策延续实施；
+（2）1—8月我国公路水路交通固定资产投资超2万亿元；
+（3）青海引大济湟工程实现全线通水；
+（4）中欧班列（西安）累计开行突破20000列；
+（5）福厦高铁开通运营；
+（6）辽宁桓仁至吉林集安高速公路建成通车；
+（7）天文学家发现M87星系黑洞自旋观测证据；
+（8）“何以文明”全球巡展港澳特展启动；
+（9）《中央广播电视总台2023年中秋晚会》今晚播出；
+（10）《高端访谈》今晚播出叙利亚总统巴沙尔独家专访；
+11.我驻外使馆使团举行国庆招待会；
+12.国际联播快讯：
+（1）中国代表谴责西方国家侵犯土著人权利；
+（2）德意外长在移民问题上存在分歧；
+13.美丽中国。
+（《新闻联播》 20230929 21:00）</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"></div>
+				<div class="zebian"><i></i>
+					<span>编辑：甄涛</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
