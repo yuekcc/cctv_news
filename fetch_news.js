@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
-import {parseHTML} from 'linkedom';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { parseHTML } from 'linkedom';
 
 import fetchweb from './fetch.js';
 import { formatHtml } from './format_html.js';
@@ -10,11 +10,11 @@ const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
 
 /**
  * 得到当前日期
- * @returns 当前日期, 格式如: 20220929
+ * @returns 当前日期，格式如：20220929
  */
 const getDate = (date) => {
-  const add0 = (num) => (num < 10 ? '0' + num : num);
-  return '' + date.getFullYear() + add0(date.getMonth() + 1) + add0(date.getDate());
+  const add0 = (num) => (num < 10 ? `0${num}` : num);
+  return `${date.getFullYear()}${add0(date.getMonth() + 1)}${add0(date.getDate())}`;
 };
 
 /**
@@ -31,10 +31,11 @@ async function fetchLinks(date) {
   const dom = parseHTML(fullHtml);
   const nodes = dom.window.document.querySelectorAll('a');
 
-  var links = [];
+  const links = [];
+  // biome-ignore lint/complexity/noForEach: <explanation>
   nodes.forEach((node) => {
-    // 从dom节点获得href中的链接
-    let link = node.href;
+    // 从 dom 节点获得 href 中的链接
+    const link = node.href;
     // 如果已经有了就不再添加 (去重)
     if (!links.includes(link)) links.push(link);
   });
@@ -48,14 +49,13 @@ async function fetchLinks(date) {
 }
 
 function trySelector(el, selectors, formatter, defaultValue, useEl) {
-  for (let selector of selectors) {
+  for (const selector of selectors) {
     const selected = el.querySelector(selector);
     if (selected) {
       if (useEl) {
         return formatter(selected);
-      } else {
-        return formatter(selected.textContent);
       }
+      return formatter(selected.textContent);
     }
   }
 
@@ -70,8 +70,9 @@ function trySelector(el, selectors, formatter, defaultValue, useEl) {
 async function fetchAbstract(link) {
   const html = await fetchweb(link);
 
-  const selector1 = `div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)`;
-  const selector2 = `#page_body > div.allcontent > div.video18847 > div.playingCon > div.nrjianjie_shadow > div > ul > li:nth-child(1) > p`;
+  const selector1 = 'div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)';
+  const selector2 =
+    '#page_body > div.allcontent > div.video18847 > div.playingCon > div.nrjianjie_shadow > div > ul > li:nth-child(1) > p';
   const formatter = (x) => {
     return x
       .replaceAll(/^视频简介：/g, '')
@@ -82,7 +83,7 @@ async function fetchAbstract(link) {
   const dom = parseHTML(html);
   const document = dom.window.document;
 
-  let abstract = await trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
+  const abstract = await trySelector(document, [selector1, selector2], formatter, 'ABSTRACT NOT FOUND');
   return { url: link, content: abstract };
 }
 
@@ -92,7 +93,7 @@ async function fetchAbstract(link) {
  * @returns {string}
  */
 function htmlToMarkdownPar(contentAreaEl) {
-  const html = contentAreaEl.innerHTML
+  const html = contentAreaEl.innerHTML;
   return formatHtml(html);
 }
 
@@ -117,12 +118,18 @@ async function fetchNewsDetails(links) {
 
       const titleSelector1 = '#page_body > div.allcontent > div.video18847 > div.playingVideo > div.tit';
       const titleSelector2 = '.cnt_nav > h3:nth-child(2)';
-      const formatTitle = (x) => Promise.resolve( x.replace('[视频]', ''));
+      const formatTitle = (x) => Promise.resolve(x.replace('[视频]', ''));
       const title = await trySelector(document, [titleSelector1, titleSelector2], formatTitle, 'TITLE NOTFOUND');
 
       const contentSelector1 = '#content_area';
       const contentSelector2 = '.cnt_bd';
-      const content = await trySelector(document, [contentSelector1, contentSelector2], htmlToMarkdownPar, 'CONTENT NOTFOUND', true);
+      const content = await trySelector(
+        document,
+        [contentSelector1, contentSelector2],
+        htmlToMarkdownPar,
+        'CONTENT NOTFOUND',
+        true,
+      );
 
       result.push({ url, title, content });
       console.log('.');
@@ -135,15 +142,15 @@ async function fetchNewsDetails(links) {
 }
 
 /**
- * 将数据处理为md格式
- * @param {Object} object date为获取的时间, abstract为新闻简介, news为新闻数组, links为新闻链接
- * @returns {String} 处理成功后的md文本
+ * 将数据处理为 md 格式
+ * @param {Object} object date 为获取的时间，abstract 为新闻简介，news 为新闻数组，links 为新闻链接
+ * @returns {String} 处理成功后的 md 文本
  */
 const toMarkdownPost = ({ date, abstract, newses }) => {
   let buf = `# 《新闻联播》（${date}）\n\n`;
   if (abstract) {
     buf += `## 新闻摘要\n\n${abstract.content}\n\n[查看原文](${abstract.url})\n\n`;
-    buf += `## 详细新闻\n\n`;
+    buf += '## 详细新闻\n\n';
   }
 
   const newses_ = newses || [];
@@ -165,7 +172,7 @@ export async function fetchNews(date) {
   // /news 目录
   const NEWS_PATH = path.join(process.cwd(), 'news');
   // /news/xxxxxxxx.md 文件
-  const NEWS_MD_PATH = path.join(NEWS_PATH, DATE + '.md');
+  const NEWS_MD_PATH = path.join(NEWS_PATH, `${DATE}.md`);
 
   // 打印调试信息
   console.log('DATE:', DATE);

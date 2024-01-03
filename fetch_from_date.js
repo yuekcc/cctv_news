@@ -1,10 +1,10 @@
 import { fetchNews } from './fetch_news.js';
 
 let startDate = 1;
-let startMonth = 0;
-let startYear = 2022;
+const startMonth = 0;
+const startYear = 2022;
 let thatDate = new Date(startYear, startMonth, startDate);
-let today = new Date();
+const today = new Date();
 
 async function fetchHistory() {
   try {

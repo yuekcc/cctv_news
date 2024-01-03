@@ -38,6 +38,7 @@ const grouped = list
 
 let buf = '# 目录\n\n';
 
+// biome-ignore lint/complexity/noForEach: <explanation>
 Object.entries(grouped)
   .toSorted((a, b) => {
     return parseInt(b[0]) - parseInt(a[0]);
@@ -45,14 +46,15 @@ Object.entries(grouped)
   .forEach(([name, list]) => {
     buf += `## ${name}\n\n`;
 
-    buf += `| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n`;
-    buf += `|---|---|---|---|---|---|---|\n`;
+    buf += '| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n';
+    buf += '|---|---|---|---|---|---|---|\n';
 
-    const list_ = list.toSorted((a, b) => parseInt(a) - parseInt(b))
+    const list_ = list.toSorted((a, b) => parseInt(a) - parseInt(b));
     const groupedList = chunk(list_, 7).map((dates) => {
       return `| ${dates.map(printLink).join(' | ')} |`;
     });
 
+    // biome-ignore lint/complexity/noForEach: <explanation>
     groupedList.forEach((row) => {
       buf += `${row}\n`;
     });
