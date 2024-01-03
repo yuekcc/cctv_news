@@ -1,7 +1,6 @@
+import { parseHTML } from 'linkedom';
 import fs from 'node:fs/promises';
 import path from 'path';
-import { fileURLToPath } from 'url';
-import { parseHTML } from 'linkedom';
 
 import fetchweb from './fetch.js';
 import { formatHtml } from './format_html.js';
