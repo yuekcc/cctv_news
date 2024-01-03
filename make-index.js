@@ -50,7 +50,7 @@ Object.entries(groupedByMonth)
   .forEach(([name, list]) => {
     buf += `## ${name}\n\n`;
 
-    buf += '| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n';
+    buf += '| 一 | 二 | 三 | 四 | 五 | 六 | 日 |\n';
     buf += '|---|---|---|---|---|---|---|\n';
 
     // list_ 是年月日字符串的数组
