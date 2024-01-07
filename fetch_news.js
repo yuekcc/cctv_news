@@ -2,7 +2,7 @@ import { parseHTML } from 'linkedom';
 import fs from 'node:fs/promises';
 import path from 'path';
 
-import fetchweb from './fetch.js';
+import { getWeb } from './get_web.js';
 import { formatHtml } from './format_html.js';
 
 const writeFile = (path, data) => fs.writeFile(path, data, 'utf-8');
@@ -67,7 +67,7 @@ function trySelector(el, selectors, formatter, defaultValue, useEl) {
  * @returns {{url: string; content: string}} 简介内容
  */
 async function fetchAbstract(link) {
-  const html = await fetchweb(link);
+  const html = await getWeb(link);
 
   const selector1 = 'div.chblock:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(3)';
   const selector2 =

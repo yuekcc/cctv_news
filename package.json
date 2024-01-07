@@ -6,15 +6,13 @@
     "fetch": "bun run dist/index.js",
     "remake-index": "bun run dist/make-index.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "linkedom": "^0.15.3",
     "rehype-parse": "^9.0.0",
     "rehype-remark": "^10.0.0",
     "remark-gfm": "^3.0.1",
     "remark-stringify": "^10.0.3",
-    "unified": "^11.0.2"
-  },
-  "devDependencies": {
+    "unified": "^11.0.2",
     "esbuild": "^0.19.3"
   }
 }
