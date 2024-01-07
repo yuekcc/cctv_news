@@ -25,7 +25,7 @@ async function fetchLinks(date) {
   const url = `http://tv.cctv.com/lm/xwlb/day/${date}.shtml`;
   console.log('下载数据，URL =', url);
 
-  const html = await fetchweb(url);
+  const html = await getWeb(url);
   const fullHtml = `<!DOCTYPE html><html><head></head><body>${html}</body></html>`;
   const dom = parseHTML(fullHtml);
   const nodes = dom.window.document.querySelectorAll('a');
@@ -110,7 +110,7 @@ async function fetchNewsDetails(links) {
   for (let i = 0; i < size; i++) {
     try {
       const url = links[i];
-      const html = await fetchweb(url);
+      const html = await getWeb(url);
 
       const dom = parseHTML(html);
       const document = dom.window.document;
