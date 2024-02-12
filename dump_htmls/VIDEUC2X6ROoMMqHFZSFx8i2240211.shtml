@@ -1,0 +1,667 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	
+		<title>[视频]【锦绣中国年】红红火火庆新春</title>
+		<meta name="contentid" content="VIDEUC2X6ROoMMqHFZSFx8i2240211">
+		<meta name=keywords content="锦绣中国年 红红火火 庆新春">
+		<meta name=description content="[视频]【锦绣中国年】红红火火庆新春">
+		<meta name="spm-id" content="C52056131267">
+		<meta property="og:title" content="[视频]【锦绣中国年】红红火火庆新春" />
+		<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+		<meta property="og:description" content="[视频]【锦绣中国年】红红火火庆新春" /> 
+		<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+		<script language="Javascript">
+			var url_domainname=location.href;			
+			var num_1= url_domainname.split("//")[1];
+			var domainame_ = num_1.split("/")[0]
+			var type_ = num_1.split(".")[0]
+			var commentTitle = "[视频]【锦绣中国年】红红火火庆新春"; /*评论标题*/
+			/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+			var itemid1="VIDEUC2X6ROoMMqHFZSFx8i2240211";/*正文页id，赋值给留言评论模块的参数之一*/
+			var commentUrl = "https://tv.cctv.com/2024/02/11/VIDEUC2X6ROoMMqHFZSFx8i2240211.shtml";
+			var column_id = "TOPC1451528971114112";/*专题id*/
+			var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+			var domainname = domainame_;
+			var chnl_domain = domainame_;
+			var video_ad_primary_column_id = sub_column_id;		  
+			var video_ad_channel_id="CHAL1450952056131267";
+			var sobey_video_flag = '1';
+			var type=type_;
+			var pindao_1 = "CHAL1450952056131267";			
+			var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+			var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+			var new_str = times_str.replace(/ /g,'-');
+			var arr = new_str.split("-");
+			var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+			var timeint=datum.getTime()/1000;
+			var html;
+			var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+			var commentbreif="[视频]【锦绣中国年】红红火火庆新春";
+			var commentimg3="//p1.img.cctvpic.com/fmspic/2024/02/11/69b14aa4c89648ddb7be4ecc1aa24666-300.jpg";
+			var commentimg2="//p4.img.cctvpic.com/fmspic/2024/02/11/69b14aa4c89648ddb7be4ecc1aa24666-1.jpg";
+			var commentimg1="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2024/2/11/VIDEAv1l5VdxeOKBPAnslSzv240211.jpg";
+			var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+			var commentimg=commentimg3;
+			if(commentimg3==""){
+				commentimg=commentimg2;
+			}
+			if(commentimg2==""){
+				commentimg=commentimg1;
+			}
+			if(commentimg1==""){
+				commentimg=commentimg0;
+			}
+			if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+			  commentimg = "https://"+commentimg.split("//")[1];
+			}
+			window.shareObj={}
+			shareObj.shareUrl = window.location.href;
+			shareObj.shareTitle = commentTitle;
+			shareObj.pic = commentimg;
+			shareObj.summary =commentbreif;
+			var hdprop='';
+			var hdpropAd='1';
+			var fdate='2024/02/11 19:13:22';
+		</script>
+
+	
+		<script language="Javascript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2024/2/11/VIDEAv1l5VdxeOKBPAnslSzv240211.jpg";
+		</script>
+	
+	<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css?3333d333dd">
+	<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css?vzxc">
+	<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+	<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+	<link rel="stylesheet" type="text/css" href=""/>
+	<script type="text/javascript">
+		var  isMobile=judgeisMobile()
+	</script>
+	<script>
+	if($(window).width()  <= 1024){
+		var obj = new publicRemPageTool();
+		obj.showProper(750,true);
+	}
+</script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="vs3yghyxzx76uzojo3za-f-8ff0b8dc7-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"9e1c4b34","ak.r":47854,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"172.183.131.0","ak.cport":4032,"ak.gh":"23.42.150.42","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1707702002","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==0fN5MwtDim5qAjUFND7pvSDPGV95CZq085PIItd5ait78NQBcdcNrF6+Wuzs9aZ4SBIYDVL/rLfA5GsQkXSlE1KmlCLAvElqbVzjmLt6Ob3Mf8bDeH6/RHBddspdkW20G0HpsyO2XVCgiruygsXTs0OUHaWKigfkjcW3ju0lcook2VBudFOMYQpXtwMyw9Jr68idXC0tHIw6z1Av9ywId55r13ourhKOpF4O769Z4aMFIyv/FRTUobmSJPKTv2/qz8HgQF4/FJfWlaE7T/QEbugi8ynUD9ftK93FJsftAdMVGQvAKQxy6uEQ6HQrcFC21J/UnAxQlBstwPXsPps+eyQhzW8htSpyVoQpFwXtv6cBYPT+1gL9tbOS5EeKI4t2dpehtaAAwqFaH5aAJZ3XvG52D9KyGaHLh6NFB0x9fHw=","ak.pv":"188","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->				
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+	<div class="allcontent">
+		 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+		<div class="video18847">
+			<div class="playingVideo">
+				<div class="video">
+					<div class="video_left" id="video">
+						<div class="flash" id="_video">
+						</div>
+				<!-- 视频开始 -->
+					
+					<script type="text/javascript">
+						var channelId = domainame_;//频道id
+						var adcalldomain = domainame_;//广告
+						var sorts = "1";//广告
+						var sysSource = channelId; //视频来源	
+						var webFullScreenOn = "false";
+						var setupOn = "false";
+						var guid = "69b14aa4c89648ddb7be4ecc1aa24666";
+						   var barrageApp="cms_sports";
+                                   var hasBarrage="false";
+                                  var  danmu_status=0;
+                                  if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+                                   hasBarrage="true";
+                                  danmu_status=1;
+                                  }
+					</script>
+					 <script type="text/javascript">
+                var videokeyWord = "锦绣中国年 红红火火 庆新春";//关键字
+                var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+                var guid_Ad_VideoCode = guid;
+                </script>
+                <script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>
+                <script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+                <script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+              	<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>	
+                <script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+					<!-- 弹幕条 -->
+            		<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+									
+					</div>
+					<div class="clear"></div>
+				</div>
+				
+					<div class="tit">[视频]【锦绣中国年】红红火火庆新春</div>
+				
+			</div>
+			<div class="playingCon">
+				
+				<div class="gongneng">
+					<span class="laiyuan">来源 : 央视网</span>
+					<span class="time">2024-02-11 19:13</span>
+					<span class="nrjianjie"><i>内容简介<b></b></i></span>
+					<span class="biaoqian" id="biaoqian"></span>
+					<span class="dianzan"></span>
+					<script type="text/javascript">
+						/*var keyword="锦绣中国年 红红火火 庆新春";
+						var reg = new RegExp("　","g");
+						var tagArrayBak = keyword.replace(reg," ");
+						var keyword = tagArrayBak.split(" ");
+						var str=""
+						if(keyword.length<3){
+							var len=keyword.length
+						}else{
+							var len=3;
+						}
+						for(var n=0;n<len;n++){
+							if(keyword[n]!=""){
+									str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						
+							}
+						}
+						$("#biaoqian").html(str)*/
+					</script>
+				</div>
+				<div class="nrjianjie_shadow" style="display: none;">
+					<div class="con">
+						<ul>
+							<li>
+								<div class="tit">视频简介</div>
+								<p>【锦绣中国年】红红火火庆新春。</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			<div class="phone_all">
+				
+				<div class="phone_title">
+					<div class="ph_title_l">[视频]【锦绣中国年】红红火火庆新春</div>
+					<div class="ph_title_r">简介</div>
+				</div>
+				
+				
+				<div class="phone_content">
+					<div class="laiyuan">来源：央视网    更新时间：2024年02月11日 19:13</div>
+					<ul>
+						<li>
+							<div class="video_title">视频简介</div>
+							<div class="video_brief">【锦绣中国年】红红火火庆新春。</div>
+						</li>
+					
+					</ul>
+				</div>
+				
+				<div class="phone_gongneng">
+					<span class="like" id="zanNum"></span>
+					<span class="collect"></span>
+					<span class="share"></span>
+				</div>
+				<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+			</div>
+		</div>
+		<div class="title18847"><!-- 移动端 -->
+			<div class="title_con">
+				
+						<div id="content">
+							<div class="contit"><span>主要内容<b></b><i></i></span></div>
+						<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：新春佳节，神州大地喜庆祥和，人们在精彩纷呈的活动中，欢度美好时光，感受幸福活力中国年。<br/></p><p>龙年春节，人们逛庙会、看展览，用丰富多彩的方式欢度佳节。今天（2月11日），北京地坛庙会开幕首日就迎来超13万人次的客流量，老字号推陈出新的文创、颇具网感表达的各类产品凸显出传统文化的主题，同时，丰富多样的民俗表演也让现场喜气欢腾。<br/></p><p>春节假期里，走进武汉园博园的庙会，逛一逛河北廊坊的龙年非遗大集，人们在年味中感受非遗之美，体验传统文化。在甘肃省博物馆的文化集市上，市民游客在雕刻、剪纸等各种非遗展示前流连忘返，不少游客还上手尝试，体验制作非遗手工艺品的乐趣。<br/></p><p>在江西赣州，乡亲们欢聚一堂吃团圆饭，互致新春问候。在陕西西安的游船上，拍一张全家福，留下温馨团圆的记忆。到新疆旅游的不少游客还来乌鲁木齐大巴扎过年，感受不一样的新春韵味。在海南三亚的海岛，观海玩水，让游客有一个异地跨年、寻找别样年味的体验。在广东普宁，刚劲有力的英歌舞吸引游客一饱眼福，感受潮汕特有的年味。<br/></p><p>龙年新春里，舞龙舞狮是各地春节民俗活动的主打。在重庆璧山等地，伴随着铿锵的锣鼓声，舞龙舞狮激情开场，每一个招式气势十足、威猛有力。在山西长治振兴小镇，畅游古街的龙狮队伍为龙年新春增添热闹喜庆氛围。在江苏盐城，盐都区的民俗踩街热闹非凡，射阳日月岛上精彩的舞龙表演吸引了众多游客。在安徽寿州古城，传统的迎春仪式让游客一起祈福纳祥庆新春。在浙江安吉余村，一场非遗踩街表演舞出了乡亲们内心的喜悦。在云南保山，舞龙队伍绕街巡游，这条200米的长龙气宇轩昂、威风凛凛，为龙年春节添喜庆。<br/></p><p>龙年新春的夜晚流光溢彩，点亮幸福&ldquo;中国年&rdquo;。在贵州正安，游客们游园赏灯庆新春。河南焦作的乡村灯光秀、四川达州的创意灯景，以&ldquo;龙&rdquo;元素为主题，让人目不暇接。山东青岛西海岸新区的大型彩灯龙头造型威猛有力、鲜活生动，寓意龙年里我们的国家繁荣兴旺。大年初一夜晚，2024年海峡两岸焰火晚会在厦门、金门两地同时举行，以&ldquo;龙腾四海 福佑两岸&rdquo;为主题的焰火照亮夜空，为两岸同胞送上红红火火的祝福。<br/></p><p>10日晚，香港新春花车巡游在香港文化中心广场举行，参演的花车以&ldquo;龙&rdquo;为主题，寓意&ldquo;龙跃在港&rdquo;，展现龙年的喜庆和活力。<br/></p><p>大年初二，在澳门妈阁庙前，锣鼓喧天，金龙舞动、醒狮齐跃，大批市民和游客驻足观看，现场热闹非凡。</p></div>			
+						<div class="zebian"><i></i>
+							<span>编辑：杨书杰</span>
+							<span id="zb">责任编辑：刘亮</span>
+						</div>
+						<script type="text/javascript">			
+							if ($.trim($("#content_area").html())==""){
+								$("#content").css("display","none");
+							}
+						</script>
+						<script type="text/javascript">
+							var zeditor = '刘亮';
+							if (zeditor==""){
+								$("#zb").css("display","none");
+							}
+						</script>
+						</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="XUQIU18897_pinglun">
+	<!-- 移动端评论展示 -->
+	<div class="comment">
+		<div class="md_0724 pnone" >
+			<div class="md_hd">
+				<span class="mh_title"><i>全部评论</i></span>
+			</div>
+			<div class="md_bd">
+				<div class="ind_pinlun">
+					<ul>
+					</ul>
+					<div class="loading"><div class="loadingmore"><i></i><p><a>查看更多评论</a></p><div style="clear:both;"></div></div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 评论 -->
+	<!-- 评论结束 -->
+</div>
+	<!-- 移动返回顶部 -->
+	<div id="back_to_top" class="gotop_btn"></div>
+	<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+	<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_video_h5.js?ccceedd2"></script>
+	<!--移动pc公用模块-->
+	<div class="XUQIU18897_tonglan">
+		<div class="column_wrapper_1000">
+			
+<div class="BottomPageUniversal18897_ind01" id="BottomPageUniversal18897_ind01">
+
+	<div class="swiper-container">
+		<ul class="swiper-wrapper">
+			
+<li class="swiper-slide"><a class="pctu" href="https://tv.cctv.com/ty/m/index.shtml" target="_blank"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/21/1650506599407_31.jpg"></a>        
+		<a class="ydtu"  href="https://tv.cctv.com/ty/m/index.shtml" target="_blank"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/21/1650506428464_579.jpg"></a> </li>
+
+<li class="swiper-slide"><a class="pctu" href="https://app.cctv.com/special/m/topic/index.html?itemId=1872" target="_blank"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/21/1650506676415_773.jpg"></a>        
+		<a class="ydtu"  href="https://app.cctv.com/special/m/topic/index.html?itemId=1872" target="_blank"><img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/21/1650506006405_372.jpg"></a> </li>
+
+<li class="last swiper-slide"><a class="pctu" href="https://tv.cctv.com/4K/index.shtml" target="_blank"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446186257_590.jpg"></a>        
+		<a class="ydtu"  href="https://tv.cctv.com/4K/index.shtml" target="_blank"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446245629_789.jpg"></a> </li>
+
+			<div class="clear"></div>
+		</ul>
+	</div>
+	</div>
+			
+<div class="ELMTzjrvPFlalwRfcJImr5GH220517" data-spm="EzjrvPFlalwR" id="elemtTV" >
+<div class="md elemtRecmd">
+	 
+	  
+                <div class="md_hdc"><b></b></div>
+	<div class="md_hd">
+
+		<span class="mh_title">热播榜</span>
+		<span class="mh_option"><a href="https://tv.cctv.com/top/index.shtml" target="_blank"  class="more_btn">更多></a></span>
+	 </div>
+ 
+ 
+ <div class="md_bd">
+ 	
+ 	<div data-spm="S77892" id="SUBD1652778301877892">
+		<div class="BottomPageUniversal18897_con03" data-spm= "EodT3cYTeu7H">
+	<div class="left">
+		<ul>
+			<li class="top_1" style="display: block;">
+				<div class="image"><a href="https://tv.cctv.com/2024/02/10/VIDE8ajt1awRaYlNAcDb1HTM240210.shtml?spm=C53156045404.PPW6LDVqXC41.0.0" target="_blank" ><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2024/2/11/1707622181025_411.jpg"><div class="top">TOP 1</div></a></div>
+				<div class="text">
+					<div class="title"><a href="https://tv.cctv.com/2024/02/10/VIDE8ajt1awRaYlNAcDb1HTM240210.shtml?spm=C53156045404.PPW6LDVqXC41.0.0" target="_blank" >辛芷蕾为何被王家卫选中？</a></div>
+					<div class="brief"><a href="https://tv.cctv.com/lm/mdm/index.shtml" target="_blank" >面对面</a></div>
+				</div>
+			</li>
+			<li class="top_2" style="display: block;">
+			<div class="image"><a href="https://tv.cctv.com/2024/02/10/VIDEdPxZDCIOykiR9eRYWCDP240210.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2" target="_blank" ><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2024/2/11/1707622162532_640.jpg"><div class="top">TOP 2</div></a></div>
+				<div class="text">
+					<div class="title"><a href="https://tv.cctv.com/2024/02/10/VIDEdPxZDCIOykiR9eRYWCDP240210.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2" target="_blank" >2024春晚台前幕后大揭秘</a></div>
+					<div class="brief"><a href="https://tv.cctv.com/lm/wjxw/index.shtml" target="_blank" >晚间新闻</a></div>
+				</div>
+			</li>
+			<li class="last top_3" style="display: block;">
+				<i class="daping">TOP </i><i>3</i>
+				<div class="image"><a href="https://tv.cctv.com/2024/02/10/VIDEqLupwgz9M8ycvC9shTy2240210.shtml" target="_blank" ><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2024/2/11/1707622143190_547.jpg"><div class="top">TOP 3</div></a></div>
+				<div class="text">
+					<div class="title"><a href="https://tv.cctv.com/2024/02/10/VIDEqLupwgz9M8ycvC9shTy2240210.shtml" target="_blank" >国博探馆龙世界 龙纹龙字龙图腾</a></div>
+					<div class="brief"><a href="https://tv.cctv.com/2024/02/08/VIDAD3WjMAED0ca6gHHWt4I6240208.shtml" target="_blank" >龙行天下</a></div>
+				</div>
+			</li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="right">
+		<ul>
+			<li class="first" style="display: block;"><i class="daping">TOP </i><i>4</i><a href="https://tv.cctv.com/2024/02/10/VIDEkD0vYSGUKtdQrXrIWjz1240210.shtml?spm=C53156045404.PORCMBcavyhG.0.0" target="_blank" >“老字号”如何传承非遗技艺？</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>5</i><a href="https://tv.cctv.com/2024/02/10/VIDEa8NTAiflMuOHgU19lVtI240210.shtml?spm=C96370.PPDB2vhvSivD.ExSA3cKPMC8s.12" target="_blank" >与北约较量加剧 俄如何应对？</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>6</i><a href="https://tv.cctv.com/2024/02/10/VIDEHp6zp1e4xaj03xjcL0dd240210.shtml" target="_blank" >小尼手里剩了两张什么牌？</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>7</i><a href="https://tv.cctv.com/2024/02/09/VIDEihNBfNHuDpjBMLkrhxsb240209.shtml" target="_blank" >春节看电影 还能这样选？</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>8</i><a href="https://tv.cctv.com/2024/02/09/VIDE43PG7NAoWpcCCjoXKBOL240209.shtml" target="_blank" >王思雨绝杀 领衔2023年度好球</a></li>
+			<li style="display: block;"><i class="daping">TOP </i><i>9</i><a href="https://tv.cctv.com/2024/02/09/VIDEmVwZqGoaMwE8jRfOlXhk240209.shtml" target="_blank" >春节怎么吃“脍”健康又养生？</a></li>
+		</ul>
+	</div>
+	<div class="clear"></div>
+</div>
+ 	</div>
+ 	
+ <div style="clear:both;"></div>
+ </div>
+   <div class="md_ftc"><b></b></div>
+</div>
+<div  class="hide"></div>
+</div>
+			
+<div class="ELMTMFc3wDWIgme4SnuZHUvo211115" data-spm="EMFc3wDWIgme" id="elemtTV" >
+<div class="md elemtRecmd">
+	 
+	  
+                <div class="md_hdc"><b></b></div>
+	<div class="md_hd">
+
+		<span class="mh_title">相关推荐</span>
+		
+	 </div>
+ 
+ 
+ <div class="md_bd">
+ 	
+ 	<div data-spm="S51904" id="SUBD1636936420351904">
+		<div class="BottomPageUniversal18897_con04" id="BottomPageUniversal18897_con04">
+	<div class="content">
+		<div class="left pro"></div>
+		<div class="right"></div>
+		<ul id="pagelunbo"></ul>
+		<div class="clear"></div>
+		<div class="more" style="display: none;"><a href="javascript:;">加载更多</a></div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1547776832511942/jiezi.js" type="text/javascript"></script>
+<script>
+var moreadd=0;
+function listadd1(classname,index,tiaoshu){
+			var len=$("."+classname).find("li").length;
+			var zongtiaoshu=tiaoshu;
+			if(tiaoshu>=len){
+				$("."+classname).find(".more").css("display","none");
+			}else{
+				$("."+classname).find(".more").css("display","flex");
+			}
+			$("."+classname).find("li").each(function(i){
+				if(i>=tiaoshu){
+					$(this).css("display","none")
+				}else{
+					$(this).css("display","block")
+				}
+			})
+			
+			$("."+classname).find(".more").click(function(){
+				moreadd++;
+				zongtiaoshu=zongtiaoshu+index;
+				if(zongtiaoshu>=len){
+					$("."+classname).find(".more").css("display","none");
+				}else{
+					$("."+classname).find(".more").css("display","flex");
+				}
+				$("."+classname).find("li").each(function(i){
+					if(i>=zongtiaoshu){
+						$(this).css("display","none")
+					}else{
+						$(this).css("display","block")
+					}
+				})
+				if(moreadd>=2){
+					$("."+classname).find(".more").css("display","none");
+				}
+			})
+		}
+//精选下图片设置16比9
+function setPageImgfun(className){
+var columnlihwidth = $(className).width();
+var columnliheight=columnlihwidth*9/16;
+$(className).css({'height':columnliheight+'px'});
+$(className).find("a img").css({'height':columnliheight+'px'});
+}
+	function getCookie1(name) {
+			var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+			if (arr = document.cookie.match(reg)) return unescape(arr[2]);
+			else return null
+	}
+	function shuju(){
+	var guid1 = guid ;
+			var serviceId1 = "tvcctv";
+	var recordtimeing = new Date().getTime();
+			var url = '//api.cntv.cn/video/videoinfoByGuid?guid='+guid1+'&serviceId='+serviceId1+'';
+			$.ajax({
+					url: url,
+					dataType: "jsonp",
+					jsonp: "cb",
+		cache:true,
+		jsonpCallback:"aa"+guid,
+					error: function () {
+					},
+					success: function (data) {
+							{
+									sun(data.fc, data.sc,guid1,serviceId1);
+							}
+					}
+			});
+			function sun(fc,sc,guid1,serviceId1) {
+					var channel_id_a = video_ad_channel_id;
+					var utdid_a = getCookie1("cna");
+					var channel_id_a = video_ad_channel_id;
+					var album_iddd= videoalbumId;
+		var recordtimeing = new Date().getTime();
+					var url ='//api.cntv.cn/list/getPCRecommend?utdid='+encodeURIComponent(utdid_a)+'&guid='+guid1+'&type=0&channel_id='+channel_id_a+'&serviceId='+serviceId1+'&fc='+encodeURIComponent(fc)+'&sc='+encodeURIComponent(sc);
+					var html = '';
+					var rec_list = '';
+					var product="";
+		var rec_type="";
+					$.ajax({
+							url: url,
+			cache:true,
+							dataType: "jsonp",
+							jsonp: "cb",
+			jsonpCallback:"bb"+guid,
+							error: function () {
+				 $("#BottomPageUniversal18897_con04").hide();
+							},
+							success: function (data) {
+
+				if(typeof (data.errcode) !="undefined"){
+							$("#BottomPageUniversal18897_con04").hide();
+							return;
+							}
+				if(data.data.list.length == 0){
+						$("#BottomPageUniversal18897_con04").hide();
+
+										 }else{
+											for (var i = 1; i <= data.data.list.length; i++)
+											{
+													if(i%2==0){
+														html+='<li style="display: block" class="odd" data="'+i+'" datatit="'+data.data.list[i-1].title+'" guid="'+data.data.list[i-1].guid+'"><div class="image"><a href="'+data.data.list[i-1].url+'" target="_blank"><img src="'+data.data.list[i-1].image+'"></a></div><div class="text"><div class="title"><a href="'+data.data.list[i-1].url+'" target="_blank">'+data.data.list[i-1].title+'</a></div></div></li>';
+													}else{
+														html+='<li style="display: block" data="'+i+'" datatit="'+data.data.list[i-1].title+'" guid="'+data.data.list[i-1].guid+'"><div class="image"><a href="'+data.data.list[i-1].url+'" target="_blank"><img src="'+data.data.list[i-1].image+'"></a></div><div class="text"><div class="title"><a href="'+data.data.list[i-1].url+'" target="_blank">'+data.data.list[i-1].title+'</a></div></div></li>';
+													}    
+											}
+											$("#pagelunbo").html(html);
+											show("BottomPageUniversal18897_con04", 0);
+											/*埋码recmd.1.1 推荐列表曝光 */
+											var abid = data.data.abId;
+											var request_id = data.data.request_id;
+											for (var j = 0; j < data.data.list.length; j++){
+												rec_list += data.data.list[j].guid + "/";
+											}
+						if(rec_list.length>0){
+							rec_list = rec_list.substring(0, rec_list.length-1);
+						}
+						
+						if($(window).width()  <= 1024){
+							product = "tvwap";
+							rec_type="0";//0为单视频推荐、1为视频集推荐
+						}else{
+							product = "pcweb";
+							rec_type;
+						}
+											if(request_id==""||request_id==undefined){
+														recordtimeing;
+													}else{
+														recordtimeing=request_id;
+													}
+												var elemtid = $("#elemtTV").attr("data-spm");
+												$(document).ready(function(){
+														var flag = true;
+														var a,b,c;
+														a = $(window).height();    //浏览器窗口高度
+														var group = $(".elemtRecmd");
+														$(window).scroll(function(){
+															
+																if (flag ==false ){
+																}else{
+																		b = $(this).scrollTop();   //页面滚动的高度
+																		c = group.offset().top;    //元素距离文档（document）顶部的高度
+									if(video_ad_channel_id == "CHAL1460955953877151"){
+										
+									}else if((a+b)>c){
+																				window.goldlog.record("/recmd.1.1", "", "snsScene=vodtpl&product="+product+"&ab_id="+abid+"&rec_type="+rec_type+"&v_id="+guid+"&rec_list="+rec_list+"&elemt_id="+elemtid+"&recordtime="+recordtimeing, "")
+																				flag = false;
+																		}else{
+																		}
+																}
+														});
+												});
+												/*埋码recmd.1.1 推荐列表曝光 end*/
+											 
+											 /*埋码recmd.1.2 推荐点击*/
+											 $(".BottomPageUniversal18897_con04 .content ul li").unbind("click");
+											 $(".BottomPageUniversal18897_con04 .content ul li").bind('click',function(){
+															var orderl = $(this).attr("data");
+															var abvn = $(this).attr("datatit");
+			var album_iddd = $(this).attr("guid");
+															//var abvid = $(this).attr("dataguid");
+															window.goldlog.record("/recmd.1.2", "", "snsScene=vodtpl&product="+product+"&ab_id="+abid+"&v_id="+guid+"&ab_v_id="+album_iddd+"&ab_v_n="+abvn+"&order="+orderl+"&elemt_id="+elemtid+"&recordtime="+recordtimeing, "")
+													})
+												/*埋码recmd.1.2 推荐点击 end*/
+						if($(window).width() <=1024){
+								$(".BottomPageUniversal18897_con04").find("ul").css("width","100%");
+								$(".BottomPageUniversal18897_con04").find("ul").css("margin-left","0");
+								$(".BottomPageUniversal18897_con04").find(".left").css("display","none");
+								$(".BottomPageUniversal18897_con04").find(".right").css("display","none");
+												var lis4=$(".BottomPageUniversal18897_con04").find("li"); 
+												if(lis4.length%2!=0){
+													$(".BottomPageUniversal18897_con04").find("li").eq(lis4.length-1).remove();
+												}
+								try{
+										listadd1("BottomPageUniversal18897_con04",4,4)				
+								}catch(e){							
+									}
+							setPageImgfun(".BottomPageUniversal18897_con04 .content ul li .image");
+							}
+					}
+
+			}
+					});
+			}
+	}
+$(window).resize(function(){
+setPageImgfun(".BottomPageUniversal18897_con04 .content ul li .image");
+})
+</script>
+<script>
+var column_idArray = ['TOPC1451528971114112','TOPC1451528792881669','TOPC1451558496100826','TOPC1451559129520755','TOPC1451558779639282','TOPC1451558428005729','TOPC1451539894330405']
+if($.inArray(column_id,column_idArray)<0){
+	$(".ELMTMFc3wDWIgme4SnuZHUvo211115").show();
+	$(".phone_all .phone_gongneng .collect").css("display","block");
+	shuju();
+}else{
+	$(".ELMTMFc3wDWIgme4SnuZHUvo211115").hide();
+	$(".phone_all .phone_gongneng .collect").css("display","block");
+}
+</script>
+ 	</div>
+ 	
+ <div style="clear:both;"></div>
+ </div>
+   <div class="md_ftc"><b></b></div>
+</div>
+<div  class="hide"></div>
+</div>
+		</div>
+		<div class="column_wrapper_1000">
+			<div class="search">
+				<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+				<div class="btn" onclick="searchForm_submit()"></div>
+			</div>
+			<script type="text/javascript">
+					var app='tvcctv';
+				function trim(str) {
+					return str.replace(/(^\s*)|(\s*$)/g, "");
+				}
+				function searchForm_submit() {
+				var str = trim(document.getElementById("textshousuo").value);
+				if(str.length > 0) {
+					window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+				} else {
+					window.open("https://search.cctv.com/index.php");
+				}
+			}
+			</script>
+		</div>
+	</div>
+	<!-- 移动页底部 -->
+	<div class="phone_footer">
+		   
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+	</div>
+	<!-- PC页底部 -->
+	<div id="page_bottom">
+	<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+	<div class="pc_footer">
+			<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+	</div>
+	</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+	if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+			$(".video_btnBar .rightBar .danmu").addClass("cur");
+			$(".video_btnBar .rightBar").show();
+	}
+
+	if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+		 $("#zanNum").remove();
+		 $(".playingCon .gongneng .dianzan").remove();
+		 $("#pinglunNum1").parent("a").remove();
+	}
+	
+	if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+		 $(".XUQIU18897_pinglun").remove();
+		 $(".XUQIU18897_fuceng").hide();
+		 $(".footer").css("cssText","border:none !important;")
+		 $(".playingCon .gongneng .share").remove();	
+	}
+
+	</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
