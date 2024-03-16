@@ -1,18 +1,19 @@
 {
   "name": "cctv_xwlb",
   "version": "2.0.0",
-  "type": "module",
-  "scripts": {
-    "fetch": "bun run dist/index.js",
-    "remake-index": "bun run dist/make-index.js"
-  },
   "devDependencies": {
     "esbuild": "latest",
     "linkedom": "^0.15.3",
+    "prettier": "^3.2.5",
     "rehype-parse": "^9.0.0",
     "rehype-remark": "^10.0.0",
     "remark-gfm": "^3.0.1",
     "remark-stringify": "^10.0.3",
     "unified": "^11.0.2"
-  }
+  },
+  "scripts": {
+    "fetch": "bun run dist/index.js",
+    "remake-index": "bun run dist/make-index.js"
+  },
+  "type": "module"
 }
