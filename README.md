@@ -7,26 +7,21 @@
 
 ## 执行
 
-需要 bun > 1.0:
+需要 deno > 1.41。
+
+deno 在执行代码时会自动下载依赖，建议增加环境变量 `NPM_CONFIG_REGISTRY=https://registry.npmmirror.com` 加快下载速度。
 
 ```sh
-# 只下载当天
-bun run fetch
+# 只下载当天新闻文字稿
+deno task fetch
 
 # 重新创建 INDEX.md 索引文件
-bun run remake-index
+deno task make-index
 ```
-
-也可以配置 git actions 每天定时执行。
 
 ## 构建
 
-```sh
-bun i
-bash build.sh
-```
-
-注意：每次更新代码后，都需要执行 `bash build.sh` 更新 dist 目录。github actions 执行的是 dist 目录下的 *.js。
+**deno 不需要构建**。
 
 ## 其他
 
@@ -41,7 +36,7 @@ bash build.sh
 
 ## LICENSE
 
-代码部分按 MIT License 发行
+代码部分按 MIT License 发行。
 
 ## 重要声明
 
