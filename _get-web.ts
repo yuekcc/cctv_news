@@ -1,28 +1,28 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import process from 'node:process';
 
-function getFilenameFromUrl(url) {
-  const filename = url.split('/').at(-1);
+function getFilenameFromUrl(url: string): string {
+  const filename = url.split('/').at(-1) ?? 'no_name';
   return path.join(process.cwd(), 'dump_htmls', filename);
 }
 
-function dumpHtml(url, content) {
+function dumpHtml(url: string, content: string) {
   const filename = getFilenameFromUrl(url);
   return fs.writeFile(filename, content, 'utf-8');
 }
 
-async function tryDumpedFile(url) {
+async function loadDumpedFile(url: string): Promise<string | null> {
   try {
     const filename = getFilenameFromUrl(url);
     await fs.access(filename);
-
     return fs.readFile(filename, 'utf-8');
   } catch {
     return null;
   }
 }
 
-function getDummyHeaders(referer) {
+function mkDummyHeaders(referer: string): Record<string, string> {
   return {
     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
     'accept': 'text/html, */*; q=0.01',
@@ -41,9 +41,9 @@ function getDummyHeaders(referer) {
   };
 }
 
-export async function getWeb(url) {
+export async function getWeb(url: string) {
   // 尝试读取已经存在的文件
-  const html = await tryDumpedFile(url);
+  const html = await loadDumpedFile(url);
   if (html) {
     return html;
   }
@@ -56,7 +56,7 @@ export async function getWeb(url) {
   try {
     const res = await fetch(url, {
       signal,
-      headers: getDummyHeaders(url),
+      headers: mkDummyHeaders(url),
     });
     const content = await res.text();
     dumpHtml(url, content);

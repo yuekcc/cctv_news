@@ -1,4 +1,4 @@
-import { fetchNews } from './fetch_news.js';
+import { fetchNews } from './_fetch-news.ts';
 
 let startDate = 1;
 const startMonth = 0;
@@ -16,7 +16,7 @@ async function fetchHistory() {
       thatDate = new Date(startYear, startMonth, startDate);
     }
   } catch (err) {
-    console.warn('下载失败，', err.message);
+    console.warn('下载失败，', (err as Error).message);
     process.exit(1);
   }
 }

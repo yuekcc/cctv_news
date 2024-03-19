@@ -1,4 +1,4 @@
-import { fetchNews } from './fetch_news.js';
+import { fetchNews } from './_fetch-news.ts';
 
 const today = new Date(); // 本地时间
 
