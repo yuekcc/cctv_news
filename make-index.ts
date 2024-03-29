@@ -38,7 +38,7 @@ const groupedByMonth = mdList
 let buf = '# 目录\n\n';
 
 const mapGroupedByYearMonth = Object.entries(groupedByMonth).toSorted((a, b) => {
-	return parseInt(b[0]) - parseInt(a[0]);
+	return Number.parseInt(b[0]) - Number.parseInt(a[0]);
 });
 
 for (const [label, newsList] of mapGroupedByYearMonth) {
@@ -48,16 +48,16 @@ for (const [label, newsList] of mapGroupedByYearMonth) {
 	buf += '|---|---|---|---|---|---|---|\n';
 
 	// 每月的列表
-	const sortedNewsList: Array<string | null> = newsList.toSorted((a, b) => parseInt(a) - parseInt(b));
+	const sortedNewsList: Array<string | null> = newsList.toSorted((a, b) => Number.parseInt(a) - Number.parseInt(b));
 
 	// 在开关补充一些 null，对齐日期、星期
 	{
 		const fst = sortedNewsList[0] || '';
 
 		const firstDay = new Date(
-			parseInt(fst.substring(0, 4)),
-			parseInt(fst.substring(4, 6)) - 1,
-			parseInt(fst.substring(6)),
+			Number.parseInt(fst.substring(0, 4)),
+			Number.parseInt(fst.substring(4, 6)) - 1,
+			Number.parseInt(fst.substring(6)),
 			0,
 			0,
 			0,
