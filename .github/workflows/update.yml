@@ -21,8 +21,19 @@ jobs:
       - run: git config --local user.name "github-actions[bot]"
       - run: git add .
       - run: git commit -m "[bot] AUTO UPDATE"
-      - name: Push master changes
+      - name: Push winter branch changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: winter
+      - run: git checkout release
+      - run: git merge winter
+      - run: rm -rf dump_htmls
+      - run: git add .
+      - run: git commit -m "[bot] RELEASE"
+      - name: Push release branch changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: release
+
