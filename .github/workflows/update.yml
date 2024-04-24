@@ -14,29 +14,36 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
+      - name: Config git
+        run: |
+          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
       - uses: actions/checkout@v4
         with:
           ref: winter
           fetch-depth: 0
-      - run: |
+      - name: Build
+        run: |
           deno task fetch
           deno task make-index
-          git config --local user.email "github-actions[bot]@github.com"
-          git config --local user.name "github-actions[bot]"
+      - name: Commit changes
+        run: |
           git add .
           git commit -m "[bot] AUTO UPDATE"
-      - name: Push winter branch changes
+      - name: Push winter branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: winter
-      - run: |
-          git checkout -b release origin/release
+      - name: Update release branch
+        run: git checkout -b release origin/release
+      - name: Merge changes
+        run: |
           git merge winter
           rm -rf dump_htmls
           git add .
           git commit -m "[bot] RELEASE"
-      - name: Push release branch changes
+      - name: Push release branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
