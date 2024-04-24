@@ -30,11 +30,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: winter
-      - uses: actions/checkout@v4
-        with:
-          ref: release
-          fetch-depth: 0
       - run: |
+          git checkout origin/release
           git merge origin/winter
           rm -rf dump_htmls
           git add .
