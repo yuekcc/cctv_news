@@ -33,7 +33,7 @@ jobs:
         with:
           ref: release
       - run: |
-          git merge winter
+          git merge origin/winter
           rm -rf dump_htmls
           git add .
           git commit -m "[bot] RELEASE"
