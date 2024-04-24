@@ -14,14 +14,14 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      - name: Config git
-        run: |
-          git config --local user.email "github-actions[bot]@github.com"
-          git config --local user.name "github-actions[bot]"
       - uses: actions/checkout@v4
         with:
           ref: winter
           fetch-depth: 0
+      - name: Setup git
+        run: |
+          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
       - name: Build
         run: |
           deno task fetch
