@@ -11,26 +11,32 @@ jobs:
     name: Daily Sync
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      - run: deno task fetch
-      - run: deno task make-index
-      - run: git config --local user.email "github-actions[bot]@github.com"
-      - run: git config --local user.name "github-actions[bot]"
-      - run: git add .
-      - run: git commit -m "[bot] AUTO UPDATE"
+      - uses: actions/checkout@v4
+          with:
+            ref: winter
+      - run: |
+          deno task fetch
+          deno task make-index
+          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "[bot] AUTO UPDATE"
       - name: Push winter branch changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: winter
-      - run: git checkout release
-      - run: git merge winter
-      - run: rm -rf dump_htmls
-      - run: git add .
-      - run: git commit -m "[bot] RELEASE"
+      - uses: actions/checkout@v4
+        with:
+          ref: release
+      - run: |
+          git merge winter
+          rm -rf dump_htmls
+          git add .
+          git commit -m "[bot] RELEASE"
       - name: Push release branch changes
         uses: ad-m/github-push-action@master
         with:
