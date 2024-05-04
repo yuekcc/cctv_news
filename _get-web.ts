@@ -48,21 +48,25 @@ export async function getWeb(url: string) {
 		return html;
 	}
 
-	const abort = new AbortController();
-	const signal = abort.signal;
+	const MAX_TRY = 5;
+	for (let tryDownloadCount = 0; tryDownloadCount < MAX_TRY; tryDownloadCount++) {
+		const abort = new AbortController();
+		const timeoutHandle = setTimeout(() => abort.abort(new Error('TIMEOUT')), 60 * 1000);
 
-	const timeoutHandle = setTimeout(() => abort.abort(new Error('TIMEOUT')), 60 * 1000);
+		try {
+			const res = await fetch(url, {
+				signal: abort.signal,
+				headers: mkDummyHeaders(url),
+			});
+			const content = await res.text();
+			dumpHtml(url, content);
 
-	try {
-		const res = await fetch(url, {
-			signal,
-			headers: mkDummyHeaders(url),
-		});
-		const content = await res.text();
-		dumpHtml(url, content);
-
-		return content;
-	} finally {
-		clearTimeout(timeoutHandle);
+			return content;
+		} catch (err) {
+			console.error(`getWeb failed, ${err}`);
+			await new Promise((resolve) => setTimeout(resolve, 10000)); // 等待一分
+		} finally {
+			clearTimeout(timeoutHandle);
+		}
 	}
 }
