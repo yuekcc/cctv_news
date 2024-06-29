@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平同秘鲁总统会谈</title>
+<meta name="contentid" content="VIDEvGGzIjmp6kydLop2iZXC240628">
+<meta name=keywords content="习近平 秘鲁总统 博鲁阿尔特 会谈">
+<meta name=description content="习近平同秘鲁总统博鲁阿尔特会谈">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平同秘鲁总统会谈" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平同秘鲁总统博鲁阿尔特会谈" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平同秘鲁总统会谈"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEvGGzIjmp6kydLop2iZXC240628";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2024/06/28/VIDEvGGzIjmp6kydLop2iZXC240628.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平同秘鲁总统博鲁阿尔特会谈";
+var commentimg3="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2024/6/28/VIDESjd9zEVuC8YsS0zqSDJ7240628.jpg";
+var commentimg2="//p5.img.cctvpic.com/photoAlbum/vms/standard/img/2024/6/28/VIDESNjNZnrilWdCZq6vnKK9240628.jpg";
+var commentimg1="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2024/6/28/VIDEiG5NCZkV4XzGKoEtvYV4240628.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2024/06/28 19:33:07';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2024/6/28/VIDEiG5NCZkV4XzGKoEtvYV4240628.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"7XL4G-6N3JX-QZ6JL-GESDR-2KLZL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="vtempoax3yiiszt7nlsq-f-2c3e5a996-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"78067","ak.ai":parseInt("531170",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"h2","ak.rid":"4641217","ak.r":40057,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"172.200.199.0","ak.cport":15424,"ak.gh":"23.222.16.133","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1719626469","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==7Pbe+K4rpwsXUNlCpHChv/izMk4fI+GS5RbZDpzed4iTZMezasIy5mGNUa2SFi35YH8MFOQ5Cl9HwnVFOlimtwKfviXLtbBkcs/wgUjaIhgwX2g7ITnjAhBWA6Xd7t1vxYCoTeASnGjYlSLFk6u5sPrcAeBOZPlLlGQHYqQIOPN8vq+zGoRImehJ12O7toWt34ZJ/BDyg9x/tfG57toEW/7zuvLP5jE/lVOiKz7SrRcltiAJrlZDmSQ+xe5VornZk7UJ9k/R4xIiyZI2yEPIpkar0MG+aHo4iWEZMAXpU4LhYoS/U0cwgyStHqUcDRmoEZ2N+lENRQArtf1wfUwjvyiNsHL60uN8qLgABCJeyZww0hW6w74n0mFEC5rvzVwGsMTS4IA+Fw71cxuYrNOWgY+AAm0yWRdyhQ9dE1NAvVg=","ak.pv":"193","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "972194ec87b44f7fa18bab3583d0b4c6";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平 秘鲁总统 博鲁阿尔特 会谈";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平同秘鲁总统会谈</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2024-06-28 19:33</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平 秘鲁总统 博鲁阿尔特 会谈";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平同秘鲁总统会谈。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平同秘鲁总统会谈</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2024年06月28日 19:33</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平同秘鲁总统会谈。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：6月28日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的秘鲁总统博鲁阿尔特举行会谈。</p><p>习近平指出，中国和秘鲁都是文明古国，两国友谊源远流长，人民友好深入人心。秘鲁是最早同新中国建交、最早同中国建立全面战略伙伴关系的拉美国家之一，也是最早同中国签署一揽子自由贸易协定的拉美国家。近年来，在双方共同努力下，中秘各领域合作取得丰硕成果，中国企业在秘鲁重大合作项目为秘鲁经济发展、民生改善发挥了重要作用。中方高度重视发展中秘关系，愿同秘方夯实政治互信，深化务实合作，促进文明互鉴，加强多边协作，推动中秘全面战略伙伴关系不断迈上新台阶。</p><p>习近平强调，坚持相互尊重、平等相待，是中国一以贯之的处世之道，也是中秘全面战略伙伴关系始终保持高水平发展的根本原因。中方支持秘鲁走符合本国国情的发展道路，愿同秘方坚定相互支持，坚定不移推进中秘友好合作。双方要充分发挥两国政府间经济合作战略对话机制作用，将中方支持高质量共建&ldquo;一带一路&rdquo;的八项行动同秘方发展需求对接起来，统筹推进矿产、能源、制造业、农业等领域合作，拓展新能源、数字经济、人工智能、数字医疗等新兴领域合作。欢迎更多秘鲁优质产品进入中国市场，希望秘方为中国企业赴秘鲁投资和长期合作提供良好法律和政策环境。双方要共同努力，确保钱凯港如期建成，成为中拉之间的陆海新通道，使&ldquo;钱凯到上海&rdquo;真正成为一条促进中秘共同发展的繁荣之路。中方愿为秘鲁青年学生提供更多来华奖学金名额，加强教育、文化、旅游、青年、媒体等领域合作，为两国关系发展奠定更加坚实的民意基础。</p><p>习近平指出，中秘都是环太平洋重要新兴市场国家和&ldquo;全球南方&rdquo;重要成员，双方要加强团结协作，共同弘扬全人类共同价值，倡导平等有序的世界多极化和普惠包容的经济全球化，推动&ldquo;全球南方&rdquo;国家实现共同发展。中方积极支持秘鲁办好今年的亚太经合组织领导人非正式会议，维护亚太合作正确方向，对外发出建设开放型亚太经济、共同促进世界经济增长的积极信号。中方高度重视中拉关系发展，愿同秘鲁等拉美和加勒比国家一道努力，促进中拉整体合作，共建中拉命运共同体。</p><p>博鲁阿尔特表示，很荣幸率内阁重要部长和经济界代表访华。秘中都是世界文明古国，历史上华人为秘鲁国家发展作出了重要贡献。近年来，两国政治、经贸、文化等各领域交流合作取得丰硕成果。特别是中国企业在秘鲁的投资合作，不仅为秘鲁创造了大量就业，也带来了先进技术和经验。通过这两天参访深圳、上海、苏州等地，我们切身体验到中国的快速发展和科技进步，也探寻到很多未来可以拓展合作的领域。秘方真心钦佩中国取得的伟大成就，希望学习借鉴中方的成功经验，通过进一步扩大密切两国务实合作，助力秘鲁更好实现自身的发展。欢迎更多中国企业赴秘鲁投资，加强基础设施、绿色发展、清洁能源等领域合作，秘方愿为中国企业提供良好的营商环境。秘方期待同中方共同努力，如期建成钱凯港项目，更好造福两国人民。1971年两国建交以来，秘鲁政府始终奉行一个中国政策，秘方将继续坚定恪守一个中国原则。秘方支持习近平主席提出的系列全球倡议，愿同中方加强在联合国和亚太经合组织等多边框架内的沟通协作，共同维护多边主义，促进开放型世界经济。</p><p>会谈后，两国元首共同见证签署《中华人民共和国政府和秘鲁共和国政府2024年至2029年共同行动计划》以及经贸合作、数字经济、科技创新、检验检疫、新闻媒体等领域多项双边合作文件。双方宣布实质性完成自由贸易协定升级谈判。</p><p>会谈前，习近平在人民大会堂东门外广场为博鲁阿尔特举行欢迎仪式。</p><p>博鲁阿尔特抵达时，礼兵列队致敬。两国元首登上检阅台，军乐团奏中秘两国国歌，天安门广场鸣放21响礼炮。博鲁阿尔特在习近平陪同下检阅中国人民解放军仪仗队，并观看分列式。</p><p>当晚，习近平在人民大会堂金色大厅为博鲁阿尔特举行欢迎宴会。</p><p>王毅参加上述活动。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
