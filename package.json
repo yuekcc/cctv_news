@@ -3,11 +3,11 @@
   "version": "3.0.0",
   "type": "module",
   "scripts": {
-    "fetch": "deno run -A fetch-news.ts",
-    "make-index": "deno run -A make-index.ts"
+    "fetch": "bun fetch-news.ts",
+    "make-index": "bun make-index.ts"
   },
   "dependencies": {
-    "linkedom": "^0.16.0",
+    "linkedom": "^0.18.0",
     "prettier": "^3.0.0",
     "rehype-parse": "^9.0.0",
     "rehype-remark": "^10.0.0",

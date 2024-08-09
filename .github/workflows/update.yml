@@ -11,9 +11,9 @@ jobs:
     name: Daily Sync
     runs-on: ubuntu-latest
     steps:
-      - uses: denoland/setup-deno@v1
+      - uses: oven-sh/setup-bun@v2
         with:
-          deno-version: v1.x
+          bun-version: latest
       - uses: actions/checkout@v4
         with:
           ref: main
@@ -24,8 +24,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
       - name: Build
         run: |
-          deno task fetch
-          deno task make-index
+          bun run fetch
+          bun run make-index
       - name: Commit changes
         run: |
           git add .
