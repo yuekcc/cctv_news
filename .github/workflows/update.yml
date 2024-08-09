@@ -24,6 +24,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
       - name: Build
         run: |
+          bun install
           bun run fetch
           bun run make-index
       - name: Commit changes
