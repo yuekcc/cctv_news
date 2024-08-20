@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平同越共中央总书记、国家主席会谈</title>
+<meta name="contentid" content="VIDEeX0lOjPKkH3xsLtLl4WE240819">
+<meta name=keywords content="习近平 越共中央总书记、国家主席 会谈">
+<meta name=description content="习近平同越共中央总书记、国家主席会谈">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平同越共中央总书记、国家主席会谈" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平同越共中央总书记、国家主席会谈" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平同越共中央总书记、国家主席会谈"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEeX0lOjPKkH3xsLtLl4WE240819";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2024/08/19/VIDEeX0lOjPKkH3xsLtLl4WE240819.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平同越共中央总书记、国家主席会谈";
+var commentimg3="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2024/8/19/VIDEQGVj8L5d5iV8cBIYoEx5240819.jpg";
+var commentimg2="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2024/8/19/VIDEzcqThJI24tarueZkRH28240819.jpg";
+var commentimg1="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/8/19/VIDEpyCHRd8ItBgjMokTMcWl240819.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2024/08/19 19:15:13';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/8/19/VIDEpyCHRd8ItBgjMokTMcWl240819.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "fe70e2e8e8434e3db72dbad93547f7a9";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平 越共中央总书记、国家主席 会谈";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平同越共中央总书记、国家主席会谈</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2024-08-19 19:15</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平 越共中央总书记、国家主席 会谈";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平同越共中央总书记、国家主席会谈。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平同越共中央总书记、国家主席会谈</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2024年08月19日 19:15</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平同越共中央总书记、国家主席会谈。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：8月19日，中共中央总书记、国家主席习近平在北京人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。</p><p>习近平再次祝贺苏林当选越共中央总书记。习近平指出，你就任总书记后首访就来到中国，充分体现了对两党两国关系的高度重视，也体现了中越关系的高水平和战略性。共同的理想信念是中越两党代代传承的红色基因，凝结成&ldquo;越中情谊深、同志加兄弟&rdquo;的传统友谊。作为当今世界两个执政的共产党，中越两党要秉持友好初心，赓续传统友谊，牢记共同使命，坚持共产党领导和社会主义制度，持续深化具有战略意义的中越命运共同体建设，共同促进世界社会主义事业发展。我愿同苏林同志建立良好工作关系和个人友谊，共同引领中越命运共同体建设走深走实。</p><p>习近平指出，面对世界之变、时代之变、历史之变，中越两国保持经济快速发展和社会长期稳定，彰显了社会主义制度的优越性和社会主义事业的生命力。中方将越南作为周边外交优先方向，支持越南坚持党的领导，走符合本国国情的社会主义道路，深入推进革新开放和社会主义现代化事业。在各自国家发展振兴的关键时期，中越要把准命运共同体建设的方向，夯实政治互信更高、安全合作更实、务实合作更深、民意基础更牢、多边协调配合更紧、分歧管控解决更好的&ldquo;六个更&rdquo;发展格局。中方愿同越方保持密切战略沟通和高层交往，坚定相互支持，积极探讨拓展共建&ldquo;一带一路&rdquo;倡议和&ldquo;两廊一圈&rdquo;框架对接合作，加快推进铁路、高速公路、口岸基础设施&ldquo;硬联通&rdquo;，提升智慧海关&ldquo;软联通&rdquo;，携手打造安全、稳定的产业链供应链。以明年庆祝中越建交75周年为契机，共同举办好&ldquo;中越人文交流年&rdquo;等系列活动，巩固两国民意根基。双方要秉持和平共处五项原则等国际关系基本准则，推动平等有序的世界多极化、普惠包容的经济全球化，维护国际公平正义和发展中国家共同利益，推动构建人类命运共同体。</p><p>习近平介绍了中国共产党二十届三中全会有关情况，强调中国进一步全面深化改革、推进高水平对外开放将为包括越南在内的各国发展带来新动力、新机遇。中方愿同越方深化治党治国理政经验交流，共同提升国家治理体系和治理能力现代化水平，共同迈向现代化。</p><p>苏林表示，我作为越共中央总书记、国家主席首次出访来到中国，充分体现了越南党和政府一贯重视发展对华关系的立场，将中国作为越南对外政策的战略选择和头等优先。越南党和政府将继承阮富仲同志遗志，坚持共产党领导，坚持社会主义道路，坚定沿着两国老一辈领导人特别是阮富仲总书记和习近平总书记共同确定的道路前进，按照&ldquo;六个更&rdquo;总体目标，深化越中全面战略合作伙伴关系，推进构建具有战略意义的越中命运共同体。在以习近平同志为核心的党中央领导下，中国胜利完成中共十八届三中全会确定的所有改革任务，取得巨大发展成就，国际地位和影响力日益提升，为世界和平与发展以及全人类进步作出重要贡献。越方祝贺中共二十届三中全会成功召开，开启了进一步全面深化改革、推进中国式现代化的新纪元。相信在习近平总书记领导下，中国必将胜利实现第二个百年奋斗目标，全面建成社会主义现代化强国。越方坚持独立自主，坚定奉行一个中国政策，认为台湾是中国领土不可分割的一部分，坚决反对一切形式的&ldquo;台独&rdquo;分裂活动，坚定支持中国实现国家统一。香港、新疆、西藏都是中国内部事务，越方坚决反对任何势力干涉中国内政。越方愿同中方保持密切高层交往，分享治党治国理政经验，深化战略互信，加强发展战略对接，以及国防安全、经贸投资、跨境基础设施联通等领域互利合作。共同办好明年&ldquo;越中人文交流年&rdquo;，加强青年、地方交流合作，巩固两国社会民意基础。越方愿同中方妥善管控海上分歧，共同维护地区和平稳定。越方支持并愿积极参与习近平主席提出的构建人类命运共同体和全球发展倡议、全球安全倡议、全球文明倡议。越方愿同中方密切多边国际协作，维护多边主义，维护国际公平正义，为促进世界和平与发展作出积极贡献。</p><p>会谈后，双方共同见证签署关于党校、互联互通、工业、金融、海关检验检疫、卫生、新闻机构和媒体、地方、民生等领域多项双边合作文件。</p><p>签字仪式后，习近平同苏林进行小范围茶叙，在亲切友好的氛围中就共同关心的重要问题继续进行深入交流。</p><p>会谈前，习近平和夫人彭丽媛在人民大会堂东门外广场为苏林和夫人吴芳璃举行欢迎仪式。</p><p>苏林抵达时，礼兵列队致敬。习近平同苏林登上检阅台，军乐团奏中越两国国歌，天安门广场鸣放21响礼炮。苏林在习近平陪同下检阅中国人民解放军仪仗队，并观看分列式。</p><p>当天中午，习近平和彭丽媛在人民大会堂金色大厅为苏林夫妇举行欢迎宴会。</p><p>蔡奇、王毅、王小洪等参加上述活动。</p><p>苏林访华期间，双方将发表《中华人民共和国和越南社会主义共和国关于进一步加强全面战略合作伙伴关系、推进中越命运共同体建设的联合声明》。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
