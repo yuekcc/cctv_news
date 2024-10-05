@@ -1,2 +1,6 @@
+.vscode
+.idea
+.fleet
+
 node_modules
-serve.json
+log
