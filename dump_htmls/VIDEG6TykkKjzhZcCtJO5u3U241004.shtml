@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]【奋进强国路 阔步新征程】建设制造强国 夯实强国之基</title>
+<meta name="contentid" content="VIDEG6TykkKjzhZcCtJO5u3U241004">
+<meta name=keywords content="建设制造强国 夯实强国之基">
+<meta name=description content="建设制造强国 夯实强国之基">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]【奋进强国路 阔步新征程】建设制造强国 夯实强国之基" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="建设制造强国 夯实强国之基" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]【奋进强国路 阔步新征程】建设制造强国 夯实强国之基"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEG6TykkKjzhZcCtJO5u3U241004";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2024/10/04/VIDEG6TykkKjzhZcCtJO5u3U241004.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="建设制造强国 夯实强国之基";
+var commentimg3="//p1.img.cctvpic.com/fmspic/2024/10/04/de9d222a20704e81b0af9e0e85dc8619-300.jpg";
+var commentimg2="//p2.img.cctvpic.com/fmspic/2024/10/04/de9d222a20704e81b0af9e0e85dc8619-1.jpg";
+var commentimg1="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/10/4/VIDEHqHpLKLOhDNhmXgmKIMW241004.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2024/10/04 19:10:13';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/10/4/VIDEHqHpLKLOhDNhmXgmKIMW241004.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "de9d222a20704e81b0af9e0e85dc8619";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "建设制造强国 夯实强国之基";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]【奋进强国路 阔步新征程】建设制造强国 夯实强国之基</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2024-10-04 19:10</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="建设制造强国 夯实强国之基";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>【奋进强国路，阔步新征程】建设制造强国，夯实强国之基。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]【奋进强国路 阔步新征程】建设制造强国 夯实强国之基</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2024年10月04日 19:10</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">【奋进强国路，阔步新征程】建设制造强国，夯实强国之基。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：制造业是国家经济命脉所系，是立国之本、强国之基。新中国成立75年以来，我国制造业规模实现了跨越式增长和发展质量的显著提升，成为世界第一制造业大国。党的十八大以来，习近平总书记高度重视制造业发展，强调实体经济的重要支柱性地位，一系列重大决策部署推动我国制造业不断向高端化、智能化、绿色化发展，制造强国建设稳步迈进。<br/></p><p>这是一架C919大型客机的产业链：总装基地在上海，50%的复合材料结构件是江苏&ldquo;镇江制造&rdquo;，为飞机雷达罩进行雷电防护试验的是安徽合肥的企业，而浙江杭州的企业则提供了空气冲压涡轮发电机舱门&hellip;&hellip;不久前，C919开启多用户模式，逐步走向规模化量产。<br/></p><p>这就是今天的长三角，不仅仅是大飞机，一辆新能源车四个小时内就可以在这里实现从零部件配套到整车下线，造船业三颗&ldquo;皇冠上的明珠&rdquo;也能全部集齐。<br/></p><p>而在这张新中国成立初期国民经济的恢复和发展图上，我们看到那时的长三角除了少数几个纺织产业外，几乎没有其他装备制造和生产能力。<br/></p><p>这是新中国制造业发展的缩影。75年前，我国工业经济在设备落后、产能低下的薄弱基础上艰难起步。经过75年发展，如今我国能够生产的产品覆盖原材料、消费品、中高端装备等各个领域，实现了从&ldquo;造不了&rdquo;到&ldquo;造得出&rdquo;，再到&ldquo;造得好&rdquo;的跨越。特别是党的十八大以来，以习近平同志为核心的党中央作出建设制造强国的重大战略决策，将推动制造业高端化、智能化、绿色化发展，作为建设现代化产业体系的一个重要着力点。习近平总书记强调，制造业的核心就是创新，就是掌握关键核心技术，必须靠自力更生奋斗，靠自主创新争取。<br/></p><p>2023年，习近平总书记在黑龙江考察时，创造性地提出新质生产力的概念，他指出，要立足现有产业基础，扎实推进先进制造业高质量发展，加快推动传统制造业升级；要整合科技创新资源，引领发展战略性新兴产业和未来产业，加快形成新质生产力。习近平总书记的一系列决策部署，为加快建设制造强国指明方向。<br/></p><p>近年来，我国深入实施产业基础再造工程和重大技术装备攻关工程，针对航空发动机、工业母机等短板，加大基础研发投入，补齐产业链；针对新能源汽车、太阳能电池等优势产业，加快与数字技术融合发展，延伸产业链；针对冶炼、钢铁等传统制造业，加快设备更新力度，升级产业链；同时，着手前瞻布局量子科技、低空经济等未来产业，中国制造业向价值链高端不断攀升。<br/></p><p>如今的中国制造业，拥有31个大类、179个中类和609个小类，是全球产业门类最齐全、产业体系最完整的。制造业规模已连续14年位居世界第一。<br/></p><p>如今的中国制造，正加速向中国创造转变。全社会研发投入从2012年的1.03万亿元，增长到2023年的3.3万亿元，居世界第二位。过去十年间，我国规模以上高技术制造业增加值年均增长10.3%，拥有的全球百强科技创新集群数量已跃居世界第一，科技创新不断引领着制造业向高端、向智能、向绿色发展。<br/></p><p>如今，在智慧车间内，仅需三分钟就能安排好未来一个月的生产计划；厂房里，&ldquo;黑灯工厂&rdquo;24小时不间歇生产；智能控制室里，大屏实时显示着生产指标、货物流向&hellip;&hellip;炼化企业不再黑烟翻滚，矿山里可以5G远程采煤，我国已建成了全球超四成的&ldquo;灯塔工厂&rdquo;、5095家国家层面绿色工厂；工业互联网实现工业大类全覆盖，规模以上工业单位增加值能耗在&ldquo;十四五&rdquo;前两年内累计下降6.8%。我国制造业迈上了更高质量、更可持续的发展之路。<br/></p><p>瞄准&ldquo;高科技&rdquo;、追求&ldquo;高效能&rdquo;、迈向&ldquo;高质量&rdquo;，今天的中国制造正不断夯实强国之基，以新型工业化助推中国式现代化行稳致远。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
