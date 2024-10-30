@@ -87,8 +87,6 @@ async function fetchAbstract(url: string): Promise<NewsDetail> {
 
 /**
  * 将 HTML 的块元素格式化为 Markdown 段落
- * @param {HTMLElement} contentAreaEl
- * @returns {string}
  */
 function htmlToMarkdownPar(contentAreaEl: Element) {
   const html = contentAreaEl.innerHTML;
@@ -145,16 +143,18 @@ async function fetchPosts(urls: string[]): Promise<NewsDetail[]> {
   return result;
 }
 
+interface ConvertToMarkdownParams {
+  date: string;
+  abstract: NewsDetail;
+  newses: NewsDetail[];
+}
+
 /**
  * 将数据处理为 md 格式
- * @param {Object} object date 为获取的时间，abstract 为新闻简介，news 为新闻数组，links 为新闻链接
- * @returns {String} 处理成功后的 md 文本
+ * @param object date 为获取的时间，abstract 为新闻简介，news 为新闻数组，links 为新闻链接
+ * @returns 处理成功后的 md 文本
  */
-const convertToMarkdown = ({
-  date,
-  abstract,
-  newses,
-}: { date: string; abstract: NewsDetail; newses: NewsDetail[] }) => {
+function convertToMarkdown({ date, abstract, newses }: ConvertToMarkdownParams) {
   let buf = `# 《新闻联播》（${date}）\n\n`;
   if (abstract) {
     buf += `## 新闻摘要\n\n${abstract.content}\n\n[查看原文](${abstract.url})\n\n`;
@@ -170,7 +170,7 @@ const convertToMarkdown = ({
   buf += `\n----\n\n更新时间：${now.toJSON()}`;
 
   return buf;
-};
+}
 
 export async function fetchNews(date: Date) {
   console.log('=========================');
