@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在秘鲁媒体发表署名文章</title>
+<meta name="contentid" content="VIDEOStTzrsMe9rnboXR5gG7241114">
+<meta name=keywords content="习近平在秘鲁媒体发表署名文章">
+<meta name=description content="习近平在秘鲁媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在秘鲁媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平在秘鲁媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在秘鲁媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEOStTzrsMe9rnboXR5gG7241114";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2024/11/14/VIDEOStTzrsMe9rnboXR5gG7241114.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平在秘鲁媒体发表署名文章";
+var commentimg3="//p3.img.cctvpic.com/fmspic/2024/11/14/debfcdf215b6494f85b5a8bae06e1b47-300.jpg";
+var commentimg2="//p5.img.cctvpic.com/fmspic/2024/11/14/debfcdf215b6494f85b5a8bae06e1b47-1.jpg";
+var commentimg1="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/11/14/VIDEkYY7uX90T2fadRHdVOj1241114.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2024/11/14 19:05:56';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/11/14/VIDEkYY7uX90T2fadRHdVOj1241114.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "debfcdf215b6494f85b5a8bae06e1b47";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平在秘鲁媒体发表署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在秘鲁媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2024-11-14 19:05</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平在秘鲁媒体发表署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在秘鲁媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在秘鲁媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2024年11月14日 19:05</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在秘鲁媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：当地时间11月14日，在赴利马对秘鲁进行国事访问并出席亚太经合组织第三十一次领导人非正式会议之际，国家主席习近平在《秘鲁人报》发表题为《让中秘友好之船扬帆远航》的署名文章。文章全文如下：</p><p style="text-align: center;"><span style="color: rgb(23, 54, 93);"><strong>让中秘友好之船扬帆远航</strong></span></p><p style="text-align: center;"><span style="color: rgb(23, 54, 93);">中华人民共和国主席　习近平</span></p><p>南半球的初夏时节，充满生机和希望。应博鲁阿尔特总统邀请，我即将对秘鲁共和国进行国事访问并出席亚太经合组织第三十一次领导人非正式会议。</p><p>这是我担任中华人民共和国主席后第二次访问秘鲁这个中国在太平洋对岸的&ldquo;邻居&rdquo;。这里孕育了卡拉尔、查文、奇穆、印加等古老文明，这里的人民亲切地称呼中国人为&ldquo;老乡&rdquo;，这里的国会通过决议将每年2月1日确定为&ldquo;秘中友谊日&rdquo;，这里的中餐馆叫做&ldquo;吃饭&rdquo;。每次来到秘鲁，我都深深感受到秘鲁人民对中国人民的友好情谊。</p><p>这份情谊根植于古老文明的智慧。中华文明是世界上唯一没有中断、延绵5000多年的文明，以卡拉尔文明为代表的海洋文明和以印加文明为代表的陆地文明彰显了秘鲁文明的历史悠久和丰富多元。中外考古学界认为，中华文明和美洲文明实际上是同一祖先的后代在不同时代、不同地点的产物。文明的智慧让我们理念相近、心灵相通。中国人历来讲究&ldquo;以至诚为道，以至仁为德&rdquo;，印加人倡导&ldquo;莫偷盗、莫撒谎、莫懒惰&rdquo;。秘鲁思想家马里亚特吉曾讲，&ldquo;在精神和物质上，中国比欧洲更接近我们。我们人民的心理更像亚洲人而不是西方人&rdquo;。这就是华人移民175年来同秘鲁人民血脉相融、不可分割的&ldquo;文明密码&rdquo;。近期，两国广播电视部门将在秘鲁举办《从长城到马丘比丘》首映式，展播《三体》等中国优秀影视作品，相信这将有助于秘鲁朋友更加深入了解中国。</p><p>这份情谊传承自遥相辉映的历史。很多人告诉我，中秘两国人民看到对方就&ldquo;望之可亲&rdquo;，看到对方的文物就感到&ldquo;似曾相识&rdquo;。比如，秘鲁出土的印加人金面具同中国三星堆的黄金面具如出一辙。马丘比丘古城祭台上有一块&ldquo;栓日石&rdquo;，印加人通过日影变化，确定季节、编制日历，这同中国古代的日晷异曲同工。中国古蜀先民以展翅飞翔的太阳神鸟表达对太阳和太阳神的崇拜，这同印加文明一般无二，都体现出对光明的向往。去年以来，&ldquo;何以文明&rdquo;全球巡展走进秘鲁，&ldquo;印加天路&rdquo;安第斯文化展、&ldquo;印加人和帝国四方之地&rdquo;等展览来到中国，受到两国民众热烈欢迎。近日，双方已在秘鲁举办&ldquo;太阳之光：古蜀文明与印加文明互鉴展&rdquo;，欢迎大家前去参观，相信一定能够找到更多中秘文明交相辉映之处。</p><p>这份情谊深化于互利共赢的合作。秘鲁是最早同新中国建交的拉美国家之一。半个多世纪以来，中秘关系始终稳步前行，特别是2013年建立全面战略伙伴关系以来，双边关系不断深化，务实合作成果丰硕，惠及两国人民。新冠疫情期间，中国向秘鲁派遣医疗专家组，尽己所能向秘鲁提供疫苗和抗疫物资，以实际行动证明，中国是关键时刻值得秘鲁信赖的朋友。秘鲁是首个同中国签署一揽子自由贸易协定的拉美国家、最早加入共建&ldquo;一带一路&rdquo;倡议的拉美国家之一。中国已经连续10年成为秘鲁最大贸易伙伴和最大出口市场，去年秘鲁对华出口额占秘鲁出口总额的36%。中资企业在秘鲁投资存量约300亿美元。中资企业投资的拉斯邦巴斯铜矿项目产值约占秘鲁国内生产总值的1%，创造了上万个就业岗位。中资企业承建的通贝斯大区加里多医院惠及逾10万居民，利马三大区水务项目建成后将解决40余万秘鲁人民卫生用水问题。</p><p>中国古语说：&ldquo;治国有常，而利民为本。&rdquo;秘鲁谚语说：&ldquo;人民的声音就是上天的声音。&rdquo;让人民过上更美好生活是我们两国的共同追求。我们要弘扬中秘传统友谊，拓展深化各领域互利合作，赋予其新时代的内涵。今年7月，中国共产党二十届三中全会成功召开，对进一步全面深化改革、推进中国式现代化作出系统部署，这为包括秘鲁在内的世界各国提供了新机遇，为中秘互利合作开辟了新的广阔前景。</p><p>这次访问期间，我将和博鲁阿尔特总统以视频方式共同出席钱凯港开港仪式。钱凯港是中秘共建&ldquo;一带一路&rdquo;重要项目，也是南美首个智慧港口。钱凯港一期工程可以将秘鲁到中国的海运时间缩短至23天，节约20%以上的物流成本，每年为秘鲁带来45亿美元收入，创造8000多个直接就业岗位。钱凯港的建成有助于秘鲁构建从沿海到内陆、从秘鲁到拉美和加勒比其他国家的立体、多元、高效互联互通格局，打造以钱凯港为起点的&ldquo;新时代的印加古道&rdquo;，带动拉美和加勒比地区整体发展和一体化建设。港口项目部还建立动物救助站，主动肩负起救助企鹅、海豹、鸟类的社会责任，改善湿地、海滩、生物栖息地的环境状况。我们要共同把钱凯港建设好、经营好，使&ldquo;从钱凯到上海&rdquo;真正成为促进中秘和中拉共同发展的繁荣之路。中方也愿继续在秘鲁实施&ldquo;小而美&rdquo;民生合作项目，推动开设鲁班工坊、中文工坊，加强两国职业教育合作，鼓励中资企业为当地创造更多就业岗位，履行好社会责任，让&ldquo;老乡&rdquo;情谊更加真实可感。</p><p>我们要担起文明互鉴时代责任，加强在文化艺术、教育、科研、旅游、青年、文化遗产保护、考古等领域交流合作，采取更多措施便利两国人员往来，进一步夯实双边关系发展社会民意基础。密切两国在文明古国论坛机制内合作，探讨构建全球文明对话合作网络，支持各国文明交流互鉴，让世界不同文明如同中国九寨沟的五彩池和秘鲁马拉斯的梯田，虽色彩斑斓、形状各异，但交相辉映、相得益彰，为人类文明进步作出更大贡献。</p><p>继2008年、2016年两次成功举办亚太经合组织领导人非正式会议后，秘鲁将第三次主办这一重要会议。3次会议的主题从&ldquo;亚太发展的新承诺&rdquo;，到&ldquo;高质量增长和人类发展&rdquo;，再到今年的&ldquo;赋能、包容、增长&rdquo;，充分展现出秘方推动建设开放型亚太经济、促进世界经济增长的坚强决心，有力发出开放包容、合作共赢的&ldquo;利马声音&rdquo;。中方坚定支持秘方办会，愿同秘方密切配合，推动会议取得积极成果，在亚太合作中留下新的&ldquo;利马印记&rdquo;，为推动构建亚太命运共同体作出新贡献。</p><p>当前，世界百年变局加速演进，人类社会又一次站在历史的十字路口。秘鲁纳斯卡文明的巨大地画，身在其中者迷，唯有居高者方能窥其全貌。中国也有诗云，&ldquo;不畏浮云遮望眼，自缘身在最高层&rdquo;。中方愿同秘方一道，坚持登高望远，从历史长周期把握世界大势，践行真正的多边主义，推动平等有序的世界多极化、普惠包容的经济全球化，共同落实好全球发展倡议、全球安全倡议、全球文明倡议，携手构建人类命运共同体。</p><p>拉美朋友常说，&ldquo;没有勇气的人，永远不会攀山渡海&rdquo;。站在新的历史起点上，中方愿同秘鲁朋友一道，同心所向，跨越山海，驾驶中秘友好之船驶向更加美好的未来！</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘洁</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
