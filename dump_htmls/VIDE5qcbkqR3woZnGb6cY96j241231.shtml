@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]国家主席习近平发表二〇二五年新年贺词</title>
+<meta name="contentid" content="VIDE5qcbkqR3woZnGb6cY96j241231">
+<meta name=keywords content="[视频]国家主席习近平发表二〇二五年新年贺词">
+<meta name=description content="[视频]国家主席习近平发表二〇二五年新年贺词">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]国家主席习近平发表二〇二五年新年贺词" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]国家主席习近平发表二〇二五年新年贺词" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]国家主席习近平发表二〇二五年新年贺词"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDE5qcbkqR3woZnGb6cY96j241231";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2024/12/31/VIDE5qcbkqR3woZnGb6cY96j241231.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]国家主席习近平发表二〇二五年新年贺词";
+var commentimg3="//p1.img.cctvpic.com/fmspic/2024/12/31/9dd44984a63343d98866728c4be44d09-300.jpg";
+var commentimg2="//p3.img.cctvpic.com/fmspic/2024/12/31/9dd44984a63343d98866728c4be44d09-1.jpg";
+var commentimg1="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/12/31/VIDEs92px5czgLwGGPv3oKKz241231.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2024/12/31 19:14:40';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/photoAlbum/vms/standard/img/2024/12/31/VIDEs92px5czgLwGGPv3oKKz241231.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "9dd44984a63343d98866728c4be44d09";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]国家主席习近平发表二〇二五年新年贺词";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]国家主席习近平发表二〇二五年新年贺词</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2024-12-31 19:14</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]国家主席习近平发表二〇二五年新年贺词";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>国家主席习近平发表二〇二五年新年贺词。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]国家主席习近平发表二〇二五年新年贺词</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2024年12月31日 19:14</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">国家主席习近平发表二〇二五年新年贺词。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：新年前夕，国家主席习近平通过中央广播电视总台和互联网，发表了二〇二五年新年贺词。全文如下：<br/></p><p>大家好！时间过得很快，新的一年即将到来，我在北京向大家致以美好的祝福！<br/></p><p>2024年，我们一起走过春夏秋冬，一道经历风雨彩虹，一个个瞬间定格在这不平凡的一年，令人感慨、难以忘怀。<br/></p><p>我们积极应对国内外环境变化带来的影响，出台一系列政策&ldquo;组合拳&rdquo;，扎实推动高质量发展，我国经济回暖向好，国内生产总值预计超过130万亿元。粮食产量突破1.4万亿斤，中国碗装了更多中国粮。区域发展协同联动、积厚成势，新型城镇化和乡村振兴相互融合、同频共振。绿色低碳发展纵深推进，美丽中国画卷徐徐铺展。<br/></p><p>我们因地制宜培育新质生产力，新产业新业态新模式竞相涌现，新能源汽车年产量首次突破1000万辆，集成电路、人工智能、量子通信等领域取得新成果。嫦娥六号首次月背采样，梦想号探秘大洋，深中通道踏浪海天，南极秦岭站崛起冰原，展现了中国人逐梦星辰大海的豪情壮志。<br/></p><p>今年，我到地方考察，看到大家生活多姿多彩。天水花牛苹果又大又红，东山澳角村渔获满舱。麦积山石窟&ldquo;东方微笑&rdquo;跨越千年，六尺巷礼让家风代代相传。天津古文化街人潮熙攘，银川多民族社区居民亲如一家。对大家关心的就业增收、&ldquo;一老一小&rdquo;、教育医疗等问题，我一直挂念。一年来，基础养老金提高了，房贷利率下调了，直接结算范围扩大方便了异地就医，消费品以旧换新提高了生活品质&hellip;&hellip;大家的获得感又充实了许多。<br/></p><p>巴黎奥运赛场上，我国体育健儿奋勇争先，取得境外参赛最好成绩，彰显了青年一代的昂扬向上、自信阳光。海军、空军喜庆75岁生日，人民子弟兵展现新风貌。面对洪涝、台风等自然灾害，广大党员干部冲锋在前，大家众志成城、守望相助。无数劳动者、建设者、创业者，都在为梦想拼搏。我为国家勋章和国家荣誉称号获得者颁奖，光荣属于他们，也属于每一个挺膺担当的奋斗者。<br/></p><p>当今世界变乱交织，中国作为负责任大国，积极推动全球治理变革，深化全球南方团结合作。我们推进高质量共建&ldquo;一带一路&rdquo;走深走实，成功举办中非合作论坛北京峰会，在上合、金砖、亚太经合组织、二十国集团等双边多边场合，鲜明提出中国主张，为维护世界和平稳定注入更多正能量。<br/></p><p>我们隆重庆祝新中国成立75周年，深情回望共和国的沧桑巨变。从五千多年中华文明的传承中一路走来，&ldquo;中国&rdquo;二字镌刻在&ldquo;何尊&rdquo;底部，更铭刻在每个华夏儿女心中。党的二十届三中全会胜利召开，吹响进一步全面深化改革的号角。我们乘着改革开放的时代大潮阔步前行，中国式现代化必将在改革开放中开辟更加广阔的前景。<br/></p><p>2025年，我们将全面完成&ldquo;十四五&rdquo;规划。要实施更加积极有为的政策，聚精会神抓好高质量发展，推动高水平科技自立自强，保持经济社会发展良好势头。当前经济运行面临一些新情况，有外部环境不确定性的挑战，有新旧动能转换的压力，但这些经过努力是可以克服的。我们从来都是在风雨洗礼中成长、在历经考验中壮大，大家要充满信心。<br/></p><p>家事国事天下事，让人民过上幸福生活是头等大事。家家户户都盼着孩子能有好的教育，老人能有好的养老服务，年轻人能有更多发展机会。这些朴实的愿望，就是对美好生活的向往。我们要一起努力，不断提升社会建设和治理水平，持续营造和谐包容的氛围，把老百姓身边的大事小情解决好，让大家笑容更多、心里更暖。<br/></p><p>在澳门回归祖国25周年之际，我再到濠江之畔，新发展新变化令人欣喜。我们将坚定不移贯彻&ldquo;一国两制&rdquo;方针，保持香港、澳门长期繁荣稳定。两岸同胞一家亲，谁也无法割断我们的血脉亲情，谁也不能阻挡祖国统一的历史大势！<br/></p><p>世界百年变局加速演进，需要以宽广胸襟超越隔阂冲突，以博大情怀关照人类命运。中国愿同各国一道，做友好合作的践行者、文明互鉴的推动者、构建人类命运共同体的参与者，共同开创世界的美好未来。<br/></p><p>梦虽遥，追则能达；愿虽艰，持则可圆。中国式现代化的新征程上，每一个人都是主角，每一份付出都弥足珍贵，每一束光芒都熠熠生辉。<br/></p><p>河山添锦绣，星光映万家。让我们满怀希望，迎接新的一年。祝祖国时和岁丰、繁荣昌盛！祝大家所愿皆所成，多喜乐、长安宁！</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
