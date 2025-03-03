@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>CCTV.com - ERROR</title>
+<!--<link href="/library/errorpage/style/style.css" type="text/css" rel="stylesheet" /> -->
+<style>
+body {background:#d6d6d2;margin:0;padding:0;}
+div,h3,p {margin:0;padding:0;}
+.errbox {background:url(https://www.cntv.cn/library/errorpage/style/img/back.jpg) left top no-repeat;width:980px;margin:0 auto;height:399px;position:relative;}
+.errbox .box {position:absolute;left:297px;top:102px;font-family:"΢���ź�","����";color:#504e4e;width:630px;}
+.errbox .box h3 {font-size:25px;height:42px;}
+.errbox .box p {font-size:17px;}
+.errbox a {position:absolute;left:442px;top:201px;width:97px;height:39px;display:inline-block;background:url(https://www.cntv.cn/library/errorpage/style/img/btn.jpg) left top no-repeat;}
+</style>
+</head>
+
+<body>
+<div class="errbox" id="errbox">
+<div class="box">
+<h3>�Բ��𣬿���������ԭ����޴�ҳ�棬���Ժ��ԡ�</h3>
+<p>��ҳ��3��֮�󽫴����ص���������ҳ��</p>
+</div>
+<a href="http://www.cctv.com/index.shtml"></a>
+</div>
+<script type="text/javascript">
+function loadHeight(){
+	var bodyH=document.documentElement.clientHeight,
+		bodyW=document.documentElement.clientWidth,
+		box=document.getElementById("errbox"),
+		boxW=box.offsetWidth,
+		boxH=box.offsetHeight;
+	if(bodyH<=boxH){
+		box.style.marginTop="0px";
+	}else{
+		box.style.marginTop=(bodyH-boxH)/2+"px";
+	}
+	if(bodyW<=boxW){
+		box.style.marginLeft="0px";		
+	}else{
+		box.style.marginLeft=(bodyW-boxW)/2+"px";
+	}
+	
+	
+}
+loadHeight();
+window.onload=window.onresize=loadHeight;
+</script>
+<script language="javascript"> 
+setTimeout("aaa()" ,5000); 
+function aaa(){ 
+window.location="http://www.cctv.com/index.shtml" 
+} 
+</script>
+<script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","v_id=&aplus&",id="tb-beacon-aplus",src=(location>"https"?"//js":"//js")+".data.cctv.com/__aplus_plugin_cctv.js,aplus_plugin_aplus_u.js")
+</script>
+</body>
+</html>
+
