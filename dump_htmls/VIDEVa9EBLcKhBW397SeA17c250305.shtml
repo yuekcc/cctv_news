@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]十四届全国人大三次会议在京开幕</title>
+<meta name="contentid" content="VIDEVa9EBLcKhBW397SeA17c250305">
+<meta name=keywords content="[视频]十四届全国人大三次会议在京开幕">
+<meta name=description content="[视频]十四届全国人大三次会议在京开幕">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]十四届全国人大三次会议在京开幕" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]十四届全国人大三次会议在京开幕" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]十四届全国人大三次会议在京开幕"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEVa9EBLcKhBW397SeA17c250305";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2025/03/05/VIDEVa9EBLcKhBW397SeA17c250305.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]十四届全国人大三次会议在京开幕";
+var commentimg3="//p5.img.cctvpic.com/fmspic/2025/03/05/5d4d1a0675304f7394967bd235e07eb8-300.jpg";
+var commentimg2="//p4.img.cctvpic.com/fmspic/2025/03/05/5d4d1a0675304f7394967bd235e07eb8-1.jpg";
+var commentimg1="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2025/3/5/VIDEtGWpu744ehZ7WgxT0ts5250305.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2025/03/05 19:16:40';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2025/3/5/VIDEtGWpu744ehZ7WgxT0ts5250305.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "5d4d1a0675304f7394967bd235e07eb8";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]十四届全国人大三次会议在京开幕";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]十四届全国人大三次会议在京开幕</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2025-03-05 19:16</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]十四届全国人大三次会议在京开幕";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>十四届全国人大三次会议在京开幕。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]十四届全国人大三次会议在京开幕</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2025年03月05日 19:16</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">十四届全国人大三次会议在京开幕。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：第十四届全国人民代表大会第三次会议5日上午在北京人民大会堂开幕。近3000名全国人大代表肩负人民重托出席大会，履行宪法和法律赋予的神圣职责。<br/></p><p>人民大会堂大礼堂气氛庄重热烈，主席台帷幕正中的国徽与会场穹顶上的五角星灯交相辉映。<br/></p><p>大会主席团常务主席、执行主席赵乐际主持大会。大会主席团常务主席、执行主席李鸿忠、王东明、肖捷、郑建邦、丁仲礼、郝明金、蔡达峰、何维、武维华、铁凝、彭清华、张庆伟、洛桑江村、雪克来提&middot;扎克尔、刘奇在主席台执行主席席就座。<br/></p><p>习近平、李强、王沪宁、蔡奇、丁薛祥、李希、韩正和大会主席团成员在主席台就座。<br/></p><p>十四届全国人大三次会议应出席代表2929人。5日上午的会议，出席2880人，缺席49人，出席人数符合法定人数。<br/></p><p>上午9时，赵乐际宣布：中华人民共和国第十四届全国人民代表大会第三次会议开幕。会场全体起立，高唱国歌。<br/></p><p>根据会议议程，国务院总理李强代表国务院向大会作政府工作报告。报告共分三个部分：一、2024年工作回顾；二、2025年经济社会发展总体要求和政策取向；三、2025年政府工作任务。<br/></p><p>李强在报告中指出，过去一年，我国发展历程很不平凡。面对外部压力加大、内部困难增多的复杂严峻形势，在以习近平同志为核心的党中央坚强领导下，全国各族人民砥砺奋进、攻坚克难，经济运行总体平稳、稳中有进，全年经济社会发展主要目标任务顺利完成，高质量发展扎实推进，新质生产力稳步发展，我国经济实力、科技实力、综合国力持续增强，中国式现代化迈出新的坚实步伐，更加坚定了我们在新时代新征程全面建设社会主义现代化国家的决心和信心。<br/></p><p>李强在报告中指出，一年来，我们深入学习贯彻习近平新时代中国特色社会主义思想，坚定维护以习近平同志为核心的党中央权威和集中统一领导，把党的领导贯穿政府工作各方面全过程，全面贯彻落实党的二十大和二十届二中、三中全会精神，按照党中央决策部署，主要做了以下工作：一是因时因势加强和创新宏观调控，推动经济回升向好；二是坚定不移全面深化改革扩大开放，增强发展内生动力；三是大力推动创新驱动发展，促进产业结构优化升级；四是统筹城乡区域协调发展，优化经济布局；五是积极发展社会事业，增进民生福祉；六是持续加强生态环境保护，提升绿色低碳发展水平；七是加强政府建设和治理创新，保持社会和谐稳定。<br/></p><p>李强在报告中指出，在肯定成绩的同时，我们也清醒看到面临的问题和挑战。我们既要正视困难问题，更要坚定发展信心。<br/></p><p>李强在报告中指出，今年是&ldquo;十四五&rdquo;规划收官之年。今年发展主要预期目标是：国内生产总值增长5%左右；城镇调查失业率5.5%左右，城镇新增就业1200万人以上；居民消费价格涨幅2%左右；居民收入增长和经济增长同步；国际收支保持基本平衡；粮食产量1.4万亿斤左右；单位国内生产总值能耗降低3%左右，生态环境质量持续改善。<br/></p><p>李强在报告中指出，完成好今年目标任务，必须深入贯彻习近平经济思想，紧抓高质量发展这个首要任务，坚持以质取胜和发挥规模效应相统一，实现质的有效提升和量的合理增长。</p><p>李强在报告中提出，今年经济社会发展任务十分繁重。我们要突出重点、把握关键，着重抓好以下几个方面工作：大力提振消费、提高投资效益，全方位扩大国内需求；因地制宜发展新质生产力，加快建设现代化产业体系；深入实施科教兴国战略，提升国家创新体系整体效能；推动标志性改革举措加快落地，更好发挥经济体制改革牵引作用；扩大高水平对外开放，积极稳外贸稳外资；有效防范化解重点领域风险，牢牢守住不发生系统性风险底线；着力抓好&ldquo;三农&rdquo;工作，深入推进乡村全面振兴；推进新型城镇化和区域协调发展，进一步优化发展空间格局；协同推进降碳减污扩绿增长，加快经济社会发展全面绿色转型；加大保障和改善民生力度，提升社会治理效能。<br/></p><p>报告中，李强还就加强政府自身建设，民族、宗教和侨务工作，国防和军队建设，香港、澳门发展和两岸关系，以及我国外交政策等作了阐述。<br/></p><p>根据会议议程，大会审查国务院关于2024年国民经济和社会发展计划执行情况与2025年国民经济和社会发展计划草案的报告及2025年国民经济和社会发展计划草案、国务院关于2024年中央和地方预算执行情况与2025年中央和地方预算草案的报告及2025年中央和地方预算草案。<br/></p><p>受全国人大常委会委托，全国人大常委会副委员长李鸿忠作关于全国人民代表大会和地方各级人民代表大会代表法修正草案的说明。<br/></p><p>关于全国人民代表大会和地方各级人民代表大会代表法修正草案的说明指出，代表法是规范和保障人大代表依法行使代表职权、履行代表义务、发挥代表作用的基本法律。这部法律的颁布施行，对规范和保证代表依法履行职责，充分发挥代表作用，保证人民当家作主，发挥了重要作用。全面贯彻习近平新时代中国特色社会主义思想，深入贯彻习近平总书记关于坚持和完善人民代表大会制度的重要思想，贯彻落实党中央重大决策部署，有必要与时俱进修改完善代表法，保障和促进人大代表工作高质量发展，更充分地发挥人民代表大会制度的显著优势。修改代表法是坚持党的全面领导、坚定不移走中国特色社会主义政治发展道路的必然要求；是推动人大工作高质量发展，坚持好、完善好、运行好人民代表大会制度的重要保障；是发展全过程人民民主，使各级人大及其常委会成为始终同人民群众保持密切联系的代表机关的客观要求。代表法修正草案共34条，主要修改内容包括：充实总则部分规定，拓展和深化&ldquo;两个联系&rdquo;制度机制，完善人大代表工作能力建设有关规定，完善代表在本级人民代表大会会议期间的工作有关规定，完善代表在本级人民代表大会闭会期间的活动有关规定，完善代表执行职务的保障有关规定，完善代表议案和建议办理机制，完善代表履职管理监督有关规定，适应监察体制改革需要补充相关内容。<br/></p><p>在主席台就座的还有：马兴瑞、王毅、尹力、石泰峰、刘国中、李干杰、李书磊、何卫东、何立峰、张又侠、张国清、陈文清、陈吉宁、陈敏尔、袁家军、黄坤明、刘金国、王小洪、吴政隆、谌贻琴、张军、应勇、胡春华、沈跃跃、王勇、周强、帕巴拉&middot;格列朗杰、何厚铧、梁振英、巴特尔、苏辉、邵鸿、高云龙、陈武、穆虹、咸辉、王东峰、姜信治、蒋作君、何报翔、王光谦、秦博勇、朱永新、杨震，以及中央军委委员刘振立、张升民等。<br/></p><p>香港特别行政区行政长官李家超、澳门特别行政区行政长官岑浩辉列席会议并在主席台就座。<br/></p><p>出席全国政协十四届三次会议的政协委员列席大会。<br/></p><p>中央和国家机关有关部门、解放军有关单位和武警部队、各人民团体有关负责人列席或旁听了大会。<br/></p><p>外国驻华使节旁听了大会。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
