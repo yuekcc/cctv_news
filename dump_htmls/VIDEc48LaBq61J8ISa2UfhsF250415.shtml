@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在马来西亚媒体发表署名文章</title>
+<meta name="contentid" content="VIDEc48LaBq61J8ISa2UfhsF250415">
+<meta name=keywords content="[视频]习近平在马来西亚媒体发表署名文章">
+<meta name=description content="[视频]习近平在马来西亚媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在马来西亚媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]习近平在马来西亚媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在马来西亚媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEc48LaBq61J8ISa2UfhsF250415";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2025/04/15/VIDEc48LaBq61J8ISa2UfhsF250415.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]习近平在马来西亚媒体发表署名文章";
+var commentimg3="//p4.img.cctvpic.com/fmspic/2025/04/15/6f955962227d486382465485a4c25d41-300.jpg";
+var commentimg2="//p2.img.cctvpic.com/fmspic/2025/04/15/6f955962227d486382465485a4c25d41-1.jpg";
+var commentimg1="//p5.img.cctvpic.com/photoAlbum/vms/standard/img/2025/4/15/VIDEQcntSVv4vzlx51YvgDxv250415.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2025/04/15 19:47:40';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p5.img.cctvpic.com/photoAlbum/vms/standard/img/2025/4/15/VIDEQcntSVv4vzlx51YvgDxv250415.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "6f955962227d486382465485a4c25d41";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]习近平在马来西亚媒体发表署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在马来西亚媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2025-04-15 19:47</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]习近平在马来西亚媒体发表署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在马来西亚媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在马来西亚媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2025年04月15日 19:47</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在马来西亚媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：4月15日，在赴吉隆坡对马来西亚进行国事访问之际，国家主席习近平在马来西亚《星洲日报》、《星报》、《阳光日报》发表题为《让中马友谊之船驶向更加美好的未来》的署名文章。文章全文如下：</p><p style="text-align: center;text-indent: 0em;"><strong>让中马友谊之船驶向更加美好的未来</strong></p><p style="text-align: center;text-indent: 0em;">中华人民共和国主席　习近平</p><p>应马来西亚最高元首易卜拉欣陛下邀请，我即将对马来西亚进行国事访问。这是我时隔12年再次到访这个美丽的国家。我期待亲身感受马来西亚新发展新变化，同马来西亚朋友畅叙友情、共话合作。</p><p>中国同马来西亚是隔海相望的友好邻邦。海上丝绸之路见证了两国跨越千年的友好交往，&ldquo;切水不断&rdquo;的世代情谊随着历史演进愈益深厚。1300多年前，中国唐代义净法师渡海求法途经马来半岛，首次用文字记载下古吉打王国历史。600多年前，中国明代航海家郑和7次远洋航海中5次到访马六甲，播撒和平友谊种子，马六甲的三保庙、三宝山、三宝井承载着当地人民对他的深深怀念。80多年前，马来西亚南侨机工在中国人民抗日战争的关键时刻奔赴云南，帮助打通滇缅公路这条生命线。这些佳话至今仍在中马两国人民中广为传颂。抚今追昔，中马双方要共同努力，让这艘从历史长河中驶来的友谊之船再添动力、行稳致远。</p><p>我们要把牢战略引领的船舵。51年前，中马两国领导人冲破冷战阴霾决定建交，开创了中国同东盟国家关系的先河。建交以来，中马双方始终立足战略自主，尊重彼此发展道路，在涉及对方核心利益和重大关切问题上相互支持，树立了国与国相互成就、合作共赢的典范。2023年，我同安瓦尔总理就共建中马命运共同体达成重要共识，双边关系开启历史新篇章。双方要密切战略沟通，增进政治互信，落实好两国政府共建&ldquo;一带一路&rdquo;合作规划，加强发展战略对接和治国理政经验交流，以高水平战略合作推动双边关系发展。</p><p>我们要厚载务实合作的压舱石。2024年，中马双边贸易额达2120亿美元，比两国建交时增长近千倍，中国连续16年成为马来西亚第一大贸易伙伴。马来西亚鲜食榴莲一天之内就可以从果园运送到中国超市，深受中国老百姓喜爱。马中关丹产业园区累计完成投资超过110亿元人民币，入园项目全部建成达产后将创造许多长期就业岗位。两国数字经济、绿色发展、产业投资、交通基础设施建设等领域合作潜力不断释放。双方要深化互利合作，推进高质量共建&ldquo;一带一路&rdquo;，加强产业链供应链合作，重点推动数字经济、绿色经济、蓝色经济、旅游经济合作，助力各自现代化进程。</p><p>我们要划好人文交流的船桨。中国和马来西亚相互给予对方国家公民免签待遇。2024年，两国人员往来近600万人次，超过新冠疫情前水平。&ldquo;马来西亚，亚洲魅力所在&rdquo;这句广告语道出了马来西亚文化、历史、风光的独特妙处，吸引众多中国游客前往休闲观光。同时，越来越多马来西亚游客到访中国，领略丰厚&ldquo;古风&rdquo;和斑斓&ldquo;今韵&rdquo;。中马两国人民要像走亲戚一样常来常往，促进人文交流和文明互鉴，增进彼此特别是青年一代相知相亲。</p><p>我们要扬起多边协作的风帆。中马两国同为亚太重要发展中国家、新兴市场经济体、全球南方成员，在维护国际公平正义、推动开放包容发展等方面拥有相近立场，在东亚合作、亚太经合组织、联合国等框架内开展紧密协作。中方欢迎马来西亚成为金砖伙伴国，这顺应了全球南方联合自强的时代大势，有利于维护发展中国家共同利益。今年是中国人民抗日战争暨世界反法西斯战争胜利80周年、联合国成立80周年，也是万隆会议召开70周年。双方要密切在国际和地区事务中的合作，弘扬和平共处五项原则和万隆精神，共同维护以联合国为核心的国际体系和以国际法为基础的国际秩序，推动全球治理朝着更加公正合理的方向发展。要维护多边贸易体制，维护全球产业链供应链稳定，维护开放合作的国际环境。</p><p>中马两国是安危与共、荣辱与共、患难与共的命运共同体。&ldquo;有福同享、有难同当&rdquo;，是两国共同的谚语，道出了中马命运共同体的真谛。双方要勇立潮头、奋楫争先，共同开辟发展、壮大、繁荣的美好前景。</p><p>中国和东盟各国的友好合作穿越时代风雨、历久弥坚。中国在东盟对话伙伴中最先加入《东南亚友好合作条约》，率先同东盟建立自由贸易区和全面战略伙伴关系，中国东盟合作在区域合作中最务实、最富有成果。面对亚洲金融危机、国际金融危机、新冠疫情等挑战和经济全球化逆流，双方互帮互助，双边合作愈发坚韧。2024年，中国东盟贸易额突破9800亿美元，连续5年互为第一大贸易伙伴，中国－东盟自由贸易区3.0版谈判实质性结束。越来越多东盟国家优质特色产品进入中国千家万户，中国文学、动画、影视作品等纷纷走进东盟国家，带去中华优秀传统文化和充满魅力的现代生活气息。</p><p>中国坚定支持东盟团结和东盟共同体建设，支持东盟在区域架构中的中心地位。中国全力支持马来西亚履职2025年东盟轮值主席国，期待马来西亚作为中国东盟关系协调国更好发挥桥梁作用。中国正在以中国式现代化全面推进强国建设、民族复兴伟业。中国式现代化是走和平发展道路的现代化，愿同各国一道实现和平发展、互利合作、共同繁荣。中国经济基础稳、优势多、韧性强、潜能大，长期向好的支撑条件和基本趋势没有变。中国把2025年经济增长预期目标定在5%左右，将继续推动高质量发展，扩大高水平对外开放，同各国分享发展机遇，为地区乃至世界经济带来更多稳定性和确定性。</p><p>团结就是力量，合作才能共赢。中国愿同马来西亚和其他东盟国家一道，顺应和平与发展历史潮流，抵御地缘政治和阵营对抗暗流，冲破单边主义、保护主义逆流，推动高水平战略性中马命运共同体破浪前行，携手打造更为紧密的中国－东盟命运共同体。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：钱景童</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
