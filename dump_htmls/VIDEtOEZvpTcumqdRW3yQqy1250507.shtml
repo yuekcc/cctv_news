@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在俄罗斯媒体发表署名文章</title>
+<meta name="contentid" content="VIDEtOEZvpTcumqdRW3yQqy1250507">
+<meta name=keywords content="[视频]习近平在俄罗斯媒体发表署名文章">
+<meta name=description content="[视频]习近平在俄罗斯媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在俄罗斯媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]习近平在俄罗斯媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在俄罗斯媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEtOEZvpTcumqdRW3yQqy1250507";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2025/05/07/VIDEtOEZvpTcumqdRW3yQqy1250507.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]习近平在俄罗斯媒体发表署名文章";
+var commentimg3="//p4.img.cctvpic.com/fmspic/2025/05/07/f9c1e4a729d94c12bda06518a7aefe89-300.jpg";
+var commentimg2="//p1.img.cctvpic.com/fmspic/2025/05/07/f9c1e4a729d94c12bda06518a7aefe89-1.jpg";
+var commentimg1="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2025/5/7/VIDEqUHIilvsEQGf4aDegMSz250507.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2025/05/07 19:09:01';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p2.img.cctvpic.com/photoAlbum/vms/standard/img/2025/5/7/VIDEqUHIilvsEQGf4aDegMSz250507.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "f9c1e4a729d94c12bda06518a7aefe89";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]习近平在俄罗斯媒体发表署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在俄罗斯媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2025-05-07 19:09</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]习近平在俄罗斯媒体发表署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在俄罗斯媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在俄罗斯媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2025年05月07日 19:09</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在俄罗斯媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：5月7日，在赴莫斯科对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典之际，国家主席习近平在《俄罗斯报》发表题为《以史为鉴　共创未来》的署名文章。文章全文如下：</p><p style="text-align: center;text-indent: 0em;"><strong>以史为鉴　共创未来</strong></p><p style="text-align: center;text-indent: 0em;">中华人民共和国主席　习近平</p><p>今年是中国人民抗日战争、苏联伟大卫国战争暨世界反法西斯战争胜利80周年，也是联合国成立80周年。在这&ldquo;梨花开遍了天涯&rdquo;的季节，我即将对俄罗斯进行国事访问，并出席纪念苏联伟大卫国战争胜利80周年庆典，同英雄的俄罗斯人民一道重温历史、缅怀先烈。</p><p>10年前的这个时候，我赴俄罗斯出席卫国战争胜利70周年庆典，专门会见了18位俄罗斯老战士代表，他们曾在苏联伟大卫国战争和中国人民抗日战争战场上浴血奋战。老战士们的铮铮铁骨和坚毅神情我至今难忘。在过去几年里，加列耶夫大将、舒德洛少将等老战士先后离世，我深切缅怀他们。从将军到列兵，所有为世界反法西斯战争胜利建立卓越功勋的老战士，我们都永远不会忘记！英雄不朽，正气长存！</p><p>在世界反法西斯战争中，中俄两国人民并肩作战、相互支援。在中国人民抗日战争的艰难时刻，苏联援华航空队在南京、武汉、重庆等地&ldquo;鹰击长空&rdquo;、阻击日寇，许多飞行员献出宝贵生命。在苏联伟大卫国战争最危急关头，&ldquo;东方佐尔格&rdquo;&mdash;&mdash;中国共产党的优秀地下工作者阎宝航，向苏方提供第一手情报。烽火岁月，苏联向中国提供大批武器装备，中国也向苏联输送急需战略物资，两国携手在大漠戈壁开辟出一条国际&ldquo;生命线&rdquo;，为支援彼此反法西斯战争发挥了重要作用。两国人民用鲜血和生命凝结的深厚情谊，如黄河之水奔腾不息，似伏尔加河宽广深沉，成为中俄世代友好的不竭源泉。</p><p>80年前，包括中国、苏联在内的全世界正义力量同仇敌忾、英勇战斗，并肩打败了不可一世的法西斯势力。80年后的今天，单边主义、霸权霸道霸凌行径危害深重，人类又一次站在了团结还是分裂、对话还是对抗、共赢还是零和的十字路口。伟大的俄罗斯作家列夫&middot;托尔斯泰在《战争与和平》中写道：&ldquo;历史是国家和人类的传记。&rdquo;历史的记忆和真相不会随着岁月流逝而褪色，带给我们的启迪永远映照现实、昭示未来。我们要以史为鉴，从第二次世界大战的深刻教训和反法西斯战争的伟大胜利中汲取智慧和力量，坚决反对一切形式的霸权主义和强权政治，共同创造人类更加美好的未来。</p><p>&mdash;&mdash;我们要坚持正确二战史观。中国、苏联分别作为第二次世界大战的亚洲和欧洲主战场，是抗击日本军国主义和德国纳粹主义的中流砥柱，为世界反法西斯战争胜利作出决定性贡献。中国人民抗日战争开始时间最早、持续时间最长。在中国共产党倡导并建立的抗日民族统一战线旗帜下，中华儿女前赴后继、勠力同心，付出巨大牺牲打败了穷凶极恶的日本军国主义者，谱写了抗日战争胜利的伟大篇章。在欧洲战场，苏联红军以坚韧意志锻造钢铁洪流，碾碎了纳粹侵略者的野心，解放了被德国法西斯奴役的人民，书写了苏联伟大卫国战争胜利的壮丽史诗。</p><p>历史告诉我们，光明必将驱散黑暗，正义终将战胜邪恶。纽伦堡国际军事法庭、远东国际军事法庭把战犯永远钉在历史的耻辱柱上，这两场大审判的正义性质、历史价值、时代意义不可撼动！一切歪曲二战历史真相、否定二战胜利成果、抹黑中苏历史功绩的图谋都不会得逞！对于任何企图开历史倒车的行径，不仅中俄两国人民不会答应，世界各国人民也不会答应！</p><p>&mdash;&mdash;我们要坚决维护战后国际秩序。二战结束前后，国际社会作出的最重要决定就是成立联合国。中国和苏联率先在《联合国宪章》上签字，两国在联合国安理会的常任理事国地位是历史形成的，是用鲜血和生命换来的。国际形势越是变乱交织，我们越要坚持和维护联合国权威，坚定维护以联合国为核心的国际体系、以国际法为基础的国际秩序、以联合国宪章宗旨和原则为基础的国际关系基本准则，持续推进平等有序的世界多极化、普惠包容的经济全球化。</p><p>今年也是台湾光复80周年。台湾回归中国是二战胜利成果和战后国际秩序的重要组成部分。《开罗宣言》、《波茨坦公告》等一系列具有国际法效力的文件都确认了中国对台湾的主权，其历史和法理事实不容置疑，联合国大会第2758号决议的权威性不容挑战。无论台湾岛内形势如何变化，无论外部势力如何捣乱，中国终将统一、也必将统一的历史大势不可阻挡。</p><p>中俄在涉及彼此核心利益和重大关切问题上始终坚定相互支持。俄方多次重申，恪守一个中国原则，台湾是中国领土不可分割的一部分，反对任何形式的&ldquo;台独&rdquo;，坚定支持中国政府和中国人民为实现国家统一采取的一切举措。中方对此高度评价。</p><p>&mdash;&mdash;我们要坚定捍卫国际公平正义。当今世界，和平赤字、发展赤字、安全赤字、治理赤字有增无减。我提出推动构建人类命运共同体，提出全球发展倡议、全球安全倡议、全球文明倡议，就是为了破解上述赤字，以公平正义为理念积极引领全球治理体系变革。</p><p>世界要公道，不要霸道。历史和现实都表明，应对全球性挑战必须坚持共商共建共享的全球治理观，坚持对话而不对抗、结伴而不结盟、共赢而非零和，践行真正的多边主义，兼顾各方合理关切，维护国际规则和秩序。我们坚信，世界各国人民都会选择站在历史正确一边、站在公平正义一边。</p><p>中国和俄罗斯都是具有重要影响力的大国，是维护全球战略稳定、完善全球治理的建设性力量。中俄关系具有清晰历史逻辑、强大内生动力、深厚文明底蕴，不针对第三方，也不受制于任何第三方。双方要共同抵制任何干扰破坏中俄友谊和互信的图谋，不为一时一事所惑，不为风高浪急所扰，以中俄战略协作的确定性和坚韧性共同推动世界多极化进程，共同推动构建人类命运共同体。</p><p>中国和俄罗斯都是有着灿烂文明的伟大国家，中国人民和俄罗斯人民都是有着英雄血脉的伟大人民。80年前，我们经过奋起反抗，赢得了反法西斯战争伟大胜利。80年后的今天，我们要采取一切必要措施，坚决维护自身主权、安全、发展利益，坚定做历史记忆的守护者、发展振兴的同行者、国际公平正义的捍卫者，携手为人类前途命运争取更加光明的未来。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
