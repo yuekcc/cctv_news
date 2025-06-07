@@ -1,0 +1,709 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	
+		<title>[视频]国内联播快讯</title>
+		<meta name="contentid" content="VIDED2d3wo9spNJefGX77Rk6250606">
+		<meta name=keywords content="中国仓储指数连续七个月运行在扩张区间">
+		<meta name=description content="中国仓储指数连续七个月运行在扩张区间">
+		<meta name="spm-id" content="C52056131267">
+		<meta property="og:title" content="[视频]国内联播快讯" />
+		<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+		<meta property="og:description" content="中国仓储指数连续七个月运行在扩张区间" /> 
+		<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+		<script language="Javascript">
+			var url_domainname=location.href;			
+			var num_1= url_domainname.split("//")[1];
+			var domainame_ = num_1.split("/")[0]
+			var type_ = num_1.split(".")[0]
+			var commentTitle = "[视频]国内联播快讯"; /*评论标题*/
+			/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+			var itemid1="VIDED2d3wo9spNJefGX77Rk6250606";/*正文页id，赋值给留言评论模块的参数之一*/
+			var commentUrl = "https://tv.cctv.com/2025/06/06/VIDED2d3wo9spNJefGX77Rk6250606.shtml";
+			var column_id = "TOPC1451528971114112";/*专题id*/
+			var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+			var domainname = domainame_;
+			var chnl_domain = domainame_;
+			var video_ad_primary_column_id = sub_column_id;		  
+			var video_ad_channel_id="CHAL1450952056131267";
+			var sobey_video_flag = '1';
+			var type=type_;
+			var pindao_1 = "CHAL1450952056131267";			
+			var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+			var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+			var new_str = times_str.replace(/ /g,'-');
+			var arr = new_str.split("-");
+			var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+			var timeint=datum.getTime()/1000;
+			var html;
+			var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+			var commentbreif="中国仓储指数连续七个月运行在扩张区间";
+			var commentimg3="//p5.img.cctvpic.com/fmspic/2025/06/06/f202e9860bce4243b0dd0ce453f92f18-300.jpg";
+			var commentimg2="//p1.img.cctvpic.com/fmspic/2025/06/06/f202e9860bce4243b0dd0ce453f92f18-1.jpg";
+			var commentimg1="//p5.img.cctvpic.com/fmspic/2025/06/06/f202e9860bce4243b0dd0ce453f92f18-180.jpg";
+			var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+			var commentimg=commentimg3;
+			if(commentimg3==""){
+				commentimg=commentimg2;
+			}
+			if(commentimg2==""){
+				commentimg=commentimg1;
+			}
+			if(commentimg1==""){
+				commentimg=commentimg0;
+			}
+			if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+			  commentimg = "https://"+commentimg.split("//")[1];
+			}
+			window.shareObj={}
+			shareObj.shareUrl = window.location.href;
+			shareObj.shareTitle = commentTitle;
+			shareObj.pic = commentimg;
+			shareObj.summary =commentbreif;
+			var hdprop='';
+			var hdpropAd='1';
+			var fdate='2025/06/06 19:28:05';
+		</script>
+
+	
+		<script language="Javascript">flvImgUrl="//p5.img.cctvpic.com/fmspic/2025/06/06/f202e9860bce4243b0dd0ce453f92f18-180.jpg";
+		</script>
+	
+	<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css?3333d333dd">
+	<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css?vzxc">
+	<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+	<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+	<link rel="stylesheet" type="text/css" href=""/>
+	<script type="text/javascript">
+		var  isMobile=judgeisMobile()
+	</script>
+	<script>
+	if($(window).width()  <= 1024){
+		var obj = new publicRemPageTool();
+		obj.showProper(750,true);
+	}
+</script>
+</head>
+
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->				
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+	<div class="allcontent">
+		 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+		<div class="video18847">
+			<div class="playingVideo">
+				<div class="video">
+					<div class="video_left" id="video">
+						<div class="flash" id="_video">
+						</div>
+				<!-- 视频开始 -->
+					
+					<script type="text/javascript">
+						var channelId = domainame_;//频道id
+						var adcalldomain = domainame_;//广告
+						var sorts = "1";//广告
+						var sysSource = channelId; //视频来源	
+						var webFullScreenOn = "false";
+						var setupOn = "false";
+						var guid = "a248f4d7058545e1a266c5144f69ffb9";
+						   var barrageApp="cms_sports";
+                                   var hasBarrage="false";
+                                  var  danmu_status=0;
+                                  if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+                                   hasBarrage="true";
+                                  danmu_status=1;
+                                  }
+					</script>
+					 <script type="text/javascript">
+                var videokeyWord = "中国仓储指数连续七个月运行在扩张区间";//关键字
+                var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+                var guid_Ad_VideoCode = guid;
+                </script>
+                <script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>
+                <script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+                <script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+              	<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>	
+                <script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+					<!-- 弹幕条 -->
+            		<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+									
+					</div>
+					<div class="clear"></div>
+				</div>
+				
+					<div class="tit">[视频]国内联播快讯</div>
+				
+			</div>
+			<div class="playingCon">
+				
+				<div class="gongneng">
+					<span class="laiyuan">来源 : 央视网</span>
+					<span class="time">2025-06-06 19:28</span>
+					<span class="nrjianjie"><i>内容简介<b></b></i></span>
+					<span class="biaoqian" id="biaoqian"></span>
+					<span class="dianzan"></span>
+					<script type="text/javascript">
+						/*var keyword="中国仓储指数连续七个月运行在扩张区间";
+						var reg = new RegExp("　","g");
+						var tagArrayBak = keyword.replace(reg," ");
+						var keyword = tagArrayBak.split(" ");
+						var str=""
+						if(keyword.length<3){
+							var len=keyword.length
+						}else{
+							var len=3;
+						}
+						for(var n=0;n<len;n++){
+							if(keyword[n]!=""){
+									str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						
+							}
+						}
+						$("#biaoqian").html(str)*/
+					</script>
+				</div>
+				<div class="nrjianjie_shadow" style="display: none;">
+					<div class="con">
+						<ul>
+							<li>
+								<div class="tit">视频简介</div>
+								<p>国内联播快讯：
+（1）中国仓储指数连续七个月运行在扩张区间；
+（2）国家航天局发布天问二号探测器圆形太阳翼展开图片；
+（3）我国成功发射卫星互联网低轨卫星；
+（4）我国第9个文化和自然遗产日主题发布；
+（5）教育部部署开展2025届高校毕业生就业“百日冲刺”行动；
+（6）“十四五”期间我国眼健康服务取得长足进步；
+（7）我国全面推进分娩镇痛服务；
+（8）广东海洋生产总值突破2万亿元；
+（9）包银高铁内蒙古段铺轨完成；
+（10）各地少数民族群众欢度古尔邦节；
+（11）超60部中外影片定档2025暑期；
+（12）自然资源部与总台达成战略合作 大型系列节目《自然中国》启播；
+（13）《高端访谈》今晚播出西门子股份公司董事会主席博乐仁独家专访。</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			<div class="phone_all">
+				
+				<div class="phone_title">
+					<div class="ph_title_l">[视频]国内联播快讯</div>
+					<div class="ph_title_r">简介</div>
+				</div>
+				
+				
+				<div class="phone_content">
+					<div class="laiyuan">来源：央视网    更新时间：2025年06月06日 19:28</div>
+					<ul>
+						<li>
+							<div class="video_title">视频简介</div>
+							<div class="video_brief">国内联播快讯：
+（1）中国仓储指数连续七个月运行在扩张区间；
+（2）国家航天局发布天问二号探测器圆形太阳翼展开图片；
+（3）我国成功发射卫星互联网低轨卫星；
+（4）我国第9个文化和自然遗产日主题发布；
+（5）教育部部署开展2025届高校毕业生就业“百日冲刺”行动；
+（6）“十四五”期间我国眼健康服务取得长足进步；
+（7）我国全面推进分娩镇痛服务；
+（8）广东海洋生产总值突破2万亿元；
+（9）包银高铁内蒙古段铺轨完成；
+（10）各地少数民族群众欢度古尔邦节；
+（11）超60部中外影片定档2025暑期；
+（12）自然资源部与总台达成战略合作 大型系列节目《自然中国》启播；
+（13）《高端访谈》今晚播出西门子股份公司董事会主席博乐仁独家专访。</div>
+						</li>
+					
+					</ul>
+				</div>
+				
+				<div class="phone_gongneng">
+					<span class="like" id="zanNum"></span>
+					<span class="collect"></span>
+					<span class="share"></span>
+				</div>
+				<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+			</div>
+		</div>
+		<div class="title18847"><!-- 移动端 -->
+			<div class="title_con">
+				
+						<div id="content">
+							<div class="contit"><span>主要内容<b></b><i></i></span></div>
+						<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：</p><p><strong>中国仓储指数连续七个月运行在扩张区间</strong></p><p>中国物流与采购联合会今天（6月6日）公布：5月份中国仓储指数为50.5%，连续七个月运行在扩张区间。消费品仓储业务需求表现较好，农副产品、家电等品种的新订单指数升幅明显。随着业务需求不断增长，从业人员人数持续增加，设施利用率继续提高，仓储业务活动保持活跃。</p><p><strong>国家航天局发布天问二号探测器圆形太阳翼展开图片</strong></p><p>今天（6月6日），国家航天局发布了天问二号探测器传回的圆形太阳翼展开图片。天问二号探测器研发配置了圆形柔性太阳翼，可以满足在距离太阳约3.75亿千米的主带彗星开展探测的供电需求。截至目前，天问二号探测器已在轨运行超8天，与地球距离超300万千米，工况良好。</p><p><strong>我国成功发射卫星互联网低轨卫星</strong></p><p>今天（6月6日）4时45分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨04组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。</p><p><strong>我国第9个文化和自然遗产日主题发布</strong></p><p>今天（6月6日），国家文物局发布我国第9个文化和自然遗产日主题，为&ldquo;让文物焕发新活力 绽放新光彩&rdquo;。湖南长沙作为主场城市，将推出文物展览、专题讲座等400余项配套活动，同时各地文博单位将组织开展7000余项线下线上活动，丰富群众文化生活。</p><p><strong>教育部部署开展2025届高校毕业生就业&ldquo;百日冲刺&rdquo;行动</strong></p><p>日前，教育部部署各地各高校深入开展2025届高校毕业生就业&ldquo;百日冲刺&rdquo;行动，要求加力拓展市场化就业岗位，加力组织校园招聘活动，办好&ldquo;国聘行动&rdquo;等品牌活动；加快组织政策性岗位招录；加大就业指导和帮扶工作力度，全力促进高校毕业生顺利就业。</p><p><strong>&ldquo;十四五&rdquo;期间我国眼健康服务取得长足进步</strong></p><p>记者从国家卫生健康委了解到，&ldquo;十四五&rdquo;期间，我国眼健康服务取得长足进步。94.9%的县域能够提供眼科医疗服务，全国3756家县级医疗机构能够开展白内障手术。目前，0&mdash;6岁儿童每年眼保健和视力检查覆盖率达到95.4%；有效屈光不正矫正覆盖率不断提高。</p><p><strong>我国全面推进分娩镇痛服务</strong></p><p>国家卫生健康委等三部门今天（6月6日）发布《关于全面推进分娩镇痛工作的通知》，要求到2025年底，开展产科医疗服务的三级医疗机构全部能够提供分娩镇痛服务；到2027年，开展产科医疗服务的二级以上医疗机构全部能够提供分娩镇痛服务。</p><p><strong>广东海洋生产总值突破2万亿元</strong></p><p>今天（6月6日），《广东海洋经济发展报告（2025）》正式发布。据自然资源部核算，2024年，广东省海洋生产总值达20022.5亿元，同比名义增长5.4%，占全国海洋生产总值的19%，广东省海洋经济总量连续30年居全国首位。</p><p><strong>包银高铁内蒙古段铺轨完成</strong></p><p>今天（6月6日），包头至银川高铁内蒙古段铺轨完成，为年内开通运营奠定基础。包银高铁线路全长519公里，其中内蒙古段线路长402公里。全线通车后，包头到银川的列车最快运行时间将由目前6个多小时缩短至2个小时。</p><p><strong>各地少数民族群众欢度古尔邦节</strong></p><p>今天（6月6日）是我国一些少数民族的传统节日古尔邦节，多地开展了形式多样的庆祝活动。各族群众欢聚一堂载歌载舞、一同品尝美食佳肴，共度欢乐祥和的节日。</p><p><strong>超60部中外影片定档2025暑期</strong></p><p>国家电影局今天（6月6日）发布2025暑期档电影片单，作为全年周期最长的电影档期，包括《东极岛》《长安的荔枝》等，将有超过60部中外影片在今年暑期上映，题材涵盖历史、悬疑、动作、喜剧、动画等多个类型。此外，&ldquo;中国电影消费年&rdquo;活动将在暑期推出一系列电影消费惠民举措，进一步释放消费潜力。&ldquo;光影绽放中国行&rdquo;全国电影周活动同步启动。</p><p><strong>自然资源部与总台达成战略合作 大型系列节目《自然中国》启播</strong></p><p>自然资源部与中央广播电视总台战略合作框架协议签约暨大型系列节目《自然中国》启播活动今天（6月6日）举行。《自然中国》聚焦海洋强国建设、生态保护修复等成果，生动展现中国生产发展、生活富裕、生态良好的新时代文明发展道路。</p><p><strong>《高端访谈》今晚播出西门子股份公司董事会主席博乐仁独家专访</strong></p><p>今晚（6月6日），总台央视新闻频道《高端访谈》栏目将播出对西门子股份公司董事会主席博乐仁的独家专访。博乐仁表示，中国是全球最具创新力的市场之一，中国扩大高水平对外开放令外资企业备受鼓舞。节目还将在央视新闻、央视频、央视网等新媒体平台同步上线。</p></div>			
+						<div class="zebian"><i></i>
+							<span>编辑：甄涛</span>
+							<span id="zb">责任编辑：刘亮</span>
+						</div>
+						<script type="text/javascript">			
+							if ($.trim($("#content_area").html())==""){
+								$("#content").css("display","none");
+							}
+						</script>
+						<script type="text/javascript">
+							var zeditor = '刘亮';
+							if (zeditor==""){
+								$("#zb").css("display","none");
+							}
+						</script>
+						</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="XUQIU18897_pinglun">
+	<!-- 移动端评论展示 -->
+	<div class="comment">
+		<div class="md_0724 pnone" >
+			<div class="md_hd">
+				<span class="mh_title"><i>全部评论</i></span>
+			</div>
+			<div class="md_bd">
+				<div class="ind_pinlun">
+					<ul>
+					</ul>
+					<div class="loading"><div class="loadingmore"><i></i><p><a>查看更多评论</a></p><div style="clear:both;"></div></div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 评论 -->
+	<!-- 评论结束 -->
+</div>
+	<!-- 移动返回顶部 -->
+	<div id="back_to_top" class="gotop_btn"></div>
+	<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+	<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_video_h5.js?ccceedd2"></script>
+	<!--移动pc公用模块-->
+	<div class="XUQIU18897_tonglan">
+		<div class="column_wrapper_1000">
+			
+<div class="BottomPageUniversal18897_ind01" id="BottomPageUniversal18897_ind01">
+
+	<div class="swiper-container">
+		<ul class="swiper-wrapper">
+			
+<li class="swiper-slide"><a class="pctu" href="https://local.cctv.com/index.shtml" target="_blank"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2025/4/22/1745307727356_746.jpg"></a>        
+		<a class="ydtu"  href="https://local.cctv.com/index.shtml" target="_blank"><img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2025/4/22/1745307819654_677.jpg"></a> </li>
+
+<li class="swiper-slide"><a class="pctu" href="https://tv.cctv.com/ty/m/index.shtml" target="_blank"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2025/2/8/1738978021850_271.jpg"></a>        
+		<a class="ydtu"  href="https://tv.cctv.com/ty/m/index.shtml" target="_blank"><img src="//p2.img.cctvpic.com/photoAlbum/page/performance/img/2025/2/8/1738978201821_19.jpg"></a> </li>
+
+<li class="last swiper-slide"><a class="pctu" href="https://tv.cctv.com/4K/index.shtml" target="_blank"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446186257_590.jpg"></a>        
+		<a class="ydtu"  href="https://tv.cctv.com/4K/index.shtml" target="_blank"><img src="//p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446245629_789.jpg"></a> </li>
+
+			<div class="clear"></div>
+		</ul>
+	</div>
+	</div>
+			
+<div class="ELMTzjrvPFlalwRfcJImr5GH220517" data-spm="EzjrvPFlalwR" id="elemtTV" >
+<div class="md elemtRecmd">
+	 
+	  
+                <div class="md_hdc"><b></b></div>
+	<div class="md_hd">
+
+		<span class="mh_title">热播榜</span>
+		<span class="mh_option"><a href="https://tv.cctv.com/top/index.shtml" target="_blank"  class="more_btn">更多></a></span>
+	 </div>
+ 
+ 
+ <div class="md_bd">
+ 	
+ 	<div data-spm="S77892" id="SUBD1652778301877892">
+		<div class="BottomPageUniversal18897_con03" data-spm= "EodT3cYTeu7H" id="bangdan">
+	<div class="left">
+		<ul></ul>
+	
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="right">
+		<ul>
+	
+		</ul>
+	</div>
+	<div class="clear"></div>
+</div>
+  <script>
+	$.ajax({
+			url:"https://api.cntv.cn/List/getHandDataList?id=TDAT1628674905327288&serviceId=tvcctv&n=9",
+			dataType:"jsonp",
+			type:"get",
+			jsonp:"cb",
+			jsonpCallback:'t1',
+			cache:true,
+			success:function(data){
+				var datalist1=data.data.itemList;
+				
+				var lefthtml="";
+				var righthtml="";
+
+				for(var i=0;i<datalist1.length;i++){
+					if(i<3){
+						if(i==2){
+							lefthtml+='<li class="last top_'+(i+1)+'" style="display: block;"><i class="daping">TOP </i><i>'+(i+1)+'</i> <div class="image"><a href="'+datalist1[i].url+'" target="_blank"><img src="'+datalist1[i].image+'"><div class="top">TOP '+(i+1)+'</div></a></div> <div class="text"> <div class="title"><a href="'+datalist1[i].url+'" target="_blank">'+datalist1[i].title+'</a></div> <div class="brief"><a href="'+datalist1[i].url1+'" target="_blank">'+datalist1[i].brief+'</a></div> </div> </li>'
+						}else{
+							lefthtml+='<li class="top_'+(i+1)+'" style="display: block;"> <div class="image"><a href="'+datalist1[i].url+'" target="_blank"><img src="'+datalist1[i].image+'"><div class="top">TOP '+(i+1)+'</div></a></div> <div class="text"> <div class="title"><a href="'+datalist1[i].url+'" target="_blank">'+datalist1[i].title+'</a></div> <div class="brief"><a href="'+datalist1[i].url1+'" target="_blank">'+datalist1[i].brief+'</a></div> </div> </li>'
+						}
+					}else{
+						if(i==3){
+							righthtml+='<li class="first" style="display: block;"><i class="daping">TOP </i><i>'+(i+1)+'</i><a href="'+datalist1[i].url+'" target="_blank">'+datalist1[i].title+'</a></li>'
+						}else{
+							righthtml+='<li style="display: block;"><i class="daping">TOP </i><i>'+(i+1)+'</i><a href="'+datalist1[i].url+'" target="_blank">'+datalist1[i].title+'</a></li>'
+						}
+							
+						
+					}
+
+			
+				}
+				$("#bangdan .left ul").html(lefthtml);
+				$("#bangdan .right ul").html(righthtml);
+			}
+			
+	})
+	
+	
+	</script>
+	
+ 	</div>
+ 	
+ <div style="clear:both;"></div>
+ </div>
+   <div class="md_ftc"><b></b></div>
+</div>
+<div  class="hide"></div>
+</div>
+			
+<div class="ELMTMFc3wDWIgme4SnuZHUvo211115" data-spm="EMFc3wDWIgme" id="elemtTV" >
+<div class="md elemtRecmd">
+	 
+	  
+                <div class="md_hdc"><b></b></div>
+	<div class="md_hd">
+
+		<span class="mh_title">相关推荐</span>
+		
+	 </div>
+ 
+ 
+ <div class="md_bd">
+ 	
+ 	<div data-spm="S51904" id="SUBD1636936420351904">
+		<div class="BottomPageUniversal18897_con04" id="BottomPageUniversal18897_con04">
+	<div class="content">
+		<div class="left pro"></div>
+		<div class="right"></div>
+		<ul id="pagelunbo"></ul>
+		<div class="clear"></div>
+		<div class="more" style="display: none;"><a href="javascript:;">加载更多</a></div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1547776832511942/jiezi.js" type="text/javascript"></script>
+<script>
+var moreadd=0;
+var styleXg=$("#BottomPageUniversal18897_con04").parent().parent().parent().parent().attr("class");
+function listadd1(classname,index,tiaoshu){
+			var len=$("."+classname).find("li").length;
+			var zongtiaoshu=tiaoshu;
+			if(tiaoshu>=len){
+				$("."+classname).find(".more").css("display","none");
+			}else{
+				$("."+classname).find(".more").css("display","flex");
+			}
+			$("."+classname).find("li").each(function(i){
+				if(i>=tiaoshu){
+					$(this).css("display","none")
+				}else{
+					$(this).css("display","block")
+				}
+			})
+			
+			$("."+classname).find(".more").click(function(){
+				moreadd++;
+				zongtiaoshu=zongtiaoshu+index;
+				if(zongtiaoshu>=len){
+					$("."+classname).find(".more").css("display","none");
+				}else{
+					$("."+classname).find(".more").css("display","flex");
+				}
+				$("."+classname).find("li").each(function(i){
+					if(i>=zongtiaoshu){
+						$(this).css("display","none")
+					}else{
+						$(this).css("display","block")
+					}
+				})
+				if(moreadd>=2){
+					$("."+classname).find(".more").css("display","none");
+				}
+			})
+		}
+//精选下图片设置16比9
+function setPageImgfun(className){
+var columnlihwidth = $(className).width();
+var columnliheight=columnlihwidth*9/16;
+$(className).css({'height':columnliheight+'px'});
+$(className).find("a img").css({'height':columnliheight+'px'});
+}
+	function getCookie1(name) {
+			var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+			if (arr = document.cookie.match(reg)) return unescape(arr[2]);
+			else return null
+	}
+	function shuju(){
+	var guid1 = guid ;
+			var serviceId1 = "tvcctv";
+	var recordtimeing = new Date().getTime();
+			var url = '//api.cntv.cn/video/videoinfoByGuid?guid='+guid1+'&serviceId='+serviceId1+'';
+			$.ajax({
+					url: url,
+					dataType: "jsonp",
+					jsonp: "cb",
+		cache:true,
+		jsonpCallback:"aa"+guid,
+					error: function () {
+					},
+					success: function (data) {
+							{
+									sun(data.fc, data.sc,guid1,serviceId1);
+							}
+					}
+			});
+			function sun(fc,sc,guid1,serviceId1) {
+					var channel_id_a = video_ad_channel_id;
+					var utdid_a = getCookie1("cna");
+					var channel_id_a = video_ad_channel_id;
+					var album_iddd= videoalbumId;
+		var recordtimeing = new Date().getTime();
+					var url ='//api.cntv.cn/list/getPCRecommend?utdid='+encodeURIComponent(utdid_a)+'&guid='+guid1+'&type=0&channel_id='+channel_id_a+'&serviceId='+serviceId1+'&fc='+encodeURIComponent(fc)+'&sc='+encodeURIComponent(sc);
+					var html = '';
+					var rec_list = '';
+					var product="";
+		var rec_type="";
+					$.ajax({
+							url: url,
+			cache:true,
+							dataType: "jsonp",
+							jsonp: "cb",
+			jsonpCallback:"bb"+guid,
+							error: function () {
+				 $("#BottomPageUniversal18897_con04").hide();
+							},
+							success: function (data) {
+
+				if(typeof (data.errcode) !="undefined"){
+							$("#BottomPageUniversal18897_con04").hide();
+							return;
+							}
+				if(data.data.list.length == 0){
+						$("."+styleXg).hide();
+
+										 }else{
+											for (var i = 1; i <= data.data.list.length; i++)
+											{
+													if(i%2==0){
+														html+='<li style="display: block" class="odd" data="'+i+'" datatit="'+data.data.list[i-1].title+'" guid="'+data.data.list[i-1].guid+'"><div class="image"><a href="'+data.data.list[i-1].url+'" target="_blank"><img src="'+data.data.list[i-1].image+'"></a></div><div class="text"><div class="title"><a href="'+data.data.list[i-1].url+'" target="_blank">'+data.data.list[i-1].title+'</a></div></div></li>';
+													}else{
+														html+='<li style="display: block" data="'+i+'" datatit="'+data.data.list[i-1].title+'" guid="'+data.data.list[i-1].guid+'"><div class="image"><a href="'+data.data.list[i-1].url+'" target="_blank"><img src="'+data.data.list[i-1].image+'"></a></div><div class="text"><div class="title"><a href="'+data.data.list[i-1].url+'" target="_blank">'+data.data.list[i-1].title+'</a></div></div></li>';
+													}    
+											}
+											$("#pagelunbo").html(html);
+											show("BottomPageUniversal18897_con04", 0);
+											/*埋码recmd.1.1 推荐列表曝光 */
+											var abid = data.data.abId;
+											var request_id = data.data.request_id;
+											for (var j = 0; j < data.data.list.length; j++){
+												rec_list += data.data.list[j].guid + "/";
+											}
+						if(rec_list.length>0){
+							rec_list = rec_list.substring(0, rec_list.length-1);
+						}
+						
+						if($(window).width()  <= 1024){
+							product = "tvwap";
+							rec_type="0";//0为单视频推荐、1为视频集推荐
+						}else{
+							product = "pcweb";
+							rec_type;
+						}
+											if(request_id==""||request_id==undefined){
+														recordtimeing;
+													}else{
+														recordtimeing=request_id;
+													}
+												var elemtid = $("#elemtTV").attr("data-spm");
+												$(document).ready(function(){
+														var flag = true;
+														var a,b,c;
+														a = $(window).height();    //浏览器窗口高度
+														var group = $(".elemtRecmd");
+														$(window).scroll(function(){
+															
+																if (flag ==false ){
+																}else{
+																		b = $(this).scrollTop();   //页面滚动的高度
+																		c = group.offset().top;    //元素距离文档（document）顶部的高度
+									if(video_ad_channel_id == "CHAL1460955953877151"){
+										
+									}else if((a+b)>c){
+																				window.goldlog.record("/recmd.1.1", "", "snsScene=vodtpl&product="+product+"&ab_id="+abid+"&rec_type="+rec_type+"&v_id="+guid+"&rec_list="+rec_list+"&elemt_id="+elemtid+"&recordtime="+recordtimeing, "")
+																				flag = false;
+																		}else{
+																		}
+																}
+														});
+												});
+												/*埋码recmd.1.1 推荐列表曝光 end*/
+											 
+											 /*埋码recmd.1.2 推荐点击*/
+											 $(".BottomPageUniversal18897_con04 .content ul li").unbind("click");
+											 $(".BottomPageUniversal18897_con04 .content ul li").bind('click',function(){
+															var orderl = $(this).attr("data");
+															var abvn = $(this).attr("datatit");
+			var album_iddd = $(this).attr("guid");
+															//var abvid = $(this).attr("dataguid");
+															window.goldlog.record("/recmd.1.2", "", "snsScene=vodtpl&product="+product+"&ab_id="+abid+"&v_id="+guid+"&ab_v_id="+album_iddd+"&ab_v_n="+abvn+"&order="+orderl+"&elemt_id="+elemtid+"&recordtime="+recordtimeing, "")
+													})
+												/*埋码recmd.1.2 推荐点击 end*/
+						if($(window).width() <=1024){
+								$(".BottomPageUniversal18897_con04").find("ul").css("width","100%");
+								$(".BottomPageUniversal18897_con04").find("ul").css("margin-left","0");
+								$(".BottomPageUniversal18897_con04").find(".left").css("display","none");
+								$(".BottomPageUniversal18897_con04").find(".right").css("display","none");
+												var lis4=$(".BottomPageUniversal18897_con04").find("li"); 
+												if(lis4.length%2!=0){
+													$(".BottomPageUniversal18897_con04").find("li").eq(lis4.length-1).remove();
+												}
+								try{
+										listadd1("BottomPageUniversal18897_con04",4,4)				
+								}catch(e){							
+									}
+							setPageImgfun(".BottomPageUniversal18897_con04 .content ul li .image");
+							}
+					}
+
+			}
+					});
+			}
+	}
+$(window).resize(function(){
+setPageImgfun(".BottomPageUniversal18897_con04 .content ul li .image");
+})
+</script>
+<script>
+var column_idArray = ['TOPC1451528971114112','TOPC1451528792881669','TOPC1451558496100826','TOPC1451559129520755','TOPC1451558779639282','TOPC1451558428005729','TOPC1451539894330405']
+if($.inArray(column_id,column_idArray)<0){
+	$(".ELMTMFc3wDWIgme4SnuZHUvo211115").show();
+	$(".phone_all .phone_gongneng .collect").css("display","block");
+	shuju();
+}else{
+	$(".ELMTMFc3wDWIgme4SnuZHUvo211115").hide();
+	$(".phone_all .phone_gongneng .collect").css("display","block");
+}
+</script>
+ 	</div>
+ 	
+ <div style="clear:both;"></div>
+ </div>
+   <div class="md_ftc"><b></b></div>
+</div>
+<div  class="hide"></div>
+</div>
+		</div>
+		<div class="column_wrapper_1000">
+			<div class="search">
+				<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+				<div class="btn" onclick="searchForm_submit()"></div>
+			</div>
+			<script type="text/javascript">
+					var app='tvcctv';
+				function trim(str) {
+					return str.replace(/(^\s*)|(\s*$)/g, "");
+				}
+				function searchForm_submit() {
+				var str = trim(document.getElementById("textshousuo").value);
+				if(str.length > 0) {
+					window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+				} else {
+					window.open("https://search.cctv.com/index.php");
+				}
+			}
+			</script>
+		</div>
+	</div>
+	<!-- 移动页底部 -->
+	<div class="phone_footer">
+		   
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+	</div>
+	<!-- PC页底部 -->
+	<div id="page_bottom">
+	<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+	<div class="pc_footer">
+			<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+	</div>
+	</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+	if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+			$(".video_btnBar .rightBar .danmu").addClass("cur");
+			$(".video_btnBar .rightBar").show();
+	}
+
+	if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+		 $("#zanNum").remove();
+		 $(".playingCon .gongneng .dianzan").remove();
+		 $("#pinglunNum1").parent("a").remove();
+	}
+	
+	if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+		 $(".XUQIU18897_pinglun").remove();
+		 $(".XUQIU18897_fuceng").hide();
+		 $(".footer").css("cssText","border:none !important;")
+		 $(".playingCon .gongneng .share").remove();	
+	}
+
+	</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
