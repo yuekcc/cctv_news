@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路</title>
+<meta name="contentid" content="VIDECNmpJNvjV4DIEb5jfq2u260628">
+<meta name=keywords content="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路">
+<meta name=description content="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDECNmpJNvjV4DIEb5jfq2u260628";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2026/06/28/VIDECNmpJNvjV4DIEb5jfq2u260628.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路";
+var commentimg3="//p2.img.cctvpic.com/fmspic/2026/06/28/d57fbe883ad145429afa19f61eca1365-300.jpg";
+var commentimg2="//p3.img.cctvpic.com/fmspic/2026/06/28/d57fbe883ad145429afa19f61eca1365-1.jpg";
+var commentimg1="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2026/6/28/VIDEEASxGWtQTUpDHqd3gbvN260628.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2026/06/28 19:12:50';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p3.img.cctvpic.com/photoAlbum/vms/standard/img/2026/6/28/VIDEEASxGWtQTUpDHqd3gbvN260628.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "d57fbe883ad145429afa19f61eca1365";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2026-06-28 19:12</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>【伟大征程】以习近平党建思想为引领，奋力走好新时代“赶考”路。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]【伟大征程】以习近平党建思想为引领 奋力走好新时代“赶考”路</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2026年06月28日 19:12</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">【伟大征程】以习近平党建思想为引领，奋力走好新时代“赶考”路。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：治国必先治党，党兴才能国强。党的十八大以来，以习近平同志为核心的党中央站在事关强国建设和民族复兴伟业历史进程、事关党和国家前途命运、事关党长期执政和国家长治久安的战略高度，提出并实施一系列管党治党、兴党强党新理念新思想新战略，深入推进新时代党的建设新的伟大工程，团结带领全党全国各族人民踔厉奋发、勇毅前行，以中国式现代化全面推进中华民族伟大复兴。</p><p>&ldquo;十五五&rdquo;开局之年，全党开展树立和践行正确政绩观学习教育。各地区各部门落实&ldquo;立党为公、为民造福、科学决策、真抓实干&rdquo;总要求，从党性上找差距、查根源、强修养，一体推进学查改，围绕群众急难愁盼，在一件件实事中将学习教育成果转化为工作实效。</p><p>党的十八大以来，以习近平同志为核心的党中央围绕建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党的重大时代课题，提出一系列新理念新思想新战略，形成习近平党建思想。</p><p>全面建设社会主义现代化国家、全面推进中华民族伟大复兴，关键在党。党的十八大后，我们党清醒认识到，管党治党一度宽松软带来党内消极腐败现象蔓延、政治生态出现严重问题，党群干群关系受到损害，党的创造力、凝聚力、战斗力受到削弱，党治国理政面临重大考验。</p><p>中国共产党如何成功跳出治乱兴衰历史周期率、始终保持强大的生命力？</p><p>围绕关系党千秋伟业的重大问题，习近平总书记指出，中国特色社会主义最本质的特征是中国共产党领导，中国特色社会主义制度的最大优势是中国共产党领导。坚持党中央集中统一领导是最高政治原则。</p><p>打铁必须自身硬！以习近平同志为核心的党中央制定实施中央八项规定，严厉整治形式主义、官僚主义、享乐主义和奢靡之风，从改进作风破题，推进全面从严治党；把全面从严治党纳入&ldquo;四个全面&rdquo;战略布局；提出新时代党的建设总要求，以党的政治建设为统领，以坚定理想信念宗旨为根基，全面推进党的政治建设、思想建设、组织建设、作风建设、纪律建设，把制度建设贯穿其中，深入推进反腐败斗争，确保党始终成为中国特色社会主义事业的坚强领导核心。</p><p>不忘初心，方得始终。中国共产党人的初心和使命，就是为中国人民谋幸福，为中华民族谋复兴。从团结带领全国人民全面建成小康社会，到踏上全面建设社会主义现代化国家的新征程，以习近平同志为核心的党中央始终初心不改，与人民同呼吸、共命运、心连心。</p><p>党的十八大以来，在以习近平同志为核心的党中央坚强领导下，在习近平新时代中国特色社会主义思想特别是习近平党建思想科学指引下，突出全面从严治党这一鲜明主题，深入推进新时代党的建设新的伟大工程，推动党的建设取得历史性、开创性成就，党在革命性锻造中更加坚强有力。</p><p>以政治建设为统领，全党上下团结成&ldquo;一块坚硬的钢铁&rdquo;。近年来，完善坚定维护党中央权威和集中统一领导的各项制度，建立健全党对重大工作的领导体制机制，严明党的政治纪律和政治规矩。全党上下不断提高政治判断力、政治领悟力、政治执行力。</p><p>把思想建设作为党的基础性建设，以党的创新理论凝心铸魂。全党先后开展党的群众路线教育实践活动等一系列学习教育，形成了常态化、制度化、体系化的治党育人新格局。</p><p>加强组织建设，健全上下贯通、执行有力的组织体系。充分发挥基层党组织战斗堡垒作用和党员先锋模范作用，党组织的政治功能和组织功能不断转化为发展动能、治理效能。在高质量发展的主战场，越来越多的党支部建在产业链上，形成党员联合攻关团队，共同突破产业链中的难点堵点；在社区，党建引领，多元共治，共筑居民最放心、最安心的港湾；在乡村，全国15万支驻村工作队、50多万名驻村第一书记和工作队员扎根一线，把答卷写在田间地头，不断推进强村富民。</p><p>持续擦亮作风建设&ldquo;金色名片&rdquo;，推动党风政风焕然一新；坚持用严明的纪律管全党治全党，为全面从严治党提供坚强纪律保障；出台实施一大批标志性、关键性、引领性党内法规，实现了落实党的领导有制可循、从严管党治党有规可依；坚决打好反腐败斗争攻坚战、持久战、总体战，成功走出一条在党中央集中统一领导下，标本兼治、一体推进不敢腐不能腐不想腐的中国特色反腐败之路。</p><p>一百零五载光辉历程，波澜壮阔；一百零五载永葆初心，历久弥坚。</p><p>站在新的历史起点上，中国共产党必将以统一的思想、坚定的意志、协调的行动、强大的战斗力，深入推进新时代党的建设新的伟大工程，紧密团结全党全国各族人民，意气风发，奋力走好新时代&ldquo;赶考&rdquo;路，向着全面建设社会主义现代化国家阔步迈进！</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+ <style type="text/css">
+	 /*2025.11.13新增备案号样式修改*/
+		  .footer19629 p{font-size: 0.22rem;}
+		  .footer19629 p span{ padding: 0 0.08rem;}
+		  .footer19629 p span:first-child{padding-left: 0;}
+		  .footer19629 p span:last-child{padding-right: 0;}
+</style>
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span><a href="https://beian.miit.gov.cn/" target="_blank" style="color: rgb(255, 255, 255);">京ICP备10003349号-1</a></span><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
