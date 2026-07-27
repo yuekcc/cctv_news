@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]【新思想引领新征程】创新驱动 激发更强发展新动能</title>
+<meta name="contentid" content="VIDEdKnDy62nfh0OuWysJkl8260726">
+<meta name=keywords content="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能">
+<meta name=description content="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]【新思想引领新征程】创新驱动 激发更强发展新动能"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEdKnDy62nfh0OuWysJkl8260726";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2026/07/26/VIDEdKnDy62nfh0OuWysJkl8260726.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能";
+var commentimg3="//p3.img.cctvpic.com/fmspic/2026/07/26/adfc0b77078f40a4bc3e23b0622bd520-300.jpg";
+var commentimg2="//p3.img.cctvpic.com/fmspic/2026/07/26/adfc0b77078f40a4bc3e23b0622bd520-1.jpg";
+var commentimg1="//p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/26/VIDEm13rixODANYHUo4uLiXf260726.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2026/07/26 19:08:56';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/26/VIDEm13rixODANYHUo4uLiXf260726.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "adfc0b77078f40a4bc3e23b0622bd520";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "[视频]【新思想引领新征程】创新驱动 激发更强发展新动能";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]【新思想引领新征程】创新驱动 激发更强发展新动能</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2026-07-26 19:08</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="[视频]【新思想引领新征程】创新驱动 激发更强发展新动能";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>【新思想引领新征程】创新驱动，激发更强发展新动能。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]【新思想引领新征程】创新驱动 激发更强发展新动能</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2026年07月26日 19:08</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">【新思想引领新征程】创新驱动，激发更强发展新动能。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：习近平总书记指出，要以新发展理念引领发展，加快培育新动能，促进经济结构优化升级。今年上半年，创新驱动的新动能加速集聚壮大，产业结构不断优化，有力推动中国经济向新而行，向优跃升。</p><p>七月盛夏，原本是国际航空货运淡季。但在深圳宝安机场，一架架货机满载AI固态硬盘、精密芯片、光模块等高附加值产品，密集飞往全球各地。</p><p>这是中国创新持续&ldquo;圈粉&rdquo;全球的缩影。今年上半年，我国平均每天生产集成电路超过15亿块，整个AI产业链贡献了全部出口增量的一半左右，人工智能成了中国创造的亮丽名片。</p><p>&ldquo;要坚持创新驱动，加紧培育壮大新动能。&rdquo;这是习近平总书记在部署2026年经济工作时作出的重要指示。今年一开年，中央政治局首次集体学习就聚焦前瞻布局和发展未来产业，10天后，&ldquo;十五五&rdquo;开局之年首次考察，总书记来到北京亦庄察看人工智能、机器人等创新成果展示，强调要强化科技创新和产业创新深度融合。在一次次考察和座谈中，习近平总书记对如何培育新动能作出具体部署，要求各地要统筹推进传统产业改造升级、新兴产业培育壮大、未来产业布局建设。针对推动科技成果转化，习近平总书记指出，要强化企业创新主体地位，支持扩大新技术新产品新场景应用示范。</p><p>今年，支持创新的各类先进优质生产要素加速聚集。</p><p>中央财政科技支出预计首次突破4000亿元，其中基础研究预算数增长186.6%，引导金融资本投早、投小、投长期、投硬科技；全面推动科技成果赋权改革，发布首批科技型企业孵化器名单，支持科技创新和产业创新深度融合。</p><p>不久前，我国商业航天实现全球首次运载火箭网系回收，这背后，几十条产业链正在共同升级。箭体上的陶铝新材料，可以帮助火箭舱段承载能力提升16%；高精度的船舶动力定位系统，助力&ldquo;领航者&rdquo;号精准回收；卫星搭载的星载芯片、高精度传感器，推动高端电子信息产品不断涌现。</p><p>以商业航天为代表，今年，战略性新兴产业正逐渐成为拉动新动能的重要支柱。在这张相关专利授权量的变化图上，我们看到，今年的增速越来越快，进入六月份，首次超过了30%，一系列创新成果正加速转化为现实生产力。&nbsp;</p><p>新动能不仅&ldquo;长&rdquo;在新产业里，也在传统产业的升级里。</p><p>眼前这些面料，不是来源于传统的石化原料，而是玉米秸秆、废弃纺织衣物等。与此同时，生产过程中，厂区光伏自发自用、废水循环回用，让全链条都实现了零碳闭环。上半年，化纤行业里像这样的生物基材料，和石油加工里的生物质燃料等加工制造的增长速度都达到了20%以上，远超行业本身。不仅如此，今年，全球新增了39家&ldquo;灯塔工厂&rdquo;，中国占据24家，其中超半数来自纺织、家电、集装箱制造等传统产业。</p><p>上半年，未来产业也在前瞻布局、加速成长，持续积蓄新动能。</p><p>量子精密检测设备走进锂电、半导体生产线，数小时的检测工序压缩至几分钟。今年，&ldquo;量子科技&rdquo;这个实验室里的前沿技术，已经开始逐渐走向实际应用，上半年融资规模同比翻了近三倍；不仅如此，具身智能赛道230余家企业推出400多款人形机器人整机，全年产量有望突破10万台；6G已形成300余项关键技术储备。</p><p>在传统产业、新兴产业、未来产业联动发展、相得益彰的带动下，今年上半年，新动能对经济增长贡献率超过了四成。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：杨书杰</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+ <style type="text/css">
+	 /*2025.11.13新增备案号样式修改*/
+		  .footer19629 p{font-size: 0.22rem;}
+		  .footer19629 p span{ padding: 0 0.08rem;}
+		  .footer19629 p span:first-child{padding-left: 0;}
+		  .footer19629 p span:last-child{padding-right: 0;}
+</style>
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span><a href="https://beian.miit.gov.cn/" target="_blank" style="color: rgb(255, 255, 255);">京ICP备10003349号-1</a></span><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
