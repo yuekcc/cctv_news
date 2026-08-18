@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话</title>
+<meta name="contentid" content="VIDEfqhYuocGB9YbQVQEie70260817">
+<meta name=keywords content="纪念江泽民同志诞辰100周年大会">
+<meta name=description content="中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志的丰功伟绩，深入学习江泽民同志的崇高风范，激励全党全国各族人民把中国特色社会主义事业不断推向前进。">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志的丰功伟绩，深入学习江泽民同志的崇高风范，激励全党全国各族人民把中国特色社会主义事业不断推向前进。" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEfqhYuocGB9YbQVQEie70260817";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2026/08/17/VIDEfqhYuocGB9YbQVQEie70260817.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志的丰功伟绩，深入学习江泽民同志的崇高风范，激励全党全国各族人民把中国特色社会主义事业不断推向前进。";
+var commentimg3="//p4.img.cctvpic.com/fmspic/2026/08/17/107365cd21214283acd557c34b0d11e4-300.jpg";
+var commentimg2="//p2.img.cctvpic.com/fmspic/2026/08/17/107365cd21214283acd557c34b0d11e4-1.jpg";
+var commentimg1="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2026/8/17/VIDEyfuJcWUvUn2eV8BlCRU9260817.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2026/08/17 19:17:51';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p1.img.cctvpic.com/photoAlbum/vms/standard/img/2026/8/17/VIDEyfuJcWUvUn2eV8BlCRU9260817.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "107365cd21214283acd557c34b0d11e4";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "纪念江泽民同志诞辰100周年大会";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2026-08-17 19:17</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="纪念江泽民同志诞辰100周年大会";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2026年08月17日 19:17</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志的丰功伟绩，深入学习江泽民同志的崇高风范，激励全党全国各族人民把中国特色社会主义事业不断推向前进。</p><p>中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，国家副主席韩正出席大会。</p><p>人民大会堂大礼堂气氛庄严肃穆。主席台上方悬挂着&ldquo;纪念江泽民同志诞辰100周年大会&rdquo;的会标，后幕正中是江泽民同志的巨幅图像，下方是&ldquo;1926－2026&rdquo;字标。二楼眺台悬挂着标语：&ldquo;紧密团结在以习近平同志为核心的党中央周围，高举中国特色社会主义伟大旗帜，坚持党的基本理论、基本路线、基本方略，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗！&rdquo;</p><p>上午10时，大会在雄壮的国歌声中开始。</p><p>习近平发表重要讲话。他指出，江泽民同志的一生，是光辉的一生、战斗的一生，他为争取民族独立、人民解放和实现国家富强、人民幸福鞠躬尽瘁、奋斗终身。他领导推动社会主义物质文明、政治文明、精神文明建设和党的建设取得举世瞩目的新进展，为捍卫中国特色社会主义伟大事业、开创全面改革开放新局面、实现人民生活总体小康、成功把中国特色社会主义推向二十一世纪作出了不可磨灭的贡献，赢得了全党全军全国各族人民衷心爱戴和国际社会广泛赞誉。</p><p>习近平强调，在70多年的革命生涯中，特别是在党的十三届四中全会之后推动党和国家事业取得巨大成就的伟大实践中，江泽民同志充分展示了作为马克思主义政治家的雄才大略、关键作用、领导艺术，树立了永远值得我们学习、永远激励我们前进的崇高风范。</p><p>习近平指出，江泽民同志对共产主义理想坚贞不渝，对党和人民无限忠诚，矢志不移为党和人民事业而奋斗。我们要学习他坚定如磐的政治信仰，不忘初心、牢记使命，坚定对马克思主义的信仰、对共产主义的信念、对中国特色社会主义的信心，坚持党的基本理论、基本路线、基本方略，自觉增强&ldquo;四个意识&rdquo;、坚定&ldquo;四个自信&rdquo;、做到&ldquo;两个维护&rdquo;。要坚持党的全面领导和党中央集中统一领导，持之以恒推进全面从严治党，确保党始终成为中国特色社会主义事业的坚强领导核心。</p><p>习近平强调，江泽民同志始终站在人民立场，关心人民群众安危冷暖，从最广大人民根本利益出发部署和推动工作。我们要学习他真挚深厚的为民情怀，牢记江山就是人民、人民就是江山，坚持以人民为中心的发展思想，树立和践行正确政绩观，站稳人民立场，强化公仆意识，走好新时代党的群众路线，依靠人民创造历史伟业，推动人的全面发展、全体人民共同富裕迈出坚实步伐。</p><p>习近平指出，江泽民同志坚持解放思想、实事求是、与时俱进，顺应时代发展要求和实践发展需要，不断推进理论创新、制度创新、科技创新、文化创新以及其他各方面创新。我们要学习他与时俱进的创新精神，坚持把马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合，不断开辟马克思主义中国化时代化新境界。要进一步全面深化改革开放，推进国家治理体系和治理能力现代化，激发全党全社会创造活力，为经济社会发展注入源源不断的动力。</p><p>习近平强调，江泽民同志目光远大、审时度势，善于从中国和世界发展大势、从党和国家工作全局出发观察和思考问题，以一系列面向世界、着眼未来的重大决策、重要举措推动党和国家事业发展。我们要学习他深谋远虑的战略思维，统筹中华民族伟大复兴战略全局和世界百年未有之大变局，统揽伟大斗争、伟大工程、伟大事业、伟大梦想，统筹推进&ldquo;五位一体&rdquo;总体布局、协调推进&ldquo;四个全面&rdquo;战略布局，完整准确全面贯彻新发展理念，加快构建新发展格局，扎实推动高质量发展。要推动落实全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议，推动构建人类命运共同体，为世界和平与发展注入更多正能量。</p><p>习近平指出，江泽民同志勇于在重大历史关头和关键时刻果断决策，沉着应对风险挑战，坚决克服艰难险阻，为现代化建设开辟广阔空间、营造良好环境。我们要学习他坚毅果敢的非凡胆略，强化忧患意识，树立底线思维，更好统筹发展和安全，以顽强的斗争精神、高超的斗争本领积极应对风高浪急甚至惊涛骇浪的重大考验，坚决捍卫国家主权、安全、发展利益，续写经济快速发展和社会长期稳定两大奇迹新篇章。</p><p>习近平强调，经过长期努力，党和国家事业兴旺发达，神州大地安定祥和，人民生活持续改善，实现中华民族伟大复兴前景光明，几代人矢志奋斗的梦想正在一步步成为现实。全党全军全国各族人民要更加紧密地团结在党中央周围，高举中国特色社会主义伟大旗帜，坚定信心、奋发图强，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗，不断创造中国人民更加美好的生活，书写中华民族更加壮丽的华章！</p><p>李强在主持大会时指出，习近平总书记的重要讲话，回顾了江泽民同志光辉战斗的一生，高度评价了江泽民同志为党和人民建立的不朽功勋，系统概括了江泽民同志的崇高风范，强调要认真学习江泽民同志坚定如磐的政治信仰、真挚深厚的为民情怀、与时俱进的创新精神、深谋远虑的战略思维、坚毅果敢的非凡胆略。讲话具有很强的政治性、思想性、指导性，我们要深入学习领会、抓好贯彻落实，更加紧密地团结在以习近平同志为核心的党中央周围，坚持以习近平新时代中国特色社会主义思想为指导，深刻领悟&ldquo;两个确立&rdquo;的决定性意义，增强&ldquo;四个意识&rdquo;、坚定&ldquo;四个自信&rdquo;、做到&ldquo;两个维护&rdquo;，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。</p><p>大会在庄严的《国际歌》声中结束。</p><p>出席大会的还有：王毅、尹力、石泰峰、刘国中、李干杰、李书磊、李鸿忠、何立峰、张国清、陈文清、温家宝、贾庆林、张德江、俞正声、栗战书、汪洋、李岚清、曾庆红、李长春、贺国强、刘云山、王岐山、张高丽，中共中央书记处、全国人大常委会、国务院、最高人民法院、最高人民检察院、全国政协、中央军委领导同志和从领导职务上退下来的同志。</p><p>中央党政军群各部门和北京市主要负责同志，各民主党派中央、全国工商联负责人和无党派人士代表，在京中央委员、候补中央委员，在京全国人大常委会委员、全国政协常委，老干部、老同志代表，江泽民同志亲属、原身边工作人员和家乡代表，江泽民生平和思想研讨会参会代表，首都各界群众代表，驻京部队官兵代表等约6000人参加大会。</p><p>大会开始前，习近平等领导同志亲切接见了江泽民同志亲属，并同他们合影留念。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘洁</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+ <style type="text/css">
+	 /*2025.11.13新增备案号样式修改*/
+		  .footer19629 p{font-size: 0.22rem;}
+		  .footer19629 p span{ padding: 0 0.08rem;}
+		  .footer19629 p span:first-child{padding-left: 0;}
+		  .footer19629 p span:last-child{padding-right: 0;}
+</style>
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span><a href="https://beian.miit.gov.cn/" target="_blank" style="color: rgb(255, 255, 255);">京ICP备10003349号-1</a></span><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
