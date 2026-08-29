@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimun-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<title>[视频]习近平在吉尔吉斯斯坦媒体发表署名文章</title>
+<meta name="contentid" content="VIDEUoH1VJpa2iaTBf5FL0XO260828">
+<meta name=keywords content="习近平 吉尔吉斯斯坦媒体 发表 署名文章">
+<meta name=description content="习近平在吉尔吉斯斯坦媒体发表署名文章">
+<meta name="spm-id" content="C52056131267">
+<meta property="og:title" content="[视频]习近平在吉尔吉斯斯坦媒体发表署名文章" />
+<meta property="og:image" content="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<meta property="og:description" content="习近平在吉尔吉斯斯坦媒体发表署名文章" /> 
+<link rel="apple-touch-icon-precomposed" href="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg" />
+<script language="Javascript">
+var url_domainname=location.href;
+var num_1= url_domainname.split("//")[1];
+var domainame_ = num_1.split("/")[0]
+var type_ = num_1.split(".")[0]
+var commentTitle = "[视频]习近平在吉尔吉斯斯坦媒体发表署名文章"; /*评论标题*/
+/* 评论对象ID 20位以内的字符串 每个被评论对象不同 */
+var itemid1="VIDEUoH1VJpa2iaTBf5FL0XO260828";/*正文页id，赋值给留言评论模块的参数之一*/
+var commentUrl = "https://tv.cctv.com/2026/08/28/VIDEUoH1VJpa2iaTBf5FL0XO260828.shtml";
+var column_id = "TOPC1451528971114112";/*专题id*/
+var sub_column_id = "PAGE4y8I53JvSWE8DlRSMlbu160121";/*页面id*/
+var domainname = domainame_;
+var chnl_domain = domainame_;
+var video_ad_primary_column_id = sub_column_id;	
+var video_ad_channel_id="CHAL1450952056131267";
+var sobey_video_flag = '1';
+var type=type_;
+var pindao_1 = "CHAL1450952056131267";
+var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+var new_str = times_str.replace(/ /g,'-');
+var arr = new_str.split("-");
+var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+var timeint=datum.getTime()/1000;
+var html;
+var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);
+var commentbreif="习近平在吉尔吉斯斯坦媒体发表署名文章";
+var commentimg3="//p4.img.cctvpic.com/fmspic/2026/08/28/e40ae67773004970b73fb93e6e7db0a5-300.jpg";
+var commentimg2="//p1.img.cctvpic.com/fmspic/2026/08/28/e40ae67773004970b73fb93e6e7db0a5-1.jpg";
+var commentimg1="//p4.img.cctvpic.com/fmspic/2026/08/28/e40ae67773004970b73fb93e6e7db0a5-180.jpg";
+var commentimg0="https:"+"//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg";
+var commentimg=commentimg3;
+if(commentimg3==""){
+	commentimg=commentimg2;
+}
+if(commentimg2==""){
+	commentimg=commentimg1;
+}
+if(commentimg1==""){
+	commentimg=commentimg0;
+}
+if(commentimg.split("//")[0] == '' || commentimg.split("//")[0] == 'http:'){
+	commentimg = "https://"+commentimg.split("//")[1];
+}
+window.shareObj={};
+shareObj.shareUrl = window.location.href;
+shareObj.shareTitle = commentTitle;
+shareObj.pic = commentimg;
+shareObj.summary =commentbreif;
+var hdprop='';
+var fdate='2026/08/28 19:19:27';
+</script>
+
+
+<script language="Javascript">flvImgUrl="//p4.img.cctvpic.com/fmspic/2026/08/28/e40ae67773004970b73fb93e6e7db0a5-180.jpg";
+</script>
+
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_dan_style.css">
+<link rel="stylesheet" href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew_style_t.css">
+<script type="text/javascript" src="//r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1486437585241505/configtool.js"></script>
+<script type="text/javascript">
+var isMobile=judgeisMobile();
+</script>
+<script>
+if($(window).width()  <= 1024){
+var obj = new publicRemPageTool();
+obj.showProper(750,true);
+}
+</script>
+</head>
+
+<body data-spm="P4y8I53JvSWE">
+
+<!-- 登录框 -->
+<script src="//www.cctv.com/newcctv/containingPages/2019whitetop/index.js"></script>
+<script src="//www.cctv.com/newcctv/2019bar/2019dlbhyjs/index.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tv.cctv.com/common/pc_nav/index.js" id="choseNavBgColor" navBgColor="black"></script>
+<!-- 登录框结束 -->
+<div id="page_body">
+<div class="allcontent">
+ 
+<div class="head_18313" data-spm= "Ee2r73C6WU6h">
+	
+		<div class="cctvlogo"><a href="http://tv.cctv.com/"></a></div> 
+		<div class="twopage"><a style="color: #FFFFFF;" target="_blank" href="//tv.cctv.com/lm/index.shtml" id="xiaodaohangH5">节目官网</a></div> 
+		<div class="headmenu"><a href="//tv.cctv.com/cctvnav/m/index.shtml"></a></div>
+		<a href="//tv.cctv.com/search/m/index.shtml"><div class="search"></div></a>
+
+	<div class="clear"></div>
+</div>
+<div class="video18847">
+	<div class="playingVideo">
+		<div class="video">
+			<div class="video_left" id="video">
+				<div class="flash" id="_video">
+				</div>
+		<!-- 视频开始 -->
+			
+			<script type="text/javascript">
+				var channelId = domainame_;//频道id
+				var adcalldomain = domainame_;//广告
+				var sorts = "1";//广告
+				var sysSource = channelId; //视频来源	
+				var guid = "e40ae67773004970b73fb93e6e7db0a5";
+				var barrageApp="cms_sports";
+				var hasBarrage="false";
+				var  danmu_status=0;
+				if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+					hasBarrage="true";
+					danmu_status=1;
+				}
+			</script>
+		<script type="text/javascript">
+		var videokeyWord = "习近平 吉尔吉斯斯坦媒体 发表 署名文章";//关键字
+		var video_CHANNEL ="PAGE4y8I53JvSWE8DlRSMlbu160121";//主分类id
+		var guid_Ad_VideoCode = guid;
+		</script>
+		<!--<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>-->
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/swfobject.js"></script>
+		<script type="text/javascript" src="//js.player.cntv.cn/creator/vodplayer.js"></script>
+		<script src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/ptjszx_player.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1636592527650783/cctvnew.videcreat_dan.js" type="text/javascript" charset="utf-8"></script>
+			<!-- 弹幕条 -->
+			<script src="//www.cctv.com/newcctv/2019bar/danmutjs/index.js" type="text/javascript" charset="utf-8"></script>
+		
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<div class="tit">[视频]习近平在吉尔吉斯斯坦媒体发表署名文章</div>
+		
+	</div>
+	<div class="playingCon">
+		
+		<div class="gongneng">
+			<span class="laiyuan">来源 : 央视网</span>
+			<span class="time">2026-08-28 19:19</span>
+			<span class="nrjianjie"><i>内容简介<b></b></i></span>
+			<span class="biaoqian" id="biaoqian"></span>
+			<!--<span class="dianzan"></span>-->
+			<script type="text/javascript">
+				/*var keyword="习近平 吉尔吉斯斯坦媒体 发表 署名文章";
+				function kword(keyword,jiequ){
+					$("#biaoqian").html("");
+					var reg = new RegExp("　","g");
+					var tagArrayBak = keyword.replace(reg," ");
+					if (jiequ==" "){
+						keyword = tagArrayBak.split(" ");
+					}else{
+						keyword = tagArrayBak.split(",");
+					}
+					var str="";
+					if(keyword.length<3){
+						var len=keyword.length
+					}else{
+						var len=3;
+					}
+					for(var n=0;n<len;n++){
+						if(keyword[n]!=""){
+								str+='<a target="_blank" href="https://search.cctv.com/search.php?qtext='+keyword[n]+'">'+keyword[n]+'<b></b><em></em></a>';
+						}
+					}
+					$("#biaoqian").html(str);
+				}
+                kword(keyword," ");*/
+			</script>
+		</div>
+		<div class="nrjianjie_shadow" style="display: none;">
+			<div class="con">
+				<ul>
+					<li>
+						<div class="tit">视频简介</div>
+						<p>习近平在吉尔吉斯斯坦媒体发表署名文章。</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="phone_all">
+		
+		<div class="phone_title">
+			<div class="ph_title_l">[视频]习近平在吉尔吉斯斯坦媒体发表署名文章</div>
+			<div class="ph_title_r">简介</div>
+		</div>
+		
+		
+		<div class="phone_content">
+			<div class="laiyuan">来源：央视网    更新时间：2026年08月28日 19:19</div>
+			<ul>
+				<li>
+					<div class="video_title">视频简介</div>
+					<div class="video_brief">习近平在吉尔吉斯斯坦媒体发表署名文章。</div>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="phone_gongneng">
+			<!--<span class="like" id="zanNum"></span>-->
+			<span class="collect"></span>
+			<span class="share"></span>
+		</div>
+		<div class="phone_share nativeShare" id="nativeShare"><a class="qq"></a><a class="kongjian"></a><a class="weibo"></a><a class="weixin"></a></div>
+	</div>
+</div>
+<div class="title18847"><!-- 移动端 -->
+	<div class="title_con">
+		
+				<div id="content">
+					<div class="contit"><span>主要内容<b></b><i></i></span></div>
+				<div class="content_area" id="content_area"><p><strong>央视网消息</strong>（新闻联播）：8月28日，在赴比什凯克对吉尔吉斯斯坦进行国事访问并出席2026年上海合作组织峰会前夕，国家主席习近平在《吉尔吉斯斯坦言论报》、&ldquo;卡巴尔&rdquo;国家通讯社发表题为《携手开创中吉关系高质量发展新局面》的署名文章。文章全文如下：</p><p>时维孟秋，天朗气清。在这个收获的时节，应扎帕罗夫总统邀请，我即将对吉尔吉斯斯坦进行国事访问，并出席上海合作组织成员国元首理事会第二十六次会议。这是我第三次踏上这片美丽的土地，我期待同扎帕罗夫总统一道擘画中吉关系发展新蓝图，推动上海合作组织命运共同体建设迈上新台阶。</p><p>今年是吉尔吉斯斯坦独立35周年。我代表中国政府和人民，向友好的吉尔吉斯斯坦人民致以诚挚祝贺和美好祝福。中国为友好邻邦保持政治稳定、经济发展、社会和谐由衷感到高兴。</p><p>中国和吉尔吉斯斯坦是唇齿相依的好邻居、命运与共的好伙伴、相互成就的好朋友。两国交往历史源远流长，古丝绸之路见证了两国人民世代友好，张骞、玄奘、李白等历史名人促进中吉文明交融的佳话至今在两国广为传颂。</p><p>建交以来，中吉两国始终秉持相互尊重、睦邻友好、互学互鉴、互利共赢理念，不断增进互信、深化合作。双边关系历经国际风云变幻考验，实现从睦邻友好到战略伙伴、再到新时代全面战略伙伴的历史性跨跃，不断焕发新的生机活力。</p><p>2025年2月，我同扎帕罗夫总统就进一步深化中吉新时代全面战略伙伴关系，推动构建睦邻友好、共享繁荣的中吉命运共同体达成重要共识，开启双边关系新篇章。</p><p>&mdash;&mdash;我们以信相交，坚定相互支持。双方始终坚定支持彼此维护国家主权、独立和领土完整，坚定支持对方为实现国家发展所采取的政策举措，成为邻国睦邻友好、相互成就的典范。去年，我同扎帕罗夫总统3次会晤，建立了高度互信的工作关系和个人友谊，共同引领双边关系不断向前发展。</p><p>&mdash;&mdash;我们以利相融，切实造福于民。中吉两国经济优势互补，合作潜力巨大。在世界经济增长乏力背景下，双方经贸合作保持稳中有进发展态势，中国连续多年是吉尔吉斯斯坦最大贸易伙伴和最大外资来源国。中国手机、电动车成为吉尔吉斯斯坦民众的时尚之选，越来越多吉尔吉斯斯坦优质农产品走进中国千家万户。双方共同实施一系列利长远、惠民生的合作项目，有力提升当地民众生活水平。中吉乌铁路吉尔吉斯斯坦境内段建设全面推进，别迭里口岸实现临时性通车，两国直航航班数量不断增多，立体多元的互联互通网络日趋完善。</p><p>&mdash;&mdash;我们以心相通，持续交流互鉴。近年来，中方在吉设立1所鲁班工坊、4所孔子学院和21个孔子课堂，为当地民众学习汉语和专业技能创造便利条件。中方实施&ldquo;健康快车光明行&rdquo;项目，建立中医药中心，让更多吉尔吉斯斯坦民众从两国医疗卫生合作中受益。双方还签署互设文化中心协定，互办文化日、电影节、艺术节，携手保护和传承《玛纳斯》等世界非物质文化遗产，使两国民众可以近距离感受对方国家文化魅力。两国人员往来去年突破40万人次，30对友好省州市交往密切，中吉世代友好的根基愈发坚实。</p><p>&mdash;&mdash;我们以义相守，共迎风险挑战。中吉两国山水相连、安危与共，是地区安全稳定的坚定维护者。作为上海合作组织创始成员国和全球南方国家，两国在维护国际公平正义、推动开放包容发展方面立场相近。面对变乱交织的国际和地区形势，双方在多边框架内密切协作，积极支持彼此提出的重大倡议，共同推进平等有序的世界多极化、普惠包容的经济全球化。</p><p>今年是中国共产党成立105周年，也是中国&ldquo;十五五&rdquo;开局之年。中国人民正在中国共产党坚强领导下，坚定信心、接续奋斗，朝着全面建成社会主义现代化强国、实现中华民族伟大复兴的宏伟目标勇毅前行。吉方正在深入实施&ldquo;2030年前国家发展纲要&rdquo;，全力推进&ldquo;新吉尔吉斯斯坦&rdquo;建设。站在新的历史起点上，双方要扎实推进中吉命运共同体建设，更好造福两国人民，为本地区乃至世界和平、稳定、繁荣作出更大贡献。</p><p>&mdash;&mdash;巩固睦邻友好。亲望亲好，邻望邻好。中吉两国要始终做彼此发展的支撑，保持高层交往和各层次合作良好势头，加强发展战略对接，深化治国理政经验交流，为共同发展振兴提供坚实保障。中方愿继续为吉尔吉斯斯坦经济发展和民生改善提供力所能及的帮助。</p><p>&mdash;&mdash;坚持互利共赢。这是合作可持续发展的关键。要着眼长远，以高质量共建&ldquo;一带一路&rdquo;为主线，推动务实合作不断提质升级。要巩固经贸投资、互联互通、绿色矿产等传统合作，拓展数字经济、清洁能源、人工智能等新兴领域合作。推进中吉乌铁路建设，加快口岸现代化升级改造，同步提升&ldquo;硬联通&rdquo;和&ldquo;软联通&rdquo;水平，实现人畅其行、物畅其流。</p><p>&mdash;&mdash;赓续传统友谊。中吉传统友谊是两国共同的宝贵财富。要深化两国文化、旅游、艺术、媒体、智库、青年、考古、卫生等交流合作，全面拉紧人文纽带。鼓励更多青年学子赴对方国家留学深造，支持地方交流走深走实。讲好中吉友好交往和互利合作故事，持续筑牢民心相通根基。</p><p>&mdash;&mdash;践行多边主义。吉尔吉斯斯坦历史性当选联合国安理会非常任理事国可喜可贺。要以此为契机，深化两国在联合国框架内协作，坚定维护以联合国为核心的国际体系和以国际法为基础的国际秩序，践行人类命运共同体理念，落实四大全球倡议，旗帜鲜明反对霸权主义、单边主义和阵营对抗，合力打击&ldquo;三股势力&rdquo;，推动构建更加公正合理的全球治理体系。</p><p>上海合作组织成立25年来，培育和践行互信、互利、平等、协商、尊重多样文明、谋求共同发展的&ldquo;上海精神&rdquo;，探索出毗邻国家结伴而不结盟、共守安全稳定、共促发展繁荣的新型区域合作模式，成为世界上幅员最广、人口最多、发展潜力巨大的综合性区域合作组织。吉尔吉斯斯坦接任上合组织轮值主席国以来，秉持&ldquo;携手迈向可持续和平、发展与繁荣&rdquo;主题，在凝聚成员国共识、促进务实合作等方面做了大量卓有成效的工作，中方对此高度评价。相信在各方共同努力下，这次峰会一定会圆满成功，为各方进一步传承和发扬&ldquo;上海精神&rdquo;、推动构建上海合作组织命运共同体注入新动力。</p><p>吉尔吉斯斯坦有句谚语：&ldquo;滴水汇成湖。&rdquo;中国古语也讲：&ldquo;不积小流，无以成江海。&rdquo;中方愿继续同吉方一道努力，一步一个脚印推进各领域合作，将两国人民友好的涓涓溪流汇聚成中吉友好的大河，携手开创两国关系高质量发展新局面。</p></div>
+				<div class="zebian"><i></i>
+					<span>编辑：刘珊</span>
+					<span id="zb">责任编辑：刘亮</span>
+				</div>
+				<script type="text/javascript">
+					if ($.trim($("#content_area").html())==""){
+						$(".title18847").css("display","none");
+					}
+				</script>
+				<script type="text/javascript">
+					var zeditor = '刘亮';
+					if (zeditor==""){
+						$("#zb").css("display","none");
+					}
+				</script>
+				</div>
+		
+	</div>
+</div>
+</div>
+<!-- 移动返回顶部 -->
+<div id="back_to_top" class="gotop_btn"></div>
+<div id="back_to_home" class="gohome"><a href="http://www.cctv.com"></a></div>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_video_h5.js"></script>
+<!--移动pc公用模块-->
+<div class="XUQIU18897_tonglan">
+<div class="column_wrapper_1000">
+	<div class="search">
+		<input type="text" placeholder="请输入你想搜索的关键词" id="textshousuo">
+		<div class="btn" onclick="searchForm_submit()"></div>
+	</div>
+	<script type="text/javascript">
+		var app='tvcctv';
+		function trim(str) {
+			return str.replace(/(^\s*)|(\s*$)/g, "");
+		}
+		function searchForm_submit() {
+		var str = trim(document.getElementById("textshousuo").value);
+		if(str.length > 0) {
+			window.open("https://search.cctv.com/search.php?channel=CCTV节目官网&qtext="+str,"_self");
+		} else {
+			window.open("https://search.cctv.com/index.php");
+		}
+	}
+	</script>
+</div>
+</div>
+<!-- 移动页底部 -->
+<div class="phone_footer">
+
+ <style type="text/css">
+	 /*2025.11.13新增备案号样式修改*/
+		  .footer19629 p{font-size: 0.22rem;}
+		  .footer19629 p span{ padding: 0 0.08rem;}
+		  .footer19629 p span:first-child{padding-left: 0;}
+		  .footer19629 p span:last-child{padding-right: 0;}
+</style>
+<div class="footer19629 ELMTXsup49ICjZ5WZ9ttbaZd210816" data-spm= "EXsup49ICjZ5">
+    <div class="link">
+    	
+      <a href="//m.cctv.com/">央视网首页</a>
+|
+      <a href="https://tv.cctv.com/m/">央视节目官网首页</a>
+
+    </div>
+    <p><span><a href="https://beian.miit.gov.cn/" target="_blank" style="color: rgb(255, 255, 255);">京ICP备10003349号-1</a></span><span>中央广播电视总台</span><span>央视网</span><span>版权所有</span></p>
+</div>
+</div>
+<!-- PC页底部 -->
+<div id="page_bottom">
+<!-- 全网统一通用页尾new --> 
+<script src="//www.cctv.com/newcctv/containingPages/mapjs/index.js"></script>
+<div class="pc_footer">
+<script src="//www.cctv.com/newcctv/containingPages/bottomjs/index.js"></script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(hdprop.length> 0 && eval("("+hdprop+")").allow_barrage==1){
+	$(".video_btnBar .rightBar .danmu").addClass("cur");
+	$(".video_btnBar .rightBar").show();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_praise==0){
+	$("#zanNum").remove();
+	$(".playingCon .gongneng .dianzan").remove();
+	$("#pinglunNum1").parent("a").remove();
+}
+if(hdprop.length>0&&eval("("+hdprop+")").allow_comment==0){
+	$(".XUQIU18897_pinglun").remove();
+	$(".XUQIU18897_fuceng").hide();
+	$(".footer").css("cssText","border:none !important;");
+	$(".playingCon .gongneng .share").remove();
+}
+</script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/echo.min.js"></script>
+<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565254619482142/nativeShareXY.js"></script>
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_pl_20220301.js"></script>
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1652254338266745/cctvnew_danvideo_index.js"></script>
+</body>
+</html>
